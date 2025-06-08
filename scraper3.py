@@ -3,6 +3,7 @@ import csv
 import time
 import json
 import random
+import re
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -126,6 +127,10 @@ class LinkedInMarkdownScraper:
             # Get page source and parse with BeautifulSoup
             soup = BeautifulSoup(self.driver.page_source, 'html.parser')
             
+            # Extract user name for filename
+            user_name = self.extract_user_name(soup)
+            timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+            
             # Find the profile content div
             profile_content_div = soup.find('div', {'class': 'extended tetris pv-profile-body-wrapper', 'id': 'profile-content'})
             
@@ -134,30 +139,34 @@ class LinkedInMarkdownScraper:
                 raw_html = str(profile_content_div)
                 markdown_content = convert_to_markdown(raw_html)
                 
+                # Clean up excessive empty lines and whitespace
+                cleaned_markdown = self.clean_markdown(markdown_content)
+                
                 print(f"\n{'='*80}")
-                print(f"MARKDOWN PROFILE CONTENT FOR: {profile_url}")
+                print(f"MARKDOWN PROFILE CONTENT FOR: {user_name or 'Unknown User'}")
+                print(f"Profile URL: {profile_url}")
                 print(f"{'='*80}")
-                print(markdown_content)
+                print(cleaned_markdown)
                 print(f"{'='*80}")
-                print(f"END OF MARKDOWN CONTENT FOR: {profile_url}")
+                print(f"END OF MARKDOWN CONTENT FOR: {user_name or 'Unknown User'}")
                 print(f"{'='*80}\n")
                 
                 # Save markdown to file
-                timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-                filename = f"profile_markdown_{timestamp}.md"
+                filename = self.create_safe_filename(user_name, timestamp)
                 
                 with open(filename, 'w', encoding='utf-8') as f:
-                    f.write(f"# LinkedIn Profile\n\n")
+                    f.write(f"# LinkedIn Profile: {user_name or 'Unknown User'}\n\n")
                     f.write(f"**Profile URL:** {profile_url}\n\n")
                     f.write(f"**Scraped at:** {datetime.now().isoformat()}\n\n")
                     f.write(f"---\n\n")
-                    f.write(markdown_content)
+                    f.write(cleaned_markdown)
                 
                 self.logger.info(f"Markdown content saved to: {filename}")
                 
                 return {
                     'url': profile_url,
-                    'markdown_content': markdown_content,
+                    'user_name': user_name,
+                    'markdown_content': cleaned_markdown,
                     'scraped_at': datetime.now().isoformat(),
                     'filename': filename
                 }
@@ -169,31 +178,35 @@ class LinkedInMarkdownScraper:
                 full_page_html = str(soup)
                 markdown_content = convert_to_markdown(full_page_html)
                 
+                # Clean up excessive empty lines and whitespace
+                cleaned_markdown = self.clean_markdown(markdown_content)
+                
                 print(f"\n{'='*80}")
-                print(f"FULL PAGE MARKDOWN FOR: {profile_url}")
+                print(f"FULL PAGE MARKDOWN FOR: {user_name or 'Unknown User'}")
+                print(f"Profile URL: {profile_url}")
                 print(f"(Profile content div not found - using full page)")
                 print(f"{'='*80}")
-                print(markdown_content[:2000])  # Show first 2000 chars to avoid overwhelming output
+                print(cleaned_markdown[:2000])  # Show first 2000 chars to avoid overwhelming output
                 print(f"\n... [Content truncated for display] ...")
                 print(f"{'='*80}\n")
                 
                 # Save full page markdown to file
-                timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-                filename = f"profile_fullpage_markdown_{timestamp}.md"
+                filename = self.create_safe_filename(user_name, timestamp, "fullpage")
                 
                 with open(filename, 'w', encoding='utf-8') as f:
-                    f.write(f"# LinkedIn Profile (Full Page)\n\n")
+                    f.write(f"# LinkedIn Profile (Full Page): {user_name or 'Unknown User'}\n\n")
                     f.write(f"**Profile URL:** {profile_url}\n\n")
                     f.write(f"**Scraped at:** {datetime.now().isoformat()}\n\n")
                     f.write(f"**Note:** Profile content div not found, using full page content\n\n")
                     f.write(f"---\n\n")
-                    f.write(markdown_content)
+                    f.write(cleaned_markdown)
                 
                 self.logger.info(f"Full page markdown content saved to: {filename}")
                 
                 return {
                     'url': profile_url,
-                    'markdown_content': markdown_content,
+                    'user_name': user_name,
+                    'markdown_content': cleaned_markdown,
                     'scraped_at': datetime.now().isoformat(),
                     'filename': filename,
                     'note': 'Used full page content - profile div not found'
@@ -258,10 +271,78 @@ class LinkedInMarkdownScraper:
             if self.driver:
                 self.driver.quit()
 
+    def clean_markdown(self, markdown_content):
+        """Clean up excessive empty lines and whitespace in markdown content"""
+        # Remove excessive empty lines (more than 2 consecutive empty lines)
+        cleaned_content = re.sub(r'\n\s*\n\s*\n+', '\n\n', markdown_content)
+        
+        # Remove trailing whitespace from each line
+        lines = cleaned_content.split('\n')
+        cleaned_lines = [line.rstrip() for line in lines]
+        
+        # Join lines back together
+        cleaned_content = '\n'.join(cleaned_lines)
+        
+        # Remove excessive spaces within lines (more than 2 consecutive spaces)
+        cleaned_content = re.sub(r' {3,}', '  ', cleaned_content)
+        
+        # Clean up beginning and end of content
+        cleaned_content = cleaned_content.strip()
+        
+        return cleaned_content
+    
+    def extract_user_name(self, soup):
+        """Extract the user's name from the LinkedIn profile"""
+        try:
+            # Try multiple selectors to find the name
+            name_selectors = [
+                'h1.text-heading-xlarge',
+                'h1[class*="heading-xlarge"]',
+                'h1.top-card-layout__title',
+                '.pv-text-details__left-panel h1',
+                '.ph5 h1',
+                'h1'
+            ]
+            
+            for selector in name_selectors:
+                name_element = soup.select_one(selector)
+                if name_element:
+                    name = name_element.get_text(strip=True)
+                    if name and len(name) > 1:  # Basic validation
+                        # Clean the name for filename use
+                        clean_name = re.sub(r'[^\w\s-]', '', name)  # Remove special chars except spaces and hyphens
+                        clean_name = re.sub(r'\s+', '_', clean_name)  # Replace spaces with underscores
+                        clean_name = clean_name.strip('_')  # Remove leading/trailing underscores
+                        return clean_name
+            
+            # If no name found, return None
+            return None
+            
+        except Exception as e:
+            self.logger.warning(f"Error extracting user name: {str(e)}")
+            return None
+    
+    def create_safe_filename(self, name, timestamp, file_type="markdown"):
+        """Create a safe filename using the user's name and timestamp"""
+        if name:
+            # Limit name length to avoid filesystem issues
+            safe_name = name[:50] if len(name) > 50 else name
+            if file_type == "markdown":
+                return f"{safe_name}_{timestamp}.md"
+            elif file_type == "fullpage":
+                return f"{safe_name}_fullpage_{timestamp}.md"
+        else:
+            # Fallback to timestamp-only naming
+            if file_type == "markdown":
+                return f"profile_markdown_{timestamp}.md"
+            elif file_type == "fullpage":
+                return f"profile_fullpage_markdown_{timestamp}.md"
+
 def main():
     """Main function to run the markdown scraper"""
     # Create sample CSV file if it doesn't exist
-    sample_csv = 'linkedin_urls.csv'
+    # sample_csv = 'linkedin_urls.csv'
+    sample_csv = 'sample_data.csv'
     if not os.path.exists(sample_csv):
         sample_data = {
             'LinkedIn': [
