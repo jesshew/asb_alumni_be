@@ -1,0 +1,27 @@
+2025-06-08 16:01:03,906 - INFO - Attempting to login to LinkedIn...
+2025-06-08 16:01:19,222 - INFO - Successfully logged in to LinkedIn
+2025-06-08 16:01:19,319 - INFO - Loaded 2 LinkedIn URLs from CSV
+2025-06-08 16:01:19,330 - INFO - Processing 1/2: https://www.linkedin.com/in/sharanjm
+2025-06-08 16:01:19,336 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 16:01:34,195 - INFO - Markdown content saved to profile_markdown_20250608_160134.md
+2025-06-08 16:01:34,195 - INFO - Completed profile 1/2
+2025-06-08 16:01:34,195 - INFO - Processing 2/2: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 16:01:34,196 - INFO - Waiting 10.7 seconds before next request...
+2025-06-08 16:01:44,959 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 16:01:57,887 - INFO - Markdown content saved to profile_markdown_20250608_160157.md
+2025-06-08 16:01:57,902 - INFO - Completed profile 2/2
+2025-06-08 16:01:57,905 - INFO - Scraping completed! Processed 2 profiles
+2025-06-08 16:05:19,652 - INFO - Attempting to login to LinkedIn...
+2025-06-08 16:05:32,827 - INFO - Successfully logged in to LinkedIn
+2025-06-08 16:05:32,986 - INFO - Loaded 2 LinkedIn URLs from CSV
+2025-06-08 16:05:32,987 - INFO - Processing 1/2: https://www.linkedin.com/in/sharanjm
+2025-06-08 16:05:32,987 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 16:05:51,073 - INFO - Markdown content saved to: profile_markdown_20250608_160551.md
+2025-06-08 16:05:51,075 - INFO - Completed 1/2 profiles
+2025-06-08 16:05:51,075 - INFO - Processing 2/2: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 16:05:51,075 - INFO - Waiting 11.6 seconds before next request...
+2025-06-08 16:06:02,671 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 16:06:17,556 - INFO - Markdown content saved to: profile_markdown_20250608_160617.md
+2025-06-08 16:06:17,556 - INFO - Completed 2/2 profiles
+2025-06-08 16:06:17,557 - INFO - Scraping completed! Summary saved to scraping_summary_20250608_160617.json
+2025-06-08 16:06:17,557 - INFO - Total profiles processed: 2
