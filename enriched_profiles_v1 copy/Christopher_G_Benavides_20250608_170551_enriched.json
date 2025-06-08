@@ -1,0 +1,237 @@
+{
+  "original_profile": {
+    "First": "Christopher",
+    "Preferred": "G.",
+    "Last": "Benavides",
+    "Gender": null,
+    "GraduatedYear": 2018,
+    "Intake": null,
+    "Program": "MBA",
+    "GraduationAwards": [],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/christophergbenavides/",
+    "Education": [
+      {
+        "SchoolName": "Yale School of Management",
+        "Degree": "Master of Advanced Management - MAM with Distinction",
+        "FieldOfStudy": "Finance",
+        "StartYear": null,
+        "EndYear": null,
+        "ActivitiesAndSocieties": "",
+        "Achievements": []
+      },
+      {
+        "SchoolName": "Asia School of Business",
+        "Degree": "MBA",
+        "FieldOfStudy": null,
+        "StartYear": null,
+        "EndYear": 2018,
+        "ActivitiesAndSocieties": "",
+        "Achievements": []
+      },
+      {
+        "SchoolName": "Florida State University",
+        "Degree": "Bachelor of Science (B.Sc.)",
+        "FieldOfStudy": null,
+        "StartYear": null,
+        "EndYear": null,
+        "ActivitiesAndSocieties": "",
+        "Achievements": []
+      },
+      {
+        "SchoolName": "Yale School of Engineering & Applied Science",
+        "Degree": null,
+        "FieldOfStudy": "Department of Computer Science",
+        "StartYear": null,
+        "EndYear": null,
+        "ActivitiesAndSocieties": "Cross-Registered during MAM",
+        "Achievements": []
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "Principal/Business Architecture Manager, North America | Workforce Management (WFM) Practice",
+        "Company": "Accenture",
+        "CompanyWebsite": null,
+        "StartDate": "Jun 2024",
+        "EndDate": "Present",
+        "Duration": "1 yr 1 mo",
+        "Location": "Tampa, Florida, United States · Hybrid",
+        "Description": "My responsibilities include delivering cutting-edge workforce management technology solutions and optimizing architectural strategies to enhance our clients operational systems and processes. My role specifically involves driving operational and IT strategies, managing implementations, providing advanced-level Operational Excellence and WFM expertise, and leading complex projects to successful completion. By leveraging best practices and innovative technologies, I aim to maximize the value of our clients' investments and drive operational excellence."
+      },
+      {
+        "Title": "Founder, Product Manager & Software Engineer",
+        "Company": "Domain-Content Validator (DCV) Chrome Extension",
+        "CompanyWebsite": null,
+        "StartDate": "Oct 2023",
+        "EndDate": "Present",
+        "Duration": "1 yr 9 mos",
+        "Location": "United States · Remote",
+        "Description": "The Domain-Content Validator (DCV) Chrome extension helps you verify the authenticity of emails by analyzing the correlation between the domain of the sender and the body of the email. If there's a mismatch or any suspicious patterns, DCV will alert you, reducing the risk of falling victim to scams."
+      },
+      {
+        "Title": "Founder, Product Manager & Software Engineer",
+        "Company": "Montage",
+        "CompanyWebsite": null,
+        "StartDate": "Feb 2020",
+        "EndDate": "Present",
+        "Duration": "5 yrs 5 mos",
+        "Location": null,
+        "Description": null
+      },
+      {
+        "Title": "Founder, Product Manager & Software Engineer (Industrial Engineering app)",
+        "Company": "Time & Motion Study",
+        "CompanyWebsite": null,
+        "StartDate": "Mar 2019",
+        "EndDate": "Present",
+        "Duration": "6 yrs 4 mos",
+        "Location": "Remote",
+        "Description": "Time & Motion Study is a tool built to enable industrial engineers and quality assurance teams to more readily perform time & motion studies in one comprehensive app that can not only perform the studies but also provide real-time statistical analysis of studies. Approximately ~900,000 active users globally since launch in December 2020."
+      },
+      {
+        "Title": "Sr. Project Manager, WFM Systems, Data Management & Integrations (Stores, Supply Chain & CC)",
+        "Company": "Macy's",
+        "CompanyWebsite": null,
+        "StartDate": "Aug 2023",
+        "EndDate": "Jul 2024",
+        "Duration": "1 yr",
+        "Location": "Remote",
+        "Description": "Sr. Program Manager overseeing Stores, Supply Chain and Contact Center Workforce Management (WFM) Transformation Roadmap, Systems, and Integrations, where I spearheaded the advancement to the latest cloud-based Enterprise Workforce Management (WFM) Technology Stack"
+      },
+      {
+        "Title": "Sr. Product Manager, Workforce Management Systems, Data Management & Integrations (Stores)",
+        "Company": "Macy's",
+        "CompanyWebsite": null,
+        "StartDate": "Mar 2022",
+        "EndDate": "Aug 2023",
+        "Duration": "1 yr 6 mos",
+        "Location": null,
+        "Description": "Sr. Product Manager overseeing Stores Workforce Management (WFM) Systems and Integrations, spearheading the advancement of the latest cloud-based Enterprise Workforce Management Technology Stack across Macy’s & Bloomingdale’s retail stores, contact centers, and supply chain operations."
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Christopher Benavides",
+      "graduation_year": 2018,
+      "program": "MBA",
+      "linkedin_url": "https://www.linkedin.com/in/christophergbenavides/"
+    },
+    "current_company": {
+      "name": "Accenture",
+      "industry_category": "Consulting",
+      "company_type": "Public",
+      "company_stage": "Enterprise",
+      "job_title": "Principal/Business Architecture Manager, North America | Workforce Management (WFM) Practice",
+      "location": "Tampa, Florida, United States · Hybrid",
+      "start_date": "Jun 2024",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "Accenture",
+        "title": "Principal/Business Architecture Manager, North America | Workforce Management (WFM) Practice",
+        "duration": "1 yr 1 mo",
+        "industry_category": "Consulting",
+        "company_type": "Public",
+        "seniority_level": "Senior"
+      },
+      {
+        "company": "Domain-Content Validator (DCV) Chrome Extension",
+        "title": "Founder, Product Manager & Software Engineer",
+        "duration": "1 yr 9 mos",
+        "industry_category": "Technology",
+        "company_type": "Startup",
+        "seniority_level": "Executive"
+      },
+      {
+        "company": "Montage",
+        "title": "Founder, Product Manager & Software Engineer",
+        "duration": "5 yrs 5 mos",
+        "industry_category": "Technology",
+        "company_type": "Startup",
+        "seniority_level": "Executive"
+      },
+      {
+        "company": "Time & Motion Study",
+        "title": "Founder, Product Manager & Software Engineer (Industrial Engineering app)",
+        "duration": "6 yrs 4 mos",
+        "industry_category": "Technology",
+        "company_type": "Startup",
+        "seniority_level": "Executive"
+      },
+      {
+        "company": "Macy's",
+        "title": "Sr. Project Manager, WFM Systems, Data Management & Integrations (Stores, Supply Chain & CC)",
+        "duration": "1 yr",
+        "industry_category": "Retail",
+        "company_type": "Public",
+        "seniority_level": "Senior"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "Yale School of Management",
+        "degree": "Master of Advanced Management",
+        "field_of_study": "Management",
+        "graduation_year": null,
+        "school_tier": "Top Tier"
+      },
+      {
+        "school": "Asia School of Business",
+        "degree": "MBA",
+        "field_of_study": "Business Administration",
+        "graduation_year": 2018,
+        "school_tier": "Mid Tier"
+      },
+      {
+        "school": "Florida State University",
+        "degree": "Bachelor of Science",
+        "field_of_study": null,
+        "graduation_year": null,
+        "school_tier": "Mid Tier"
+      },
+      {
+        "school": "Yale School of Engineering & Applied Science",
+        "degree": null,
+        "field_of_study": "Computer Science",
+        "graduation_year": null,
+        "school_tier": "Top Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Technology",
+      "current_seniority_level": "Senior",
+      "key_expertise": [
+        "Workforce Management",
+        "Product Management",
+        "Software Engineering",
+        "Business Architecture",
+        "Project Management"
+      ],
+      "years_experience_estimate": "10+ years",
+      "career_trajectory": {
+        "career_path": "Entrepreneurial to Corporate Leadership",
+        "recent_transitions": "Return to corporate setting in a leadership role",
+        "growth_pattern": "Demonstrates consistent growth with experience in both startups and large organizations",
+        "potential_next_roles": [
+          "Director",
+          "Senior Principal",
+          "VP"
+        ]
+      },
+      "industry_transitions": [
+        "Technology to Retail",
+        "Retail to Consulting"
+      ],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "1. **Company Type and Size:** Accenture is a **large multinational enterprise**. It's a publicly traded company with hundreds of thousands of employees globally.\n\n2. **Main Industry and Business Focus:** Accenture's primary industry is **Information Technology (IT)**.  Its business focus revolves around providing consulting and processing services across a broad range of industries, leveraging technology to help clients improve efficiency, effectiveness, and competitiveness.\n\n3. **Key Business Areas and Services:**  Accenture operates through five key business groups:\n    * **Accenture Strategy & Consulting:**  Provides strategic advisory services, business architecture, operating model design, technology consulting, and human capital & change management.\n    * **Accenture Song:**  Focuses on creative, marketing, content, and commerce services.  This group was formed from the acquisition of various creative agencies.\n    * **Accenture Technology:**  Delivers technology services including cloud, software engineering, artificial intelligence, data & analytics, cybersecurity, and infrastructure.\n    * **Accenture Operations:**  Manages and optimizes business processes for clients, including finance & accounting, supply chain & operations, marketing operations, and sales operations.\n    * **Accenture Cloud First:**  Accelerates cloud migration and modernization, providing cloud-native development, infrastructure management, and security services.\n\n4. **Company Stage:** Accenture is in the **mature/enterprise** stage.  It's a well-established, global leader in its industry with a long history and proven track record.\n\n5. **Industry Category (Standardized):**  Information Technology Consulting and Services; IT Services and IT Consulting; Business Consulting and Services; Professional Services.  Using Global Industry Classification Standard (GICS), Accenture falls under **IT Consulting & Other Services**.\n\n6. **Brief Company Description:** Accenture is a global professional services company that provides a broad range of services and solutions in strategy and consulting, interactive, technology, and operations.  Leveraging technology, Accenture helps clients across various industries improve their performance and create sustainable value for their stakeholders. It's known for its expertise in digital transformation, cloud computing, and other emerging technologies.",
+    "search_query": "Accenture company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:23:05.576565",
+  "enrichment_version": "v2.0"
+}

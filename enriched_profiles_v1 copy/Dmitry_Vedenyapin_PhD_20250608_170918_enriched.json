@@ -1,0 +1,213 @@
+{
+  "original_profile": {
+    "First": "Dmitry",
+    "Preferred": null,
+    "Last": "Vedenyapin",
+    "Gender": null,
+    "GraduatedYear": 2018,
+    "Intake": null,
+    "Program": "MBA",
+    "GraduationAwards": [],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/dmitryvedenyapin/",
+    "Education": [
+      {
+        "SchoolName": "Y Combinator",
+        "Degree": "Startup Founder",
+        "FieldOfStudy": null,
+        "StartYear": 2022,
+        "EndYear": 2022,
+        "ActivitiesAndSocieties": "W22 batch",
+        "Achievements": []
+      },
+      {
+        "SchoolName": "MIT Sloan School of Management",
+        "Degree": "MBA Spring Immersion",
+        "FieldOfStudy": "Business Administration and Management, General",
+        "StartYear": 2016,
+        "EndYear": 2017,
+        "ActivitiesAndSocieties": "MIT Sloan Alumni 2017",
+        "Achievements": []
+      },
+      {
+        "SchoolName": "Asia School of Business",
+        "Degree": "MBA",
+        "FieldOfStudy": null,
+        "StartYear": null,
+        "EndYear": 2018,
+        "ActivitiesAndSocieties": null,
+        "Achievements": []
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "CTO & Founder",
+        "Company": "Peakflo (YC W22)",
+        "CompanyWebsite": null,
+        "StartDate": "Jan 2021",
+        "EndDate": "Present",
+        "Duration": "4 yrs 6 mos",
+        "Location": "Singapore",
+        "Description": "Empowering South East Asian businesses to achieve peak cashflows!"
+      },
+      {
+        "Title": "Mentor",
+        "Company": "GrowthMentor",
+        "CompanyWebsite": null,
+        "StartDate": "May 2020",
+        "EndDate": "Present",
+        "Duration": "5 yrs 2 mos",
+        "Location": null,
+        "Description": null
+      },
+      {
+        "Title": "Founder in residence",
+        "Company": "Entrepreneur First",
+        "CompanyWebsite": null,
+        "StartDate": "Jul 2020",
+        "EndDate": "Oct 2020",
+        "Duration": "4 mos",
+        "Location": "Singapore",
+        "Description": null
+      },
+      {
+        "Title": "Head Of Technology",
+        "Company": "AirAsia",
+        "CompanyWebsite": null,
+        "StartDate": "Dec 2018",
+        "EndDate": "Jul 2020",
+        "Duration": "1 yr 8 mos",
+        "Location": "Singapore",
+        "Description": "• Led Loyalty, Membership, OMS (Order management system), Activities, Deals and Messenger engineering teams.\n• Launched a platform in a month with 13k concurrent users.\n• Transformed line of business in product-centric, customer-focused organisation which resulted in 60% YoY revenue growth in 2019 by pioneering multiple high-impact products and effectively communicating with C-level stakeholders.\n• Managed a team of 30 across three countries: individual contributors, team leads and managers; managed the Tech department budget in ’19."
+      },
+      {
+        "Title": "Chief Technology Officer",
+        "Company": "Alluma",
+        "CompanyWebsite": null,
+        "StartDate": "2017",
+        "EndDate": "Nov 2018",
+        "Duration": "1 yr 11 mos",
+        "Location": "Singapore",
+        "Description": "• Built an international team of 14 engineers and product managers across multiple countries from scratch.\n• Successfully launched high-load scalable web and mobile fintech product in less than 5 months using blockchain technology, leading engineering and product teams.\n• Pioneered the software engineering and security processes; introduced best practices: Agile, SSDLC and OWASP.\n• Delivered integration with payment gateways, KYC providers, analytical software and CRM systems."
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Dmitry Vedenyapin",
+      "graduation_year": 2018,
+      "program": "MBA",
+      "linkedin_url": "https://www.linkedin.com/in/dmitryvedenyapin/"
+    },
+    "current_company": {
+      "name": "Peakflo (YC W22)",
+      "industry_category": "Financial Services",
+      "company_type": "Startup",
+      "company_stage": "Startup",
+      "job_title": "CTO & Founder",
+      "location": "Singapore",
+      "start_date": "Jan 2021",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "Peakflo (YC W22)",
+        "title": "CTO & Founder",
+        "duration": "4 yrs 6 mos",
+        "industry_category": "Financial Services",
+        "company_type": "Startup",
+        "seniority_level": "C-Level"
+      },
+      {
+        "company": "GrowthMentor",
+        "title": "Mentor",
+        "duration": "5 yrs 2 mos",
+        "industry_category": "Technology",
+        "company_type": "Startup",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "Entrepreneur First",
+        "title": "Founder in residence",
+        "duration": "4 mos",
+        "industry_category": "Venture Capital/Private Equity",
+        "company_type": "Startup",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "AirAsia",
+        "title": "Head Of Technology",
+        "duration": "1 yr 8 mos",
+        "industry_category": "Travel/Hospitality",
+        "company_type": "Enterprise",
+        "seniority_level": "Executive"
+      },
+      {
+        "company": "Alluma",
+        "title": "Chief Technology Officer",
+        "duration": "1 yr 11 mos",
+        "industry_category": "Technology",
+        "company_type": "Startup",
+        "seniority_level": "C-Level"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "Y Combinator",
+        "degree": "Startup Founder",
+        "field_of_study": "Entrepreneurship",
+        "graduation_year": null,
+        "school_tier": "Top Tier"
+      },
+      {
+        "school": "MIT Sloan School of Management",
+        "degree": "MBA Spring Immersion in Business Administration and Management, General",
+        "field_of_study": "Business Administration and Management, General",
+        "graduation_year": null,
+        "school_tier": "Top Tier"
+      },
+      {
+        "school": "Asia School of Business",
+        "degree": "MBA",
+        "field_of_study": "Business Administration and Management",
+        "graduation_year": 2018,
+        "school_tier": "Mid Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Technology",
+      "current_seniority_level": "C-Level",
+      "key_expertise": [
+        "Technology",
+        "Fintech",
+        "Leadership",
+        "Mentorship",
+        "Startups"
+      ],
+      "years_experience_estimate": "8+",
+      "career_trajectory": {
+        "career_path": "Technology Management & Entrepreneurship",
+        "recent_transitions": "From CTO to Founder",
+        "growth_pattern": "Rapid growth with increasing leadership responsibilities",
+        "potential_next_roles": [
+          "Serial Entrepreneur",
+          "CEO",
+          "Board Member",
+          "Angel Investor"
+        ]
+      },
+      "industry_transitions": [
+        "Travel/Hospitality",
+        "Venture Capital/Private Equity",
+        "Financial Services"
+      ],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "Peakflo (YC W22) is a **startup** specializing in **accounts payable (AP) automation** for businesses.  While precise employee count is not publicly available, their participation in Y Combinator's Winter 2022 batch and subsequent fundraising suggests a small to medium-sized startup.\n\n**1. Company Type and Size:** Startup (likely small to medium-sized).\n\n**2. Main Industry and Business Focus:**  Financial technology (Fintech) with a focus on B2B SaaS solutions for accounts payable automation.\n\n**3. Key Business Areas and Services:**\n\n* **AP Automation:**  Peakflo streamlines the entire accounts payable process, from invoice processing and approvals to payments and reconciliation.\n* **Integration with Accounting Software:**  The platform integrates with popular accounting software like Xero and QuickBooks.\n* **Multi-Currency Support:**  Handles payments in multiple currencies, simplifying international transactions.\n* **Payment Optimization:** Offers various payment methods to optimize cost and efficiency.\n* **Reporting and Analytics:**  Provides real-time visibility into AP data and spending patterns.\n\n**4. Company Stage:** Growth stage (post-seed/Series A).  Having graduated from Y Combinator and secured subsequent funding, they've moved beyond the initial seed stage and are actively scaling their operations.\n\n**5. Industry Category (Standardized):**\n* Software as a Service (SaaS)\n* Fintech\n* Accounts Payable Automation\n* Business Process Automation (BPA)\n\n**6. Brief Company Description:**\n\nPeakflo is a Singapore-based fintech startup offering a cloud-based platform to automate accounts payable processes for businesses.  Their solution helps companies streamline invoice processing, approvals, payments, and reconciliation, while providing real-time visibility into AP data.  Integrated with popular accounting software and supporting multiple currencies, Peakflo aims to improve efficiency and reduce costs associated with traditional AP workflows.  They are a Y Combinator Winter 2022 alumni and are currently in a growth stage.",
+    "search_query": "Peakflo (YC W22) company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:24:19.643597",
+  "enrichment_version": "v2.0"
+}

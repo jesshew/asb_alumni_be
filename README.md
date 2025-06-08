@@ -2,6 +2,64 @@
 
 A FastAPI-based REST API server for managing ASB alumni data with comprehensive CRUD operations.
 
+## Core Functional Requirements
+
+### 1. Automated Data Ingestion
+
+- **Input:** `sample_data.csv` — List of LinkedIn profile URLs.
+- **Scraper:** `scraper3.py` uses Selenium + BeautifulSoup to scrape profile HTML.
+- **Preprocessing:** Converts HTML to markdown for LLM readability.
+- **LLM Cleaning:** `llm_cleaning.py` sends markdown to Gemini LLM to extract structured fields (name, grad year, program, education, experiences, etc.) and applies smart ordering (latest first).
+- **Validation:** LLM prompt enforces structure and checks for completeness. Profiles missing key data are flagged for review.
+- **Output:** Cleaned data saved as individual JSON files in `cleaned_profiles/`.
+
+### 2. Alumni Data Backend
+
+- **Format:** Each alumni record is a standalone JSON file (see `/cleaned_profiles/`), e.g., [Addis_Olujohungbe_20250608_170352.json](cleaned_profiles/Addis_Olujohungbe_20250608_170352.json).
+- **Fields:** Standardized keys — personal info, LinkedIn, education (descending order), experience (descending order), image, awards, etc.
+- **Extensible:** Schema supports enrichment (see below).
+
+### 3. Data Enrichment & Integration
+
+- **Enrichment:** `enrich_linkedin_data.py` uses LLMs and real-time Google Search to:
+  - Add company website, industry classification, size, maturity.
+  - Infer company geography for geo-insights.
+  - Standardize industry/sector fields for robust querying.
+- **Integration:** Output JSONs are ready for import into dashboards, search platforms, or further pipeline stages. (Mock data used in the frontend for demonstration; backend outputs are real and production-ready.)
+
+### 4. Agentic Functionality
+
+- **Automation:** Code supports periodic scheduled runs (e.g., via cron or workflow orchestrator).
+- **Review Prompts:** Profiles with missing or low-confidence data are flagged for manual review.
+- **Refresh:** Supports re-scraping and re-enrichment for up-to-date profiles.
+
+### 5. GenAI Application
+
+- **LLM Usage:** Gemini API is used for:
+  - Parsing unstructured LinkedIn data to structured JSON.
+  - Enriching job/company information via search + classification.
+  - Standardizing data for analytics/visualization.
+- **Prompt Location:** See [`llm_cleaning.py`](llm_cleaning.py) for the cleaning prompt and validation logic.
+- **Human Labor Reduction:** LLM pipeline automates data transformation, minimizing manual intervention.
+
+---
+
+## Demonstration
+
+- **Automated pipeline:** Ingests and cleans 15 sample alumni profiles end-to-end.
+- **Validation:** Ensures each record contains required fields; flags incomplete data.
+- **Searchability:** Structured and enriched data supports advanced queries (e.g., by industry, country, graduation year).
+- **Analytics-ready:** Profiles can be visualized or aggregated for dashboards (industry/country distributions, etc.).
+
+---
+
+## Deliverables Summary
+
+- **All PRD requirements met:** See [PRD section 4](#product-requirements-document-prd).
+- **Full pipeline delivered:** Scraping → LLM cleaning → enrichment → validation → structured output.
+- **Technical documentation:** See code comments in [`scraper3.py`](scraper3.py), [`llm_cleaning.py`](llm_cleaning.py), and [`enrich_linkedin_data.py`](enrich_linkedin_data.py).
+
+
 ## Features
 
 - **Alumni Management**: Complete CRUD operations for alumni records

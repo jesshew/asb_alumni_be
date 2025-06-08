@@ -1,0 +1,194 @@
+{
+  "original_profile": {
+    "First": "Sharan",
+    "Preferred": null,
+    "Last": "JM",
+    "Gender": null,
+    "GraduatedYear": 2022,
+    "Intake": null,
+    "Program": "Master's degree, General Management, Technological Innovation & Entrepreneurship",
+    "GraduationAwards": [],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/sharanjm",
+    "Education": [
+      {
+        "SchoolName": "MIT Sloan School of Management",
+        "Degree": "Master's degree",
+        "FieldOfStudy": "General Management, Technological Innovation & Entrepreneurship",
+        "StartYear": null,
+        "EndYear": 2022,
+        "ActivitiesAndSocieties": "Class of 2022",
+        "Achievements": []
+      },
+      {
+        "SchoolName": "MIT Sloan School of Management",
+        "Degree": "MBA",
+        "FieldOfStudy": "Spring Module, Global Program",
+        "StartYear": 2017,
+        "EndYear": 2017,
+        "ActivitiesAndSocieties": "Pricing, Strategy, Corporate Finance, Platform Strategy, System Dynamics, Entrepreneurship",
+        "Achievements": []
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "Co-Founder & CPO",
+        "Company": "lumif.ai",
+        "CompanyWebsite": null,
+        "StartDate": "2025-01",
+        "EndDate": "Present",
+        "Duration": "6 mos",
+        "Location": "Dubai, United Arab Emirates · Remote",
+        "Description": null
+      },
+      {
+        "Title": "Investor",
+        "Company": "Merry",
+        "CompanyWebsite": null,
+        "StartDate": "Feb 2023",
+        "EndDate": "Present",
+        "Duration": "2 yrs 5 mos",
+        "Location": "Bengaluru, Karnataka, India · Remote",
+        "Description": null
+      },
+      {
+        "Title": "Head of Product",
+        "Company": "ROSHN l روشن",
+        "CompanyWebsite": null,
+        "StartDate": "Feb 2024",
+        "EndDate": "2025",
+        "Duration": "1 yr",
+        "Location": "On-site",
+        "Description": "A PIF Company building 400,000 homes\n\nAt Roshn, I am instrumental in setting up and scaling the product management function, laying down product management practices, and hiring and mentoring a team of 5 talented Product Managers. I’m driving a shift towards a data-driven and AI-first product vision, leveraging advanced ML and generative AI to radically rethink how we approach the home-buying experience.\n\n- Digitized the home-buying journey, significantly reducing the average closing time from over 14 days to just 1 days.\n- Developing personalization capabilities using a Customer 360 view, delivering customized recommendations\n- Spearheading a project to rethink the Sales Advisor app using generative AI, transforming how sales advisors interact with leads, manage preferences by leveraging LLMs\n- Introduced a home customization program, giving homeowners flexibility in add-ons with significant incremental revenue opportunities.\n- Working on Launching an AI-powered interior design tool, partnering with top furniture providers, that would improve both customer satisfaction and revenue."
+      },
+      {
+        "Title": "Co-Founder",
+        "Company": "Stealth",
+        "CompanyWebsite": null,
+        "StartDate": "Nov 2023",
+        "EndDate": "Mar 2024",
+        "Duration": "5 mos",
+        "Location": "Austin, Texas Metropolitan Area",
+        "Description": "Start-up Leadership, Start-up Ventures and +2 skills"
+      },
+      {
+        "Title": "Product Management, Technical (Amazon Ads - Causal ML focused Research Science Team)",
+        "Company": "Amazon",
+        "CompanyWebsite": null,
+        "StartDate": "May 2022",
+        "EndDate": "Nov 2023",
+        "Duration": "1 yr 7 mos",
+        "Location": "Seattle, Washington, United States",
+        "Description": "In my role at Amazon's Advertisement Science Team, I led Machine Learning initiatives that enabled more intelligent, data-driven decisions across Amazon's ad ecosystem. By collaborating with economists, data scientists, and engineering teams, I launched and scaled 7 different machine learning models and metrics that optimized both shopper experience and advertising effectiveness, driving strategic value through advanced ML applications.\n\n- Led the launch and adoption of a Reinforcement Learning-based ML model that predicts long-term impacts of new products and features using only 4-5 weeks of experimental data, significantly reducing the time to actionable insights.\n- Developed a causal inference ML model to analyze the impact of ads on shopper engagement and Amazon’s financial metrics, empowering senior leadership with insights reviewed quarterly to refine ad strategy.\n- Launched a holistic Shopper Experience Value metric that integrates multiple factors into a composite score, helping product teams make data-driven trade-offs in feature development.\n- Introduced an Ads Impact Persona model, leveraging ML to optimize ad density and relevance for specific customer personas, achieving a substantial revenue boost in key markets.\n- Enhanced Marketing Measurement by incorporating ad revenue attribution, utilizing advanced ML models to improve accuracy in measuring the cross-channel impact of marketing campaigns."
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Sharan JM",
+      "graduation_year": 2022,
+      "program": "Master's degree, General Management, Technological Innovation & Entrepreneurship",
+      "linkedin_url": "https://www.linkedin.com/in/sharanjm"
+    },
+    "current_company": {
+      "name": "lumif.ai",
+      "industry_category": "Technology",
+      "company_type": "Startup",
+      "company_stage": "Startup",
+      "job_title": "Co-Founder & CPO",
+      "location": "Dubai, United Arab Emirates · Remote",
+      "start_date": "2025-01",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "lumif.ai",
+        "title": "Co-Founder & CPO",
+        "duration": "6 mos",
+        "industry_category": "Technology",
+        "company_type": "Startup",
+        "seniority_level": "C-Level"
+      },
+      {
+        "company": "Merry",
+        "title": "Investor",
+        "duration": "2 yrs 5 mos",
+        "industry_category": "Finance",
+        "company_type": "Startup",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "ROSHN l روشن",
+        "title": "Head of Product",
+        "duration": "1 yr",
+        "industry_category": "Real Estate",
+        "company_type": "Enterprise",
+        "seniority_level": "Senior"
+      },
+      {
+        "company": "Stealth",
+        "title": "Co-Founder",
+        "duration": "5 mos",
+        "industry_category": "Unknown",
+        "company_type": "Startup",
+        "seniority_level": "C-Level"
+      },
+      {
+        "company": "Amazon",
+        "title": "Product Management, Technical (Amazon Ads - Causal ML focused Research Science Team)",
+        "duration": "1 yr 7 mos",
+        "industry_category": "Technology",
+        "company_type": "Enterprise",
+        "seniority_level": "Mid"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "MIT Sloan School of Management",
+        "degree": "Master's degree",
+        "field_of_study": "General Management, Technological Innovation & Entrepreneurship",
+        "graduation_year": 2022,
+        "school_tier": "Top Tier"
+      },
+      {
+        "school": "MIT Sloan School of Management",
+        "degree": "MBA",
+        "field_of_study": "Global Program",
+        "graduation_year": 2017,
+        "school_tier": "Top Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Technology",
+      "current_seniority_level": "C-Level",
+      "key_expertise": [
+        "Product Management",
+        "Entrepreneurship",
+        "Investment",
+        "Artificial Intelligence"
+      ],
+      "years_experience_estimate": "6+",
+      "career_trajectory": {
+        "career_path": "Product Management and Entrepreneurship",
+        "recent_transitions": "From Investor to Co-Founder",
+        "growth_pattern": "Rapid growth with entrepreneurial ventures and increasing leadership roles",
+        "potential_next_roles": [
+          "CEO",
+          "Board Member",
+          "Advisor"
+        ]
+      },
+      "industry_transitions": [
+        "Finance to Real Estate",
+        "Real Estate to Technology"
+      ],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "Lumif.ai appears to be defunct or operating in stealth mode. There's no readily available information about the company through standard web searches, social media, or business directories.  Searches using variations of the name also yield no relevant results related to an AI company.\n\nTherefore, it's impossible to provide a comprehensive analysis including the requested details.  It's likely that:\n\n* **The company has ceased operations:** Many startups fail, and their online presence is often removed.\n* **The company has rebranded:** It's possible they've changed their name and focus.\n* **The company is operating in stealth mode:**  Some companies, especially in the AI field, operate privately until they're ready for a public launch.\n* **The name is slightly misspelled:**  Double-check the spelling to ensure accuracy.\n\n\nWithout further information, any details about Lumif.ai would be purely speculative.  If you have additional context, such as a website, location, or founder names, it might be possible to find more information.",
+    "search_query": "lumif.ai company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:23:40.419897",
+  "enrichment_version": "v2.0"
+}

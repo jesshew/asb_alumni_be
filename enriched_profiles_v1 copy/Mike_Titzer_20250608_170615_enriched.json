@@ -1,0 +1,181 @@
+{
+  "original_profile": {
+    "First": "Mike",
+    "Preferred": null,
+    "Last": "Titzer",
+    "Gender": null,
+    "GraduatedYear": 2018,
+    "Intake": null,
+    "Program": "Master of Business Administration (MBA)",
+    "GraduationAwards": [],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/mike-titzer-834a0535/",
+    "Education": [
+      {
+        "SchoolName": "United States Naval Academy",
+        "Degree": "Bachelor of Science - BS",
+        "FieldOfStudy": "Mechanical Engineering",
+        "StartYear": 2004,
+        "EndYear": 2008,
+        "ActivitiesAndSocieties": null,
+        "Achievements": [
+          "Graduated with Merit, Minored in Spanish"
+        ]
+      },
+      {
+        "SchoolName": "Asia School of Business",
+        "Degree": "Master of Business Administration (MBA)",
+        "FieldOfStudy": null,
+        "StartYear": 2016,
+        "EndYear": 2018,
+        "ActivitiesAndSocieties": null,
+        "Achievements": []
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "Key Accounts Manager & Project Manager",
+        "Company": "NOLS",
+        "CompanyWebsite": null,
+        "StartDate": "2018",
+        "EndDate": "Present",
+        "Duration": "7 yrs 6 mos",
+        "Location": "Remote",
+        "Description": "• Own full client lifecycle for $1.2M+ in annual revenue across B2B and government accounts, including onboarding, implementation, contract delivery, and ongoing support.\n• Increased customer satisfaction and long-term renewals by identifying client goals, customizing delivery plans, and aligning internal teams for seamless delivery.\n• Built onboarding and account management workflows for high-touch clients; reduced churn and improved time-to-value.\n• Acted as liaison between clients and cross-functional teams (legal, finance, operations) to ensure compliance and timely delivery."
+      },
+      {
+        "Title": "Founder & Operations Lead",
+        "Company": "Braided Rivers LLC",
+        "CompanyWebsite": null,
+        "StartDate": "2022",
+        "EndDate": "Present",
+        "Duration": "3 yrs 6 mos",
+        "Location": "Remote",
+        "Description": "• Directed technical planning and vendor coordination for residential and international construction projects, overseeing budgets, schedules, and risk mitigation.\n• Managed $1M+ real estate portfolio and financial performance metrics, including cap rates, NOI, and cash flow.\n• Utilized Smartsheet and Basecamp to track tasks, manage timelines, and coordinate remote field teams.\n• Negotiated vendor contracts and oversaw quality control of deliverables and timelines."
+      },
+      {
+        "Title": "Project Manager / Technical Consultant",
+        "Company": "Self-employed",
+        "CompanyWebsite": null,
+        "StartDate": "2015",
+        "EndDate": "2018",
+        "Duration": "3 yrs",
+        "Location": "Greater Kuala Lumpur",
+        "Description": "• Delivered customer growth projects across Asia-Pacific, including onboarding and retention strategies for major clients like Johnson & Johnson and AirAsia.\n• Spearheaded the operational and customer engagement setup of a new athletic center in Cambodia, increasing annual revenue by $200K.\n• Led research and implementation of CX and go-to-market strategies, contributing to a 7% increase in market share for a healthcare brand."
+      },
+      {
+        "Title": "Strategic Planner & Client Liaison",
+        "Company": "United States Marine Corps",
+        "CompanyWebsite": null,
+        "StartDate": "2008",
+        "EndDate": "2014",
+        "Duration": "6 yrs",
+        "Location": "Global",
+        "Description": "• Served as key liaison between U.S. military and UAE government partners, overseeing multi-year client training programs and cross-cultural team integration.\n• Created and delivered leadership development programs for 600+ personnel, leading to improved engagement and client satisfaction.\n• Managed multi-stakeholder communications and delivered successful outcomes in high-pressure, remote, and cross-border environments."
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Mike Titzer",
+      "graduation_year": 2018,
+      "program": "Master of Business Administration (MBA)",
+      "linkedin_url": "https://www.linkedin.com/in/mike-titzer-834a0535/"
+    },
+    "current_company": {
+      "name": "NOLS",
+      "industry_category": "Education",
+      "company_type": "Non-profit",
+      "company_stage": "Mature",
+      "job_title": "Key Accounts Manager & Project Manager",
+      "location": "Remote",
+      "start_date": "2018",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "NOLS",
+        "title": "Key Accounts Manager & Project Manager",
+        "duration": "7 yrs 6 mos",
+        "industry_category": "Education",
+        "company_type": "Non-profit",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "Braided Rivers LLC",
+        "title": "Founder & Operations Lead",
+        "duration": "3 yrs 6 mos",
+        "industry_category": "Unknown",
+        "company_type": "Unknown",
+        "seniority_level": "Executive"
+      },
+      {
+        "company": "Self-employed",
+        "title": "Project Manager / Technical Consultant",
+        "duration": "3 yrs",
+        "industry_category": "Consulting",
+        "company_type": "Self-Employed",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "United States Marine Corps",
+        "title": "Strategic Planner & Client Liaison",
+        "duration": "6 yrs",
+        "industry_category": "Military",
+        "company_type": "Government",
+        "seniority_level": "Mid"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "United States Naval Academy",
+        "degree": "Bachelor of Science - BS",
+        "field_of_study": "Mechanical Engineering",
+        "graduation_year": 2008,
+        "school_tier": "Top Tier"
+      },
+      {
+        "school": "Asia School of Business",
+        "degree": "Master of Business Administration (MBA)",
+        "field_of_study": "Business Administration",
+        "graduation_year": 2018,
+        "school_tier": "Mid Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Education",
+      "current_seniority_level": "Mid",
+      "key_expertise": [
+        "Project Management",
+        "Account Management",
+        "Operations",
+        "Strategic Planning",
+        "Client Relations"
+      ],
+      "years_experience_estimate": "19+ years",
+      "career_trajectory": {
+        "career_path": "Military to Consulting/Entrepreneurship to Education Management",
+        "recent_transitions": "Focus on account and project management within the education sector.",
+        "growth_pattern": "Lateral growth with increasing responsibility and leadership opportunities.",
+        "potential_next_roles": [
+          "Senior Management",
+          "Director of Operations",
+          "Head of Sales/Partnerships"
+        ]
+      },
+      "industry_transitions": [
+        "Military",
+        "Consulting",
+        "Entrepreneurship",
+        "Education"
+      ],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "1. **Company type and size:** NOLS is a large non-profit organization. While exact employee numbers are not publicly available, their extensive global operations and numerous courses suggest a substantial staff and instructor base, placing them firmly beyond SME status.\n\n2. **Main industry and business focus:**  NOLS's primary focus is wilderness education. They specialize in teaching leadership and outdoor skills through immersive expedition courses.\n\n3. **Key business areas and services:**\n\n* **Wilderness expeditions:** These are the core of NOLS's offerings. They range from backpacking and kayaking trips to mountaineering and sea kayaking, catering to various skill levels and interests, from beginner to advanced.  Courses are offered globally in diverse environments.\n* **Leadership training:**  Leadership development is integrated into all NOLS expeditions.  They also offer specific leadership courses and programs for organizations and individuals.\n* **Risk management training:**  NOLS provides training in wilderness risk management, including wilderness first aid, wilderness medicine, and other safety-related certifications.\n* **Custom education programs:** NOLS designs and delivers custom wilderness education programs for schools, organizations, and corporate groups, tailoring the experience to specific goals.\n* **Stewardship and research:** NOLS engages in environmental stewardship initiatives and conducts research related to wilderness education and leadership.\n\n4. **Company stage:** Enterprise. NOLS has been operating for over 75 years, making it a well-established and mature organization with a global reach.\n\n5. **Industry category (standardized):**  Education (specifically, Outdoor Education/Experiential Learning)\n\n6. **Brief company description:** The National Outdoor Leadership School (NOLS) is a non-profit global wilderness school dedicated to teaching leadership and outdoor skills through challenging expeditions. Founded in 1965, NOLS emphasizes experiential learning, environmental ethics, and risk management. They offer a wide range of courses and programs for individuals and organizations, catering to diverse interests and skill levels.  NOLS operates across six continents and is recognized as a leader in wilderness education and leadership development.",
+    "search_query": "NOLS company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:22:03.140236",
+  "enrichment_version": "v2.0"
+}

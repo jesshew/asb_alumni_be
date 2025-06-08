@@ -1,0 +1,193 @@
+{
+  "original_profile": {
+    "First": "Natalie",
+    "Preferred": null,
+    "Last": "Ho",
+    "Gender": "She/Her",
+    "GraduatedYear": null,
+    "Intake": null,
+    "Program": null,
+    "GraduationAwards": [],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/natalie-ho-mba2018/",
+    "Education": [
+      {
+        "SchoolName": "Cornell University",
+        "Degree": "Bachelor of Science (B.S.)",
+        "FieldOfStudy": "Hotel/Motel Administration/Management",
+        "StartYear": 2006,
+        "EndYear": 2009,
+        "ActivitiesAndSocieties": null,
+        "Achievements": []
+      },
+      {
+        "SchoolName": "Georgetown University",
+        "Degree": null,
+        "FieldOfStudy": null,
+        "StartYear": 2005,
+        "EndYear": 2006,
+        "ActivitiesAndSocieties": null,
+        "Achievements": []
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "Vice President of Corporate Development",
+        "Company": "Tiber Capital Group",
+        "CompanyWebsite": null,
+        "StartDate": "Dec 2021",
+        "EndDate": "May 2024",
+        "Duration": "2 yrs 6 mos",
+        "Location": "Remote",
+        "Description": "Single-Family Rental Aggregator"
+      },
+      {
+        "Title": "Director - Finance and Strategy",
+        "Company": "Excel Group",
+        "CompanyWebsite": null,
+        "StartDate": "Oct 2019",
+        "EndDate": "Nov 2021",
+        "Duration": "2 yrs 2 mos",
+        "Location": "Washington, District of Columbia, United States",
+        "Description": "Hotel Private Equity"
+      },
+      {
+        "Title": "Associate",
+        "Company": "The MAJ Group",
+        "CompanyWebsite": null,
+        "StartDate": "Jul 2018",
+        "EndDate": "Sep 2019",
+        "Duration": "1 yr 3 mos",
+        "Location": "Jakarta, Indonesia",
+        "Description": "Hospitality and Entertainment Real Estate Private Equity"
+      },
+      {
+        "Title": "MBA Summer Intern",
+        "Company": "Oriental Patron",
+        "CompanyWebsite": null,
+        "StartDate": "Jun 2017",
+        "EndDate": "Aug 2017",
+        "Duration": "3 mos",
+        "Location": "Hong Kong",
+        "Description": null
+      },
+      {
+        "Title": "Brand Manager - Fine Wines",
+        "Company": "Bacchus Importers, Ltd",
+        "CompanyWebsite": null,
+        "StartDate": "Aug 2014",
+        "EndDate": "Jul 2016",
+        "Duration": "2 yrs",
+        "Location": "Baltimore, Maryland",
+        "Description": null
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Natalie Ho",
+      "graduation_year": null,
+      "program": "None",
+      "linkedin_url": "https://www.linkedin.com/in/natalie-ho-mba2018/"
+    },
+    "current_company": {
+      "name": "Tiber Capital Group",
+      "industry_category": "Finance",
+      "company_type": "Investment Firm",
+      "company_stage": "Growth",
+      "job_title": "Vice President of Corporate Development",
+      "location": "Remote",
+      "start_date": "Dec 2021",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "Tiber Capital Group",
+        "title": "Vice President of Corporate Development",
+        "duration": "2 yrs 6 mos",
+        "industry_category": "Finance",
+        "company_type": "Investment Firm",
+        "seniority_level": "Executive"
+      },
+      {
+        "company": "Excel Group",
+        "title": "Director - Finance and Strategy",
+        "duration": "2 yrs 2 mos",
+        "industry_category": "Finance",
+        "company_type": "Unknown",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "The MAJ Group",
+        "title": "Associate",
+        "duration": "1 yr 3 mos",
+        "industry_category": "Unknown",
+        "company_type": "Unknown",
+        "seniority_level": "Entry"
+      },
+      {
+        "company": "Oriental Patron",
+        "title": "MBA Summer Intern",
+        "duration": "3 mos",
+        "industry_category": "Unknown",
+        "company_type": "Unknown",
+        "seniority_level": "Entry"
+      },
+      {
+        "company": "Bacchus Importers, Ltd",
+        "title": "Brand Manager - Fine Wines",
+        "duration": "2 yrs",
+        "industry_category": "Food & Beverage",
+        "company_type": "Unknown",
+        "seniority_level": "Mid"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "Cornell University",
+        "degree": "Bachelor of Science (B.S.)",
+        "field_of_study": "Hotel/Motel Administration/Management",
+        "graduation_year": 2009,
+        "school_tier": "Top Tier"
+      },
+      {
+        "school": "Georgetown University",
+        "degree": "Unknown",
+        "field_of_study": "Unknown",
+        "graduation_year": null,
+        "school_tier": "Top Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Finance",
+      "current_seniority_level": "Executive",
+      "key_expertise": [
+        "Corporate Development",
+        "Finance",
+        "Strategy",
+        "Brand Management"
+      ],
+      "years_experience_estimate": "10+ years",
+      "career_trajectory": {
+        "career_path": "Finance and Corporate Development",
+        "recent_transitions": "Increasing responsibility within finance and corporate development roles.",
+        "growth_pattern": "Upward trajectory with progressive leadership roles.",
+        "potential_next_roles": [
+          "Senior Vice President of Corporate Development",
+          "Chief Financial Officer",
+          "Chief Investment Officer"
+        ]
+      },
+      "industry_transitions": [
+        "Food & Beverage to Finance"
+      ],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "Based on available information, Tiber Capital Group appears to be a **private investment firm**.  It's challenging to find precise details publicly available regarding their size or employee count, but their investment activities suggest they are likely a **small to medium-sized enterprise (SME)**.\n\n1. **Company Type and Size:** Private Investment Firm (SME)\n\n2. **Main Industry and Business Focus:**  Private equity and real estate investment.  Their focus appears to be on acquiring and managing a diversified portfolio of assets, primarily in North America.  They seem to target opportunistic investments, potentially including distressed assets or special situations.\n\n3. **Key Business Areas and Services:**\n    * **Acquisitions:** Sourcing, evaluating, and acquiring companies and real estate assets.\n    * **Asset Management:** Active management of their portfolio companies and properties to enhance value.\n    * **Investment Management:**  Overseeing the overall investment strategy and portfolio performance.  They may also offer investment management services to external clients, though this is not definitively confirmed.\n\n4. **Company Stage:**  Likely **Mature**, given their established investment activities. While precise founding dates are difficult to ascertain publicly, their operational history suggests they are beyond the startup or growth phase.\n\n5. **Industry Category (Standardized):**\n    * **Financial Services:** Specifically, Private Equity and Real Estate Investment.\n    * **Alternative Investments:** Encompassing their focus on non-traditional asset classes.\n\n\n6. **Brief Company Description:** Tiber Capital Group is a private investment firm focused on acquiring and managing a diversified portfolio of assets, primarily in North America.  Their investments span private equity and real estate, with a likely emphasis on opportunistic strategies.  While details regarding their size and specific holdings remain largely private, their activities suggest a focus on value creation through active asset management.\n\n\n**Important Note:** Information about Tiber Capital Group is limited in the public domain.  This analysis is based on available online resources and may not be fully comprehensive.  Direct contact with the company would be necessary for more detailed and precise information.",
+    "search_query": "Tiber Capital Group company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:23:24.445990",
+  "enrichment_version": "v2.0"
+}

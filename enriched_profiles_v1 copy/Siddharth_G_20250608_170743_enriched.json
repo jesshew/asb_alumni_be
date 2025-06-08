@@ -1,0 +1,197 @@
+{
+  "original_profile": {
+    "First": "Siddharth",
+    "Preferred": null,
+    "Last": "G",
+    "Gender": null,
+    "GraduatedYear": 2018,
+    "Intake": 2016,
+    "Program": "Master of Business Administration - MBA",
+    "GraduationAwards": [
+      "Full MBA Scholarships"
+    ],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/sidgondode/",
+    "Education": [
+      {
+        "SchoolName": "MIT Sloan School of Management",
+        "Degree": "Master of Business Administration - MBA",
+        "FieldOfStudy": "Business Administration and Management, General",
+        "StartYear": 2017,
+        "EndYear": 2017,
+        "ActivitiesAndSocieties": "MIT Sloan International Masters Program",
+        "Achievements": []
+      },
+      {
+        "SchoolName": "Asia School of Business",
+        "Degree": "Master of Business Administration - MBA",
+        "FieldOfStudy": "Business Administration and Management",
+        "StartYear": 2016,
+        "EndYear": 2018,
+        "ActivitiesAndSocieties": "Co-founder and President : ASB Community Service Club",
+        "Achievements": []
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "E-commerce Strategy and Insights Lead",
+        "Company": "Makro",
+        "CompanyWebsite": null,
+        "StartDate": "Sep 2023",
+        "EndDate": "Present",
+        "Duration": "1 yr 10 mos",
+        "Location": "Bangkok, Bangkok City, Thailand",
+        "Description": null
+      },
+      {
+        "Title": "Digital Strategy and Transformation Lead",
+        "Company": "Central Retail",
+        "CompanyWebsite": null,
+        "StartDate": "Oct 2021",
+        "EndDate": "Sep 2023",
+        "Duration": "2 yrs",
+        "Location": "Bangkok, Bangkok City, Thailand",
+        "Description": "Digital Strategy | Digital Transformation | Business Transformation | Business Insights | Project Management | Innovation | Data Strategy |"
+      },
+      {
+        "Title": "Sr. Manager E-commerce Strategy and Insights",
+        "Company": "airasia Super App",
+        "CompanyWebsite": null,
+        "StartDate": "Jan 2020",
+        "EndDate": "Oct 2021",
+        "Duration": "1 yr 10 mos",
+        "Location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "Description": "Business Strategy | Commercial Planning | Market Research | Commercial Analytics | Campaign Performance | Business Review | E-Wallets"
+      },
+      {
+        "Title": "Business Strategy Manager (Airline and Partnerships)",
+        "Company": "AirAsia",
+        "CompanyWebsite": null,
+        "StartDate": "Sep 2018",
+        "EndDate": "Feb 2020",
+        "Duration": "1 yr 6 mos",
+        "Location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "Description": "Strategic Planning | Business Performance | Business Development | Growth Strategy | Strategic Partnerships"
+      },
+      {
+        "Title": "MBA Consulting Project (Mobile Customer Acquisition Strategy)",
+        "Company": "Bangkok Bank",
+        "CompanyWebsite": null,
+        "StartDate": "Jul 2017",
+        "EndDate": "Dec 2017",
+        "Duration": "6 mos",
+        "Location": "Bangkok, Bangkok City, Thailand",
+        "Description": "Customer Acquisition Strategy for mobile Banking App | Market Research | Product Management"
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Siddharth G",
+      "graduation_year": 2018,
+      "program": "Master of Business Administration - MBA",
+      "linkedin_url": "https://www.linkedin.com/in/sidgondode/"
+    },
+    "current_company": {
+      "name": "Makro",
+      "industry_category": "Retail",
+      "company_type": "Subsidiary",
+      "company_stage": "Mature",
+      "job_title": "E-commerce Strategy and Insights Lead",
+      "location": "Bangkok, Bangkok City, Thailand",
+      "start_date": "Sep 2023",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "Makro",
+        "title": "E-commerce Strategy and Insights Lead",
+        "duration": "1 yr 10 mos",
+        "industry_category": "Retail",
+        "company_type": "Subsidiary",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "Central Retail",
+        "title": "Digital Strategy and Transformation Lead",
+        "duration": "2 yrs",
+        "industry_category": "Retail",
+        "company_type": "Enterprise",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "airasia Super App",
+        "title": "Sr. Manager E-commerce Strategy and Insights",
+        "duration": "1 yr 10 mos",
+        "industry_category": "Technology",
+        "company_type": "Growth",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "AirAsia",
+        "title": "Business Strategy Manager (Airline and Partnerships)",
+        "duration": "1 yr 6 mos",
+        "industry_category": "Travel",
+        "company_type": "Enterprise",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "Bangkok Bank",
+        "title": "MBA Consulting Project (Mobile Customer Acquisition Strategy)",
+        "duration": "6 mos",
+        "industry_category": "Finance",
+        "company_type": "Enterprise",
+        "seniority_level": "Entry"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "MIT Sloan School of Management",
+        "degree": "Master of Business Administration - MBA",
+        "field_of_study": "Business Administration and Management, General",
+        "graduation_year": 2017,
+        "school_tier": "Top Tier"
+      },
+      {
+        "school": "Asia School of Business",
+        "degree": "Master of Business Administration - MBA",
+        "field_of_study": "Business Administration and Management",
+        "graduation_year": 2018,
+        "school_tier": "Mid Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Retail",
+      "current_seniority_level": "Mid",
+      "key_expertise": [
+        "E-commerce",
+        "Strategy",
+        "Digital Transformation",
+        "Business Strategy",
+        "Insights"
+      ],
+      "years_experience_estimate": "6+",
+      "career_trajectory": {
+        "career_path": "E-commerce and Digital Strategy",
+        "recent_transitions": "Within the retail and e-commerce industry, with increasing responsibility.",
+        "growth_pattern": "Consistent growth within strategy and e-commerce roles.",
+        "potential_next_roles": [
+          "Head of E-commerce",
+          "Director of Digital Strategy",
+          "Chief Digital Officer"
+        ]
+      },
+      "industry_transitions": [
+        "Travel to Technology",
+        "Technology to Retail"
+      ],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "Makro is a large, international brand operating primarily as a **cash-and-carry wholesaler**.  It's difficult to give one single, universally accurate description as Makro operates under different ownership and slightly different business models depending on the country.  However, some general characteristics hold true across most locations:\n\n1. **Company type and size:** Large enterprise. Makro operates across multiple countries and generally employs thousands of staff.\n\n2. **Main industry and business focus:** Wholesale and retail. Its core business is selling goods in bulk to businesses, traders, institutions, and professional customers (Horeca: Hotels, Restaurants, and Catering). In some regions, it also serves individual consumers.\n\n3. **Key business areas and services:**\n    * **Wholesale:**  Food (fresh, frozen, dry), beverages, office supplies, electronics, household goods, and often other categories like DIY, gardening, and even automotive.\n    * **Delivery services:** Many locations offer delivery services, especially to business customers.\n    * **Own-brand products:** Makro frequently offers a range of own-brand products across various categories, aiming for competitive pricing.\n    * **Additional services:** Depending on the location, they may offer services like financing, equipment rental, or specialized business consultation.\n\n4. **Company stage:** Mature.  Makro has been operating for decades in most regions.\n\n5. **Industry category (standardized):**\n    * **NAICS:** 4244 (Grocery and Related Product Merchant Wholesalers) primarily, with some potential overlap into 4249 (Other Miscellaneous Durable Goods Merchant Wholesalers) and 445110 (Supermarkets and Other Grocery (except Convenience) Stores) where they serve individual consumers.\n    * **SIC:** 5140 (Groceries and related products, not elsewhere classified) primarily, potentially overlapping with other wholesale categories.\n\n6. **Brief company description:** Makro is an international chain of wholesale stores primarily serving businesses and professional customers.  It operates on a cash-and-carry model, offering a wide range of products in bulk quantities.  Ownership and specific services vary by region.  In some areas, it operates under different brand names (e.g., Metro).  It emphasizes competitive pricing and efficient sourcing for its professional customer base.\n\n**Important Note:** Due to various divestments and restructuring over the years, the Makro brand can be slightly different depending on the location. Researching the specific Makro entity in a particular country is important for accurate, detailed information.  For example, in some parts of Europe, it operates under the Metro brand, while in other parts of the world it's owned by SHV Holdings or other parent companies. This affects the exact product offerings and business model.",
+    "search_query": "Makro company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:22:25.747152",
+  "enrichment_version": "v2.0"
+}

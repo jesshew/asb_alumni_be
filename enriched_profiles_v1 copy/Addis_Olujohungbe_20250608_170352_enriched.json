@@ -1,0 +1,206 @@
+{
+  "original_profile": {
+    "First": "Addis",
+    "Preferred": null,
+    "Last": "Olujohungbe",
+    "Gender": null,
+    "GraduatedYear": 2018,
+    "Intake": null,
+    "Program": "Master of Business Administration - MBA",
+    "GraduationAwards": [],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/addis-olujohungbe/",
+    "Education": [
+      {
+        "SchoolName": "Asia School of Business",
+        "Degree": "Master of Business Administration - MBA",
+        "FieldOfStudy": "Business Administration and Management, General",
+        "StartYear": 2016,
+        "EndYear": 2018,
+        "ActivitiesAndSocieties": "Co-Chair Energy Club",
+        "Achievements": []
+      },
+      {
+        "SchoolName": "MIT Sloan School of Management",
+        "Degree": "MBA",
+        "FieldOfStudy": "ASB Spring immersion program",
+        "StartYear": 2017,
+        "EndYear": 2017,
+        "ActivitiesAndSocieties": null,
+        "Achievements": []
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "Senior Engineering Manager",
+        "Company": "Esquel Group",
+        "CompanyWebsite": null,
+        "StartDate": "Jun 2018",
+        "EndDate": "Nov 2019",
+        "Duration": "1 yr 6 mos",
+        "Location": "South East Asia",
+        "Description": ""
+      },
+      {
+        "Title": "MBA Associate",
+        "Company": "BigC Supercenter Public Company Limited",
+        "CompanyWebsite": null,
+        "StartDate": "Sep 2017",
+        "EndDate": "Dec 2017",
+        "Duration": "4 mos",
+        "Location": "Bangkok City, Thailand",
+        "Description": ""
+      },
+      {
+        "Title": "MBA Internship",
+        "Company": "Citi",
+        "CompanyWebsite": null,
+        "StartDate": "Jun 2017",
+        "EndDate": "Aug 2017",
+        "Duration": "3 mos",
+        "Location": "Kuala Lumpur, Malaysia",
+        "Description": "Branch digitization\nSEM and SEO top of funnel optimization\nStrategy and business development of acquisition channels for new bank customers"
+      },
+      {
+        "Title": "MBA Associate- ChargEV",
+        "Company": "Malaysian Green Technology and Climate Change Centre",
+        "CompanyWebsite": null,
+        "StartDate": "Sep 2016",
+        "EndDate": "Dec 2016",
+        "Duration": "4 mos",
+        "Location": "Selangor, Malaysia",
+        "Description": "Conducted market research, identified go-to-market strategies, pricing and financial models to deploy ChargEV's electric charging stations across Malaysia.\nDelivered a business and operating plan for the first 1000 electric charging stations to support Malaysia's EV initiative."
+      },
+      {
+        "Title": "IPT and EBU Integration Lead role (A320 Neo development)",
+        "Company": "Pratt & Whitney",
+        "CompanyWebsite": null,
+        "StartDate": "Feb 2013",
+        "EndDate": "Jul 2016",
+        "Duration": "3 yrs 6 mos",
+        "Location": null,
+        "Description": "Coordinate IPT team and manage task resources for the Block 1 engines on A320 Neo Program.\nExternals lead for the Tripartite EBU integration team, comprising of Pratt & Whitney, Airbus and United Aerospace Systems (UTAS).\n- Handle externals and EBU related interface negotiations, between Pratt & Whitney, Airbus and UTAS."
+      },
+      {
+        "Title": "Structures Engineer",
+        "Company": "Pratt & Whitney",
+        "CompanyWebsite": null,
+        "StartDate": "Jun 2010",
+        "EndDate": "Feb 2013",
+        "Duration": "2 yrs 9 mos",
+        "Location": null,
+        "Description": "Created structural models and performed 2D and 3D analysis on external components (tube networks, fittings, brackets, case ducts, bolts e.t.c) to turbine engines for NGPF programs (A320, MRJ and BA) and the AETD (Advanced Engine Technology Development),\nto meet requirements for resonance margins, vibratory and steady stress margins, and CRD requirements for creep, fatigue life and fracture life of components"
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Addis Olujohungbe",
+      "graduation_year": 2018,
+      "program": "Master of Business Administration - MBA",
+      "linkedin_url": "https://www.linkedin.com/in/addis-olujohungbe/"
+    },
+    "current_company": {
+      "name": "Esquel Group",
+      "industry_category": "Textiles and Apparel",
+      "company_type": "Private",
+      "company_stage": "Enterprise",
+      "job_title": "Senior Engineering Manager",
+      "location": "South East Asia",
+      "start_date": "Jun 2018",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "Esquel Group",
+        "title": "Senior Engineering Manager",
+        "duration": "1 yr 6 mos",
+        "industry_category": "Textiles and Apparel",
+        "company_type": "Private",
+        "seniority_level": "Senior"
+      },
+      {
+        "company": "BigC Supercenter Public Company Limited",
+        "title": "MBA Associate",
+        "duration": "4 mos",
+        "industry_category": "Retail",
+        "company_type": "Public",
+        "seniority_level": "Entry"
+      },
+      {
+        "company": "Citi",
+        "title": "MBA Internship",
+        "duration": "3 mos",
+        "industry_category": "Finance",
+        "company_type": "Public",
+        "seniority_level": "Entry"
+      },
+      {
+        "company": "Malaysian Green Technology and Climate Change Centre",
+        "title": "MBA Associate- ChargEV",
+        "duration": "4 mos",
+        "industry_category": "Renewables & Environment",
+        "company_type": "Government Agency",
+        "seniority_level": "Entry"
+      },
+      {
+        "company": "Pratt & Whitney",
+        "title": "IPT and EBU Integration Lead role (A320 Neo development)",
+        "duration": "3 yrs 6 mos",
+        "industry_category": "Aerospace & Defense",
+        "company_type": "Public",
+        "seniority_level": "Mid"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "Asia School of Business",
+        "degree": "Master of Business Administration - MBA",
+        "field_of_study": "Business Administration and Management, General",
+        "graduation_year": 2018,
+        "school_tier": "Mid Tier"
+      },
+      {
+        "school": "MIT Sloan School of Management",
+        "degree": "MBA",
+        "field_of_study": "ASB Spring immersion program",
+        "graduation_year": null,
+        "school_tier": "Top Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Engineering",
+      "current_seniority_level": "Senior",
+      "key_expertise": [
+        "Engineering Management",
+        "Integration",
+        "Project Management",
+        "Business Administration"
+      ],
+      "years_experience_estimate": "6+ years",
+      "career_trajectory": {
+        "career_path": "Engineering to Management",
+        "recent_transitions": "Transitioned into a management role after MBA",
+        "growth_pattern": "Upward Trajectory",
+        "potential_next_roles": [
+          "Director of Engineering",
+          "VP of Operations",
+          "Chief Operating Officer"
+        ]
+      },
+      "industry_transitions": [
+        "Aerospace & Defense to Retail",
+        "Retail to Renewables & Environment",
+        "Renewables & Environment to Finance",
+        "Finance to Textiles and Apparel"
+      ],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "Esquel Group is a large, vertically integrated textile and apparel manufacturer.\n\n1. **Company type and size:** Large enterprise.  Esquel employs over 50,000 people globally.  While privately held, its scale places it firmly in the large enterprise category.\n\n2. **Main industry and business focus:** Textile and Apparel Manufacturing. Their focus is on high-quality cotton shirting, spanning the entire supply chain from cotton farming to finished garments.\n\n3. **Key business areas and services:**\n    * **Cotton Farming:**  Owns and operates cotton farms, emphasizing sustainable practices.\n    * **Spinning:**  Produces yarn from raw cotton.\n    * **Weaving:**  Transforms yarn into fabric.\n    * **Dyeing and Finishing:**  Treats fabric to achieve desired color, texture, and performance characteristics.\n    * **Apparel Manufacturing:**  Designs and manufactures shirts and other garments for major international brands.\n    * **Retail:** Operates a small number of retail stores, primarily in China.\n    * **Technology Development:** Invests heavily in textile technology and automation.\n\n4. **Company stage:** Enterprise.  Esquel is a well-established, mature company with a long history and global presence.\n\n5. **Industry category (standardized):**\n    * **NAICS:** 315220 (Men's and Boys' Cut and Sew Apparel Manufacturing) - This is the most prominent code, though others apply given their vertical integration.\n    * **SIC:** 2321 (Men's and Boys' Shirts, Except Work Shirts) - Again, this reflects the primary output, but not the full scope of their operations.\n    * **Global Industry Classification Standard (GICS):** Consumer Discretionary - Textiles, Apparel & Luxury Goods\n\n6. **Brief company description:** Esquel Group is a leading global textile and apparel manufacturer with a vertically integrated supply chain.  Founded in 1978, the Hong Kong-based company specializes in high-quality cotton shirting, serving major international brands. Esquel emphasizes sustainability and innovation throughout its operations, from cotton farming to finished garments, and invests heavily in advanced textile technologies.  They operate globally, with significant presence in China, Malaysia, Vietnam, Sri Lanka, and Mauritius.",
+    "search_query": "Esquel Group company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:24:59.456799",
+  "enrichment_version": "v2.0"
+}

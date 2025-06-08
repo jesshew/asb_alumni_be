@@ -1,0 +1,205 @@
+{
+  "original_profile": {
+    "First": "Esther",
+    "Preferred": null,
+    "Last": "Siah",
+    "Gender": null,
+    "GraduatedYear": 2018,
+    "Intake": null,
+    "Program": "Master of Business Administration - MBA",
+    "GraduationAwards": [],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/esther-siah-86a9a278/",
+    "Education": [
+      {
+        "SchoolName": "Asia School of Business",
+        "Degree": "Master of Business Administration - MBA",
+        "FieldOfStudy": null,
+        "StartYear": 2016,
+        "EndYear": 2018,
+        "ActivitiesAndSocieties": "Involved in 5 different projects across Southeast Asia.\n- Air Asia, Kuala Lumpur (Operations)\n- Procter & Gamble, Myanmar (Marketing)\n- SMART, Cambodia ( Business Opportunity)\n- Biji-Biji ethical Fashion, Kuala Lumpur (NGO)\n- Summer internship with Microsoft, Kuala Lumpur",
+        "Achievements": []
+      },
+      {
+        "SchoolName": "MIT Sloan School of Management",
+        "Degree": "Spring Immersion Program 2017 (Asia School of Business)",
+        "FieldOfStudy": "Business Administration and Management, General",
+        "StartYear": 2017,
+        "EndYear": 2017,
+        "ActivitiesAndSocieties": null,
+        "Achievements": []
+      },
+      {
+        "SchoolName": "University of Nottingham",
+        "Degree": "Bachelor of Science in Economics",
+        "FieldOfStudy": null,
+        "StartYear": null,
+        "EndYear": null,
+        "ActivitiesAndSocieties": null,
+        "Achievements": []
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "Business Development Manager",
+        "Company": "SingSaver",
+        "CompanyWebsite": null,
+        "StartDate": "May 2022",
+        "EndDate": "Oct 2024",
+        "Duration": "2 yrs 6 mos",
+        "Location": null,
+        "Description": "In my role as a Business Development Manager at SingSaver, I successfully grew a new vertical from the ground up. I also secured exclusivity deals for key accounts, enhancing strategic partnerships and driving business growth."
+      },
+      {
+        "Title": "Assistant Manager",
+        "Company": "CIMB",
+        "CompanyWebsite": null,
+        "StartDate": "Sep 2019",
+        "EndDate": "Apr 2022",
+        "Duration": "2 yrs 8 mos",
+        "Location": "Kuala Lumpur, Malaysia",
+        "Description": "Handles Mortgage Portfolio - launch campaigns to drive acquisition, leverage data insight for key strategic decisions, improve portfolio's bottomline"
+      },
+      {
+        "Title": "Business Development Manager",
+        "Company": "CIMB Bank Philippines",
+        "CompanyWebsite": null,
+        "StartDate": "May 2018",
+        "EndDate": "Aug 2019",
+        "Duration": "1 yr 4 mos",
+        "Location": "Philippines",
+        "Description": "• Spearheaded the establishment of CIMB Bank Philippines, playing a pivotal role in negotiating and onboarding key business partners.\n• Developed strategic directions for partnerships and maintained end-to-end relationships, from operations to strategic decision-making.\n• Led marketing campaigns and utilized data insights to drive key initiatives for business growth."
+      },
+      {
+        "Title": "MBA Graduate Student",
+        "Company": "Asia School of Business",
+        "CompanyWebsite": null,
+        "StartDate": "Sep 2016",
+        "EndDate": "Mar 2018",
+        "Duration": "1 yr 7 mos",
+        "Location": "Kuala Lumpur, Malaysia",
+        "Description": "• Managed 5 projects with various companies, gaining exposure to different industries and functions.\n• Led operations in the airline industry and developed product strategies in a consumer product firm in Myanmar.\n• Collaborated with cross-functional teams to deliver successful project outcomes."
+      },
+      {
+        "Title": "Intern to MACH",
+        "Company": "Microsoft",
+        "CompanyWebsite": null,
+        "StartDate": "Jun 2017",
+        "EndDate": "Aug 2017",
+        "Duration": "3 mos",
+        "Location": "Kuala Lumpur, Malaysia",
+        "Description": "• Supported the SMC (Small Medium Commercial) division at Microsoft, Malaysia in driving customer acquisition through business partner collaborations.\n• Assisted in developing strategic plans to enhance customer engagement and increase revenue.\n• Conducted market research and analysis to identify new business opportunities and trends."
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Esther Siah",
+      "graduation_year": 2018,
+      "program": "Master of Business Administration - MBA",
+      "linkedin_url": "https://www.linkedin.com/in/esther-siah-86a9a278/"
+    },
+    "current_company": {
+      "name": "SingSaver",
+      "industry_category": "Finance",
+      "company_type": "Private",
+      "company_stage": "Growth",
+      "job_title": "Business Development Manager",
+      "location": "None",
+      "start_date": "May 2022",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "SingSaver",
+        "title": "Business Development Manager",
+        "duration": "2 yrs 6 mos",
+        "industry_category": "Finance",
+        "company_type": "Private",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "CIMB",
+        "title": "Assistant Manager",
+        "duration": "2 yrs 8 mos",
+        "industry_category": "Finance",
+        "company_type": "Public",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "CIMB Bank Philippines",
+        "title": "Business Development Manager",
+        "duration": "1 yr 4 mos",
+        "industry_category": "Finance",
+        "company_type": "Public",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "Asia School of Business",
+        "title": "MBA Graduate Student",
+        "duration": "1 yr 7 mos",
+        "industry_category": "Education",
+        "company_type": "Educational Institution",
+        "seniority_level": "Entry"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Intern to MACH",
+        "duration": "3 mos",
+        "industry_category": "Technology",
+        "company_type": "Public",
+        "seniority_level": "Entry"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "Asia School of Business",
+        "degree": "Master of Business Administration - MBA",
+        "field_of_study": "Business Administration and Management, General",
+        "graduation_year": 2018,
+        "school_tier": "Top Tier"
+      },
+      {
+        "school": "MIT Sloan School of Management",
+        "degree": "Spring Immersion Program 2017",
+        "field_of_study": "Business Administration and Management, General",
+        "graduation_year": 2017,
+        "school_tier": "Top Tier"
+      },
+      {
+        "school": "University of Nottingham",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Economics",
+        "graduation_year": null,
+        "school_tier": "Mid Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Finance",
+      "current_seniority_level": "Mid",
+      "key_expertise": [
+        "Business Development",
+        "Financial Services"
+      ],
+      "years_experience_estimate": "6+",
+      "career_trajectory": {
+        "career_path": "Business Development within Financial Services",
+        "recent_transitions": "Consistent focus on Business Development roles",
+        "growth_pattern": "Steady progression with increasing responsibility",
+        "potential_next_roles": [
+          "Senior Business Development Manager",
+          "Director of Business Development",
+          "Head of Business Development"
+        ]
+      },
+      "industry_transitions": [],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "SingSaver is a **large privately-held company** operating as a **financial comparison platform**.\n\n1. **Company type and size:**  Large privately-held company.  While exact employee numbers are not publicly disclosed, information suggests a substantial workforce across multiple departments like marketing, technology, partnerships, and editorial, indicating a size beyond that of a typical SME.\n\n2. **Main industry and business focus:**  Financial Technology (Fintech) with a focus on online financial product comparison and consumer empowerment.\n\n3. **Key business areas and services:**\n    * **Financial product comparison:**  SingSaver allows users to compare a wide range of financial products, including credit cards, personal loans, home loans, insurance (travel, car, home), savings accounts, and investment products.\n    * **Personalized recommendations:**  The platform uses algorithms and user data to provide tailored recommendations based on individual needs and financial profiles.\n    * **Financial education and resources:** SingSaver publishes articles, guides, and tools to help consumers make informed financial decisions.\n    * **Partnerships with financial institutions:** The company collaborates with banks and other financial institutions to offer exclusive deals and promotions to its users.\n    * **Application assistance:**  Streamlines the application process for selected financial products through its platform.\n\n4. **Company stage:**  **Growth/Mature**. SingSaver has moved beyond the startup phase. It has established a strong market presence, secured significant funding, and expanded its services beyond its initial offerings.  It continues to innovate and grow, indicating a position in the growth or mature stage.\n\n5. **Industry category (standardized):**\n    * **NAICS:** 522320 - Nondepository Credit Intermediation\n    * **GICS:** 45 - Financials (more broadly) and 4530 - Financial Exchanges & Data (more specifically)\n\n6. **Brief company description:** SingSaver is a leading personal finance comparison platform in Singapore, helping consumers save money and make smarter financial decisions.  It offers a comprehensive range of financial product comparisons, personalized recommendations, and educational resources.  Through partnerships with major banks and financial institutions, SingSaver provides access to exclusive deals and simplifies the application process for various financial products.  It operates primarily in Singapore but also has a presence in other Southeast Asian markets.",
+    "search_query": "SingSaver company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:25:19.671176",
+  "enrichment_version": "v2.0"
+}

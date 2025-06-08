@@ -4,6 +4,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 import json
 import re
+import glob
 
 # Load environment variables
 load_dotenv()
@@ -34,14 +35,17 @@ def get_company_info(company_name, company_url):
 
     try:
         # Create a search-focused prompt
-        search_prompt = f"""Search and provide a brief summary about this company:
+        search_prompt = f"""You are a persistent, structured data enrichment agent. Your mission is to transform and enrich alumni profile data from Asia School of Business (ASB) into a comprehensive, high-quality, and searchable knowledge base.Search and provide a brief summary about this company:
+You are given a structured JSON profile representing core alumni data (education, work experience, graduation details). Your task is to reason, research, infer, and output a **new enriched JSON object** with extended metadata that supports advanced alumni analytics, searchability, and network visualization.
+
 Company Name: {company_name}
 Search Query: {search_query}
 
 Please provide:
-1. Company type and size
-2. Main industry and focus
-3. Key business areas
+- CompanyInfo: Type, size, website, main industry, and stage (Startup, Growth, Mature, Enterprise).
+- IndustryClassification: Standardized sector or domain (e.g., "Tech - Sustainability").
+- GeoInsights: Current country, region, city from experience data.
+
 Keep the summary concise and factual."""
 
         response = model.generate_content(search_prompt)
@@ -56,57 +60,90 @@ Keep the summary concise and factual."""
         print(f"Error getting company info for {company_name}: {str(e)}")
         return None
 
-def create_profile_prompt(row):
-    """Create a structured prompt for profile analysis"""
-    # Handle NaN values by replacing them with empty strings
-    profile_data = {
-        'fullName': str(row['fullName']) if pd.notna(row['fullName']) else '',
-        'jobTitle': str(row['jobTitle']) if pd.notna(row['jobTitle']) else '',
-        'jobTitle2': str(row['jobTitle2']) if pd.notna(row['jobTitle2']) else '',
-        'company': str(row['company']) if pd.notna(row['company']) else '',
-        'company2': str(row['company2']) if pd.notna(row['company2']) else '',
-        'location': str(row['location']) if pd.notna(row['location']) else '',
-        'school': str(row['school']) if pd.notna(row['school']) else '',
-        'schoolDegree': str(row['schoolDegree']) if pd.notna(row['schoolDegree']) else '',
-        'school2': str(row['school2']) if pd.notna(row['school2']) else '',
-        'schoolDegree2': str(row['schoolDegree2']) if pd.notna(row['schoolDegree2']) else '',
-        'jobDateRange': str(row['jobDateRange']) if pd.notna(row['jobDateRange']) else '',
-        'jobDateRange2': str(row['jobDateRange2']) if pd.notna(row['jobDateRange2']) else '',
-        'schoolDateRange': str(row['schoolDateRange']) if pd.notna(row['schoolDateRange']) else '',
-        'schoolDateRange2': str(row['schoolDateRange2']) if pd.notna(row['schoolDateRange2']) else '',
-        'industry': str(row['industry']) if pd.notna(row['industry']) else ''
+def extract_current_company_info(profile_data):
+    """Extract current company information from the profile data"""
+    experience = profile_data.get('Experience', [])
+    
+    if not experience:
+        return {
+            'current_company_name': '',
+            'current_job_title': '',
+            'current_location': '',
+            'current_start_date': '',
+            'current_end_date': '',
+            'current_duration': ''
+        }
+    
+    # First experience entry is typically the current one
+    current_exp = experience[0]
+    
+    return {
+        'current_company_name': current_exp.get('Company', ''),
+        'current_job_title': current_exp.get('Title', ''),
+        'current_location': current_exp.get('Location', ''),
+        'current_start_date': current_exp.get('StartDate', ''),
+        'current_end_date': current_exp.get('EndDate', ''),
+        'current_duration': current_exp.get('Duration', '')
     }
+
+def create_profile_prompt(profile_data):
+    """Create a structured prompt for profile analysis"""
+    # Extract basic profile information
+    full_name = f"{profile_data.get('First', '')} {profile_data.get('Last', '')}".strip()
+    graduated_year = profile_data.get('GraduatedYear', '')
+    program = profile_data.get('Program', '')
+    
+    # Extract current company info
+    current_company_info = extract_current_company_info(profile_data)
     
     # Skip creating prompt if essential fields are empty
-    if not (profile_data['fullName'] or profile_data['jobTitle'] or profile_data['company']):
+    if not (full_name or current_company_info['current_job_title'] or current_company_info['current_company_name']):
         return None
 
-    # Create company history text with proper handling of empty values
-    current_company_text = f"{profile_data['company']} as {profile_data['jobTitle']}" if profile_data['company'] and profile_data['jobTitle'] else profile_data['company'] or profile_data['jobTitle'] or 'Not specified'
-    previous_company_text = f"{profile_data['company2']} as {profile_data['jobTitle2']}" if profile_data['company2'] and profile_data['jobTitle2'] else profile_data['company2'] or profile_data['jobTitle2'] or 'Not specified'
+    # Extract experience history
+    experience_list = profile_data.get('Experience', [])
+    experience_text = ""
+    for i, exp in enumerate(experience_list):
+        exp_text = f"Position {i+1}: {exp.get('Title', 'N/A')} at {exp.get('Company', 'N/A')} ({exp.get('StartDate', 'N/A')} - {exp.get('EndDate', 'N/A')}) - {exp.get('Location', 'N/A')}"
+        if exp.get('Description'):
+            exp_text += f"\nDescription: {exp.get('Description')[:200]}..."  # Truncate long descriptions
+        experience_text += exp_text + "\n"
+
+    # Extract education history
+    education_list = profile_data.get('Education', [])
+    education_text = ""
+    for i, edu in enumerate(education_list):
+        edu_text = f"Education {i+1}: {edu.get('Degree', 'N/A')} in {edu.get('FieldOfStudy', 'N/A')} from {edu.get('SchoolName', 'N/A')} ({edu.get('StartYear', 'N/A')} - {edu.get('EndYear', 'N/A')})"
+        education_text += edu_text + "\n"
 
     prompt = f"""Analyze this professional profile and provide enriched insights about their career, companies, and education.
 Return ONLY valid JSON without any additional text or formatting.
 
 Profile Information:
-- Full Name: {profile_data['fullName']}
-- Current Position: {current_company_text}
-- Current Job Duration: {profile_data['jobDateRange']}
-- Previous Position: {previous_company_text}
-- Previous Job Duration: {profile_data['jobDateRange2']}
-- Industry: {profile_data['industry']}
-- Location: {profile_data['location']}
-- Education 1: {profile_data['school']} - {profile_data['schoolDegree']} ({profile_data['schoolDateRange']})
-- Education 2: {profile_data['school2']} - {profile_data['schoolDegree2']} ({profile_data['schoolDateRange2']})
+- Full Name: {full_name}
+- Graduated Year: {graduated_year}
+- Program: {program}
+- Current Company: {current_company_info['current_company_name']}
+- Current Job Title: {current_company_info['current_job_title']}
+- Current Location: {current_company_info['current_location']}
+- Current Position Duration: {current_company_info['current_duration']}
+- Current Position Start Date: {current_company_info['current_start_date']}
+- Current Position End Date: {current_company_info['current_end_date']}
+
+Work Experience:
+{experience_text}
+
+Education:
+{education_text}
 
 Required JSON structure:
 {{
     "current_company": {{
-        "name": "{profile_data['company']}",
+        "name": "{current_company_info['current_company_name']}",
         "industry_category": "string",
         "company_type": "string",
         "company_stage": "string",
-        "job_title": "{profile_data['jobTitle']}",
+        "job_title": "{current_company_info['current_job_title']}",
         "date_range": {{
             "start": "string (YYYY-MM format)",
             "end": "string (YYYY-MM format) or null if current"
@@ -159,27 +196,34 @@ Please ensure:
 """
     return prompt
 
-def process_linkedin_data(csv_path):
-    # Read the CSV file
-    df = pd.read_csv(csv_path)
+def process_linkedin_data(profiles_folder='cleaned_profiles'):
+    """Process JSON profile files from the specified folder"""
+    # Get all JSON files from the profiles folder
+    json_files = glob.glob(os.path.join(profiles_folder, '*.json'))
     
-    # Filter out rows with errors and empty/NaN essential fields
-    df = df[
-        df['error'].isna() & 
-        df['fullName'].notna() & 
-        ((df['jobTitle'].notna()) | (df['company'].notna()))
-    ]
+    if not json_files:
+        print(f"No JSON files found in {profiles_folder} folder")
+        return
+    
+    print(f"Found {len(json_files)} JSON files to process")
     
     enriched_data = []
     
-    for index, row in df.iterrows():
+    for json_file in json_files:
         try:
+            # Read the JSON file
+            with open(json_file, 'r', encoding='utf-8') as f:
+                profile_data = json.load(f)
+            
+            # Extract filename for identification
+            filename = os.path.basename(json_file)
+            
             # Create prompt for current profile
-            prompt = create_profile_prompt(row)
+            prompt = create_profile_prompt(profile_data)
             
             # Skip if prompt creation failed due to insufficient data
             if prompt is None:
-                print(f"Skipping row {index}: Insufficient data")
+                print(f"Skipping {filename}: Insufficient data")
                 continue
             
             # Get response from Gemini
@@ -197,33 +241,32 @@ def process_linkedin_data(csv_path):
             try:
                 enriched_metadata = json.loads(response_text)
             except json.JSONDecodeError as e:
-                print(f"JSON parsing error for {row['fullName']}: {str(e)}")
+                print(f"JSON parsing error for {filename}: {str(e)}")
                 print(f"Raw response: {response.text}")
                 continue
             
             # Combine original data with enriched metadata
-            profile_data = row.to_dict()
-            profile_data['enriched_metadata'] = enriched_metadata
+            combined_data = profile_data.copy()
+            combined_data['enriched_metadata'] = enriched_metadata
+            combined_data['source_file'] = filename
             
-            enriched_data.append(profile_data)
+            enriched_data.append(combined_data)
             
-            print(f"Successfully processed profile: {row['fullName']}")
+            full_name = f"{profile_data.get('First', '')} {profile_data.get('Last', '')}".strip()
+            print(f"Successfully processed profile: {full_name} ({filename})")
             
         except Exception as e:
-            print(f"Error processing profile {row['fullName']}: {str(e)}")
+            print(f"Error processing file {json_file}: {str(e)}")
     
     if enriched_data:
-        # Save enriched data
-        enriched_df = pd.DataFrame(enriched_data)
-        enriched_df.to_csv('enriched_linkedin_data.csv', index=False)
-        
-        # Also save as JSON for better readability of nested structures
-        with open('enriched_linkedin_data.json', 'w') as f:
-            json.dump(enriched_data, f, indent=2)
+        # Save enriched data as JSON for better readability of nested structures
+        with open('enriched_linkedin_data.json', 'w', encoding='utf-8') as f:
+            json.dump(enriched_data, f, indent=2, ensure_ascii=False)
         
         print(f"\nSuccessfully processed {len(enriched_data)} profiles")
+        print("Enriched data saved to 'enriched_linkedin_data.json'")
     else:
         print("\nNo profiles were successfully processed")
 
 if __name__ == "__main__":
-    process_linkedin_data('scraped_result.csv') 
+    process_linkedin_data('cleaned_profiles') 

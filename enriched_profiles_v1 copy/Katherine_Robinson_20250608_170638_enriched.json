@@ -1,0 +1,212 @@
+{
+  "original_profile": {
+    "First": "Katherine",
+    "Preferred": null,
+    "Last": "Robinson",
+    "Gender": "She/Her",
+    "GraduatedYear": null,
+    "Intake": null,
+    "Program": "Master of Business Administration (MBA)",
+    "GraduationAwards": [],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/ktrobinson7/",
+    "Education": [
+      {
+        "SchoolName": "Asia School of Business",
+        "Degree": "Master of Business Administration (MBA)",
+        "FieldOfStudy": null,
+        "StartYear": null,
+        "EndYear": null,
+        "ActivitiesAndSocieties": "Consulting Club, Outdoors Club, Photography Club, Values Committee",
+        "Achievements": []
+      },
+      {
+        "SchoolName": "The Johns Hopkins University",
+        "Degree": "Bachelor of Arts (BA)",
+        "FieldOfStudy": "International Studies and Sociology",
+        "StartYear": null,
+        "EndYear": null,
+        "ActivitiesAndSocieties": "Social Investment Outreach, Students Educating and Empowering for Diversity, Refugee Action Project, Senior Leadership Consultants, EcoReps, Blue Key Society, Phi Beta Kappa, Sigma Iota Rho, Alpha Kappa Delta",
+        "Achievements": []
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "Senior Manager, Program Strategy",
+        "Company": "Pivotal Ventures",
+        "CompanyWebsite": null,
+        "StartDate": "May 2023",
+        "EndDate": "Present",
+        "Duration": "2 yrs 2 mos",
+        "Location": null,
+        "Description": null
+      },
+      {
+        "Title": "Secondee",
+        "Company": "Pivotal Ventures",
+        "CompanyWebsite": null,
+        "StartDate": "May 2022",
+        "EndDate": "May 2023",
+        "Duration": "1 yr 1 mo",
+        "Location": null,
+        "Description": null
+      },
+      {
+        "Title": "Engagement Manager",
+        "Company": "McKinsey & Company",
+        "CompanyWebsite": null,
+        "StartDate": "2020",
+        "EndDate": "2023",
+        "Duration": "3 yrs",
+        "Location": "Denver, Colorado, United States",
+        "Description": "Social Sector Practice"
+      },
+      {
+        "Title": "Consultant",
+        "Company": "McKinsey & Company",
+        "CompanyWebsite": null,
+        "StartDate": "2018",
+        "EndDate": "2020",
+        "Duration": "2 yrs",
+        "Location": "Greater Denver Area",
+        "Description": null
+      },
+      {
+        "Title": "Consultant",
+        "Company": "EMH Strategy",
+        "CompanyWebsite": null,
+        "StartDate": "2014",
+        "EndDate": "2016",
+        "Duration": "2 yrs",
+        "Location": "Greater New Orleans Area",
+        "Description": "Provided strategic guidance to startups, non-profits, established businesses, and public entities in various industries including education, healthcare, construction, hospitality, and technology"
+      },
+      {
+        "Title": "Company Liasion & Fellow",
+        "Company": "Venture For America",
+        "CompanyWebsite": null,
+        "StartDate": "Nov 2014",
+        "EndDate": "Jun 2016",
+        "Duration": "1 yr 8 mos",
+        "Location": "New Orleans",
+        "Description": "Selected for a two-year entrepreneurship fellowship that places fellows in cities with emerging entrepreneurial ecosystems and managed the recruitment and on-boarding processes of New Orleans VFA company partners as a Company Liaison"
+      },
+      {
+        "Title": "Intern",
+        "Company": "LF Beauty",
+        "CompanyWebsite": null,
+        "StartDate": "Jun 2017",
+        "EndDate": "Aug 2017",
+        "Duration": "3 mos",
+        "Location": "Hong Kong",
+        "Description": null
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Katherine Robinson",
+      "graduation_year": null,
+      "program": "Master of Business Administration (MBA)",
+      "linkedin_url": "https://www.linkedin.com/in/ktrobinson7/"
+    },
+    "current_company": {
+      "name": "Pivotal Ventures",
+      "industry_category": "Philanthropy",
+      "company_type": "Non-profit",
+      "company_stage": "Mature",
+      "job_title": "Senior Manager, Program Strategy",
+      "location": "None",
+      "start_date": "May 2023",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "Pivotal Ventures",
+        "title": "Senior Manager, Program Strategy",
+        "duration": "2 yrs 2 mos",
+        "industry_category": "Philanthropy",
+        "company_type": "Non-profit",
+        "seniority_level": "Senior"
+      },
+      {
+        "company": "Pivotal Ventures",
+        "title": "Secondee",
+        "duration": "1 yr 1 mo",
+        "industry_category": "Philanthropy",
+        "company_type": "Non-profit",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "McKinsey & Company",
+        "title": "Engagement Manager",
+        "duration": "3 yrs",
+        "industry_category": "Consulting",
+        "company_type": "Enterprise",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "McKinsey & Company",
+        "title": "Consultant",
+        "duration": "2 yrs",
+        "industry_category": "Consulting",
+        "company_type": "Enterprise",
+        "seniority_level": "Entry"
+      },
+      {
+        "company": "EMH Strategy",
+        "title": "Consultant",
+        "duration": "2 yrs",
+        "industry_category": "Consulting",
+        "company_type": "Unknown",
+        "seniority_level": "Entry"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "Asia School of Business",
+        "degree": "Master of Business Administration (MBA)",
+        "field_of_study": "Business Administration",
+        "graduation_year": null,
+        "school_tier": "Mid Tier"
+      },
+      {
+        "school": "The Johns Hopkins University",
+        "degree": "Bachelor of Arts (BA)",
+        "field_of_study": "International Studies and Sociology",
+        "graduation_year": null,
+        "school_tier": "Top Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Consulting",
+      "current_seniority_level": "Senior",
+      "key_expertise": [
+        "Program Strategy",
+        "Management Consulting",
+        "Social Impact"
+      ],
+      "years_experience_estimate": "9+ years",
+      "career_trajectory": {
+        "career_path": "Consulting to Philanthropy",
+        "recent_transitions": "Moved from Management Consulting to Program Strategy within the Philanthropy sector.",
+        "growth_pattern": "Steady upward trajectory with increasing responsibility.",
+        "potential_next_roles": [
+          "Director of Program Strategy",
+          "Head of Programs",
+          "Chief Strategy Officer in a non-profit"
+        ]
+      },
+      "industry_transitions": [
+        "Consulting to Philanthropy"
+      ],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "Pivotal Ventures is an investment and incubation company founded by Melinda French Gates.  While it operates independently, it's structured as a limited liability company (LLC), not a publicly traded corporation.  Therefore, precise size metrics like employee count and revenue are not publicly disclosed. However, considering the scale of its investments and initiatives, it can be classified as a **large entity** in terms of its impact and financial resources.\n\n1. **Company Type and Size:**  LLC, large entity (impact and financial resources).  Not a traditional company in the sense of producing goods or services for sale, but rather an investment and incubation entity.\n\n2. **Main Industry and Business Focus:**  Philanthropic investment and incubation focused on driving social progress in the United States, particularly for women and families.  It utilizes a combination of grantmaking, investing, and advocacy.\n\n3. **Key Business Areas and Services:**\n    * **Investments:**  Provides funding to organizations working on issues related to gender equality, economic mobility, and social justice.  This includes investing in for-profit and non-profit entities.\n    * **Incubation:**  Develops and launches new initiatives and programs aimed at addressing social challenges.\n    * **Grantmaking:**  Awards grants to non-profit organizations aligned with its mission.\n    * **Advocacy:**  Engages in advocacy efforts to advance policy changes that support its goals.\n\n4. **Company Stage:** Mature. While Pivotal Ventures is relatively young (founded in 2015),  it operates with significant resources and a clearly defined mission, placing it in a mature stage of development.\n\n5. **Industry Category (Standardized):**  Philanthropy, Impact Investing, Social Impact, Venture Capital\n\n6. **Brief Company Description:** Pivotal Ventures is a Melinda French Gates-founded investment and incubation company dedicated to accelerating social progress in the United States.  Focusing on removing barriers faced by women and families, it leverages investments, grants, and advocacy to drive systemic change and create a more equitable society.",
+    "search_query": "Pivotal Ventures company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:24:38.553079",
+  "enrichment_version": "v2.0"
+}

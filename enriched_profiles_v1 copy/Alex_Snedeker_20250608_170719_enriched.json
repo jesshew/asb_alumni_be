@@ -1,0 +1,207 @@
+{
+  "original_profile": {
+    "First": "Alex",
+    "Preferred": null,
+    "Last": "Snedeker",
+    "Gender": null,
+    "GraduatedYear": 2018,
+    "Intake": null,
+    "Program": "Master of Business Administration - MBA",
+    "GraduationAwards": [],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/alexsnedeker/",
+    "Education": [
+      {
+        "SchoolName": "Asia School of Business",
+        "Degree": "Master of Business Administration - MBA",
+        "FieldOfStudy": "Business Administration and Management, General",
+        "StartYear": 2016,
+        "EndYear": 2018,
+        "ActivitiesAndSocieties": null,
+        "Achievements": [
+          "Grade: 3.7/4.0"
+        ]
+      },
+      {
+        "SchoolName": "University of North Carolina at Chapel Hill",
+        "Degree": "Bachelor of Science (B.S.) with Highest Honors",
+        "FieldOfStudy": "Environmental Science",
+        "StartYear": null,
+        "EndYear": null,
+        "ActivitiesAndSocieties": null,
+        "Achievements": [
+          "Grade: 3.9/4.0"
+        ]
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "General Manager",
+        "Company": "Wattch",
+        "CompanyWebsite": null,
+        "StartDate": "May 2022",
+        "EndDate": "Present",
+        "Duration": "3 yrs 2 mos",
+        "Location": "Atlanta, Georgia, United States",
+        "Description": null
+      },
+      {
+        "Title": "Director of Growth (Sales + Marketing)",
+        "Company": "Cherry Street Energy",
+        "CompanyWebsite": null,
+        "StartDate": "Oct 2021",
+        "EndDate": "May 2022",
+        "Duration": "8 mos",
+        "Location": "Atlanta, Georgia, United States",
+        "Description": null
+      },
+      {
+        "Title": "Director of Marketing",
+        "Company": "Cherry Street Energy",
+        "CompanyWebsite": null,
+        "StartDate": "Nov 2020",
+        "EndDate": "Oct 2021",
+        "Duration": "1 yr",
+        "Location": "Atlanta, Georgia, United States",
+        "Description": null
+      },
+      {
+        "Title": "Marketing Manager",
+        "Company": "Asia School of Business",
+        "CompanyWebsite": null,
+        "StartDate": "Nov 2018",
+        "EndDate": "Oct 2020",
+        "Duration": "2 yrs",
+        "Location": "Kuala Lumpur, Malaysia",
+        "Description": null
+      },
+      {
+        "Title": "Marketing Director",
+        "Company": "Joule Energy",
+        "CompanyWebsite": null,
+        "StartDate": "Mar 2015",
+        "EndDate": "Jul 2016",
+        "Duration": "1 yr 5 mos",
+        "Location": "Greater New Orleans Area",
+        "Description": null
+      },
+      {
+        "Title": "2013 Fellow",
+        "Company": "Venture For America",
+        "CompanyWebsite": null,
+        "StartDate": "Jul 2013",
+        "EndDate": "Jun 2015",
+        "Duration": "2 yrs",
+        "Location": "Greater New York City Area",
+        "Description": null
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Alex Snedeker",
+      "graduation_year": 2018,
+      "program": "Master of Business Administration - MBA",
+      "linkedin_url": "https://www.linkedin.com/in/alexsnedeker/"
+    },
+    "current_company": {
+      "name": "Wattch",
+      "industry_category": "Renewable Energy",
+      "company_type": "Startup",
+      "company_stage": "Growth",
+      "job_title": "General Manager",
+      "location": "Atlanta, Georgia, United States",
+      "start_date": "May 2022",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "Wattch",
+        "title": "General Manager",
+        "duration": "3 yrs 2 mos",
+        "industry_category": "Renewable Energy",
+        "company_type": "Startup",
+        "seniority_level": "Executive"
+      },
+      {
+        "company": "Cherry Street Energy",
+        "title": "Director of Growth (Sales + Marketing)",
+        "duration": "8 mos",
+        "industry_category": "Renewable Energy",
+        "company_type": "Startup",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "Cherry Street Energy",
+        "title": "Director of Marketing",
+        "duration": "1 yr",
+        "industry_category": "Renewable Energy",
+        "company_type": "Startup",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "Asia School of Business",
+        "title": "Marketing Manager",
+        "duration": "2 yrs",
+        "industry_category": "Education",
+        "company_type": "Educational Institution",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "Joule Energy",
+        "title": "Marketing Director",
+        "duration": "1 yr 5 mos",
+        "industry_category": "Renewable Energy",
+        "company_type": "Startup",
+        "seniority_level": "Mid"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "Asia School of Business",
+        "degree": "Master of Business Administration - MBA",
+        "field_of_study": "Business Administration and Management, General",
+        "graduation_year": 2018,
+        "school_tier": "Mid Tier"
+      },
+      {
+        "school": "University of North Carolina at Chapel Hill",
+        "degree": "Bachelor of Science (B.S.)",
+        "field_of_study": "Environmental Science",
+        "graduation_year": null,
+        "school_tier": "Top Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Renewable Energy",
+      "current_seniority_level": "Executive",
+      "key_expertise": [
+        "Marketing",
+        "Sales",
+        "Growth",
+        "Renewable Energy",
+        "Business Development"
+      ],
+      "years_experience_estimate": "7+",
+      "career_trajectory": {
+        "career_path": "Marketing and Sales focused within the Renewable Energy industry, progressing into General Management",
+        "recent_transitions": "Consistent upward trajectory, demonstrating increasing responsibility and leadership roles.",
+        "growth_pattern": "Rapid career growth with transitions to higher seniority levels.",
+        "potential_next_roles": [
+          "VP of Operations",
+          "COO",
+          "CEO within a Renewable Energy company",
+          "Director/VP at a larger Renewable Energy firm"
+        ]
+      },
+      "industry_transitions": [],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "Based on available information, there are two distinct entities using the name \"Wattch\":\n\n**1. Wattch (UK-based Electric Vehicle Charging)**\n\n* **Company Type and Size:** Small to Medium Enterprise (SME)\n* **Main Industry and Business Focus:**  Electric Vehicle (EV) Charging Infrastructure and Management\n* **Key Business Areas and Services:** Installation and maintenance of EV chargers (both domestic and commercial),  EV charging management software and platforms, potentially energy management consulting for businesses transitioning to EV fleets.\n* **Company Stage:** Growth\n* **Industry Category:**  Renewable Energy Equipment & Services,  Information Technology and Services,  Facilities Services\n* **Brief Company Description:** Wattch is a UK-based company specializing in providing comprehensive EV charging solutions.  They offer end-to-end services, from initial consultation and charger installation to ongoing maintenance and software-based charging management.  They appear to cater to both residential and commercial clients.  Their specific focus seems to be on simplifying the EV charging experience and optimizing charging efficiency.  They are actively growing their presence in the UK market.\n\n**2. Wattch (US-based Smart Watch Technology - Defunct)**\n\n* **Company Type and Size:**  Startup (now defunct)\n* **Main Industry and Business Focus:**  Wearable Technology, Smartwatches, Mobile Applications\n* **Key Business Areas and Services:** Developed a smartwatch and accompanying mobile app focused on security and personal safety features, particularly for women.  The watch included features like GPS tracking, emergency alerts, and a discreet panic button.\n* **Company Stage:**  Defunct (website and social media presence are inactive)\n* **Industry Category:** Consumer Electronics,  Software,  Personal Safety\n* **Brief Company Description:**  Wattch was a US-based startup that developed a smartwatch designed for personal safety.  It aimed to provide users, particularly women, with a discreet and readily accessible way to call for help in emergency situations.  While the product generated some initial interest, the company appears to have ceased operations, and the product is no longer available.\n\n\nIt's important to differentiate between these two entities when searching for information.  The UK-based EV charging company is currently active, while the US-based smartwatch company is no longer operating.",
+    "search_query": "Wattch company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:24:00.531029",
+  "enrichment_version": "v2.0"
+}

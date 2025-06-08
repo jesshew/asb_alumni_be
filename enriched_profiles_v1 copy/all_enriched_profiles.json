@@ -1,0 +1,2652 @@
+[
+  {
+    "original_profile": {
+      "First": "Jatinn",
+      "Preferred": null,
+      "Last": "Sehgal",
+      "Gender": null,
+      "GraduatedYear": 2018,
+      "Intake": null,
+      "Program": "Master of Business Administration (M.B.A.)",
+      "GraduationAwards": [
+        "ASB Full Fellowship Award"
+      ],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/jsehgal/",
+      "Education": [
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "Master of Business Administration (M.B.A.)",
+          "FieldOfStudy": null,
+          "StartYear": 2016,
+          "EndYear": 2018,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        },
+        {
+          "SchoolName": "MIT Sloan School of Management",
+          "Degree": "MBA Spring Immersion",
+          "FieldOfStudy": "Business Administration and Management, General",
+          "StartYear": 2017,
+          "EndYear": 2017,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "SAP Concur Senior Account Manager, Southeast Asia",
+          "Company": "SAP",
+          "CompanyWebsite": null,
+          "StartDate": "Dec 2022",
+          "EndDate": "Present",
+          "Duration": "2 yrs 7 mos",
+          "Location": "Singapore",
+          "Description": "• Trusted advisor for Finance & HR teams on the company’s Travel & Expense policies industry best practices in Southeast Asia\n• Achieved Q-o-Q targets while managing revenue of 4 million Euros across 25 clients\n• Identified whitespace opportunities of over USD 500K through conducting multiple business reviews within the target accounts\n• Led China Cross Border Data Transfer and Vietnam Decree initiative managing multiple customers stakeholders’ escalations"
+        },
+        {
+          "Title": "SAP Litmos MidMarket Lead (Singapore, Indonesia, India)",
+          "Company": "SAP",
+          "CompanyWebsite": null,
+          "StartDate": "Mar 2022",
+          "EndDate": "Nov 2022",
+          "Duration": "9 mos",
+          "Location": "Singapore",
+          "Description": "• Led the Litmos (Learning & Development) business across Singapore, India and Indonesia\n• Delivered 40% Y-o-Y growth in net new sales in MSME businesses across the region\n• Actively collaborated with C-suite stakeholders internally and externally to promote Litmos cross-industry and within SAP Account teams\n• Build SAP Litmos partner and distributor network through various channels and closed the 1st indirect deal in India in 3 months"
+        },
+        {
+          "Title": "Industry Account Executive",
+          "Company": "SAP",
+          "CompanyWebsite": null,
+          "StartDate": "Jun 2019",
+          "EndDate": "Mar 2022",
+          "Duration": "2 yrs 10 mos",
+          "Location": "Malaysia",
+          "Description": "Account Executive for the territory of diverse industry customers & hidden champions with the following tasks:\n• Achievement of agreed sales targets and customer satisfaction in a challenging environment\n• Driving the whole sales cycle from demand generation, territory planning, to negotiating on different hierarchical levels in a direct and indirect buying cycle\n• Closing of complex software deals in cooperation with appropriate partners and line of businesses\n• Orchestration of the teams of Specialized Sales, Demand Managers, Marketing and Business Development,\n• Demonstrating the value of SAP solutions with industry content and business case"
+        },
+        {
+          "Title": "Consulting Project - Intern",
+          "Company": "Bangkok Bank",
+          "CompanyWebsite": null,
+          "StartDate": "Sep 2017",
+          "EndDate": "Dec 2017",
+          "Duration": "4 mos",
+          "Location": "Bangkok Metropolitan Area, Thailand",
+          "Description": "• Predicted $ XX Millions in savings by customer transition to mobile banking using behavioural personas for targeted campaigns through market segmentation"
+        },
+        {
+          "Title": "Wealth Management Strategy Intern",
+          "Company": "Citi",
+          "CompanyWebsite": null,
+          "StartDate": "Jun 2017",
+          "EndDate": "Aug 2017",
+          "Duration": "3 mos",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": "• Drafted business case for growth of Private Wealth Management (WM) business of Citibank Malaysia.\n• Identified WM business growth drivers and quantified their contribution based on extensive industry research, market sizing and competitor benchmarking."
+        },
+        {
+          "Title": "Consulting Project - Intern",
+          "Company": "BJC",
+          "CompanyWebsite": null,
+          "StartDate": "Jan 2017",
+          "EndDate": "Mar 2017",
+          "Duration": "3 mos",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": "• Developed Post M&A process re-engineering roadmap; focussing on finding synergies between sales, marketing, IT depts of the acquired firm."
+        },
+        {
+          "Title": "Consulting Project - Intern",
+          "Company": "Boeing",
+          "CompanyWebsite": null,
+          "StartDate": "Sep 2016",
+          "EndDate": "Dec 2016",
+          "Duration": "4 mos",
+          "Location": "Kedah, Malaysia",
+          "Description": "• Predicted $XXXK in savings by creating cost reduction tool to optimize company resource allocation strategy incorporating key success factors identified through employee surveys, conjoint analysis and interviews.\n• Developed and proposed framework for maximizing staff engagement in cost reduction initiative."
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Jatinn Sehgal",
+        "graduation_year": 2018,
+        "program": "Master of Business Administration (M.B.A.)",
+        "linkedin_url": "https://www.linkedin.com/in/jsehgal/"
+      },
+      "current_company": {
+        "name": "SAP",
+        "industry_category": "Technology",
+        "company_type": "Enterprise",
+        "company_stage": "Mature",
+        "job_title": "SAP Concur Senior Account Manager, Southeast Asia",
+        "location": "Singapore",
+        "start_date": "Dec 2022",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "SAP",
+          "title": "SAP Concur Senior Account Manager, Southeast Asia",
+          "duration": "2 yrs 7 mos",
+          "industry_category": "Technology",
+          "company_type": "Enterprise",
+          "seniority_level": "Senior"
+        },
+        {
+          "company": "SAP",
+          "title": "SAP Litmos MidMarket Lead (Singapore, Indonesia, India)",
+          "duration": "9 mos",
+          "industry_category": "Technology",
+          "company_type": "Enterprise",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "SAP",
+          "title": "Industry Account Executive",
+          "duration": "2 yrs 10 mos",
+          "industry_category": "Technology",
+          "company_type": "Enterprise",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Bangkok Bank",
+          "title": "Consulting Project - Intern",
+          "duration": "4 mos",
+          "industry_category": "Finance",
+          "company_type": "Enterprise",
+          "seniority_level": "Entry"
+        },
+        {
+          "company": "Citi",
+          "title": "Wealth Management Strategy Intern",
+          "duration": "3 mos",
+          "industry_category": "Finance",
+          "company_type": "Enterprise",
+          "seniority_level": "Entry"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration (M.B.A.)",
+          "field_of_study": "Business Administration and Management, General",
+          "graduation_year": 2018,
+          "school_tier": "Mid Tier"
+        },
+        {
+          "school": "MIT Sloan School of Management",
+          "degree": "MBA Spring Immersion in Business Administration and Management, General",
+          "field_of_study": "Business Administration and Management, General",
+          "graduation_year": 2017,
+          "school_tier": "Top Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Technology",
+        "current_seniority_level": "Senior",
+        "key_expertise": [
+          "Account Management",
+          "Sales",
+          "Southeast Asia",
+          "SaaS",
+          "Cloud Solutions"
+        ],
+        "years_experience_estimate": "6+",
+        "career_trajectory": {
+          "career_path": "Sales and Account Management within Technology",
+          "recent_transitions": "Progression within SAP, focusing on increasing responsibility in account management.",
+          "growth_pattern": "Upward trajectory within a single company, demonstrating increasing expertise and responsibility.",
+          "potential_next_roles": [
+            "Senior Account Director",
+            "Head of Sales",
+            "Regional Sales Manager"
+          ]
+        },
+        "industry_transitions": [
+          "Finance to Technology"
+        ],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "1. **Company Type and Size:** Large enterprise, multinational corporation\n\n2. **Main Industry and Business Focus:** Enterprise software, cloud computing, database management, business intelligence, analytics, customer relationship management (CRM), supply chain management (SCM), human capital management (HCM), and related services.  Focus is on helping businesses manage their operations and customer relations.\n\n3. **Key Business Areas and Services:**\n    * **Enterprise Resource Planning (ERP):**  SAP S/4HANA, their flagship ERP system, integrates various business functions into a single platform.\n    * **Customer Relationship Management (CRM):**  SAP Customer Experience solutions help businesses manage customer interactions and data.\n    * **Supply Chain Management (SCM):**  SAP's supply chain solutions help businesses optimize their supply chains from procurement to logistics.\n    * **Human Capital Management (HCM):**  SAP SuccessFactors solutions cover various aspects of human resource management, including talent management, payroll, and core HR.\n    * **Business Technology Platform (BTP):** A platform-as-a-service offering for developing and running business applications.\n    * **Business Intelligence and Analytics:**  SAP Analytics Cloud and other tools provide data visualization and analytics capabilities.\n    * **Industry-Specific Solutions:**  SAP offers tailored solutions for various industries, such as retail, manufacturing, and financial services.\n    * **Cloud Services:**  SAP offers a wide range of cloud-based solutions, including software-as-a-service (SaaS), platform-as-a-service (PaaS), and infrastructure-as-a-service (IaaS).\n    * **Professional Services:**  Implementation, consulting, training, and support services related to SAP software.\n\n4. **Company Stage:** Enterprise (mature, established)\n\n5. **Industry Category (Standardized):**\n    * **NAICS:** 511210 (Software Publishers)\n    * **GICS:** 45 (Information Technology) - 4510 (Software & Services)\n\n6. **Brief Company Description:** SAP SE (Systems, Applications & Products in data processing) is a German multinational software corporation based in Walldorf, Baden-Württemberg.  Founded in 1972, it is one of the world's leading providers of enterprise application software.  SAP's core business is selling enterprise software solutions to manage business operations and customer relations.  They serve organizations of all sizes across a wide range of industries, offering both on-premises and cloud-based solutions.",
+      "search_query": "SAP company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:21:20.840353",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Ponce",
+      "Preferred": "Ernest",
+      "Last": "Samaniego",
+      "Gender": null,
+      "GraduatedYear": 2018,
+      "Intake": null,
+      "Program": "MBA",
+      "GraduationAwards": [
+        "President’s Leadership Award",
+        "Best Action Learning Project"
+      ],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/poncesamaniego/",
+      "Education": [
+        {
+          "SchoolName": "MIT Sloan School of Management",
+          "Degree": "Master of Science in Management Studies",
+          "FieldOfStudy": "General Management and Business Analytics",
+          "StartYear": 2019,
+          "EndYear": 2020,
+          "ActivitiesAndSocieties": null,
+          "Achievements": [
+            "Awarded merit-based fellowship covering 50% of tuition",
+            "Student Project: Improving B2B Sales for a SaaS company in Israel",
+            "Thesis entitled Analytics for Corporate Social Responsibility"
+          ]
+        },
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "Master of Business Administration (MBA)",
+          "FieldOfStudy": null,
+          "StartYear": 2016,
+          "EndYear": 2018,
+          "ActivitiesAndSocieties": "ASB Community Service Club",
+          "Achievements": [
+            "Awarded the President’s Leadership Award (given to one student each cohort at graduation for demonstrating ASB’s values of excellence, collaboration, continuous learning, well-being, and respect)",
+            "Selected for Best Action Learning Project (out of 40 student team projects) recognizing the most impactful and rigorous student project throughout the MBA program",
+            "Granted ASB Fellowship Award which covers 100% of tuition, housing, and travel"
+          ]
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "Senior Product Manager, Recycle and International Liquidations",
+          "Company": "Amazon",
+          "CompanyWebsite": null,
+          "StartDate": "Aug 2024",
+          "EndDate": "Present",
+          "Duration": "11 mos",
+          "Location": "Greater Seattle Area",
+          "Description": "Leads product strategy and development for Amazon’s global recycling technology initiatives, optimizing waste classification, tracking, and compliance systems that align with Amazon’s ESG goals.\nLaunched Liquidations as a Service for FBA Sellers in Canada, enabling sellers to recover value from unsold goods while generating $61.5M in revenue and freeing $21M in fulfillment center capacity.\nOwns Project TRACE, a cross-functional digital product reducing brand and regulatory risk (~$115M/year) while delivering $2.87M in operational savings through advanced recycling vendor analytics.\nAuthor of end-to-end traceability platform roadmap and business requirement document; drives alignment across hardware, data science, and software teams to meet $105M in compliance entitlements.\nDeveloped scalable automation protocols for donation and liquidation partners to improve accountability and avoid environmental noncompliance penalties of up to $15M per infraction."
+        },
+        {
+          "Title": "Senior Product Manager, Driver Engagement and Motivation",
+          "Company": "Amazon",
+          "CompanyWebsite": null,
+          "StartDate": "Jan 2023",
+          "EndDate": "Aug 2024",
+          "Duration": "1 yr 8 mos",
+          "Location": "Greater Seattle Area",
+          "Description": "Owned the Amazon Flex Rewards product (1M+ global users), improving driver loyalty and delivery capacity via gamified, tier-based incentives.\nScaled Flex Rewards to JP, AU, and SG, increasing driver hours by 13.4% through localized partnerships with benefit providers.\nLed debit card integration into onboarding, increasing financial product adoption by 68% among delivery partners.\nCo-led Amazon Delivery’s volunteering program, engaging 42% of the org in community service initiatives."
+        },
+        {
+          "Title": "Senior Program Manager, Driver Evaluation",
+          "Company": "Amazon",
+          "CompanyWebsite": null,
+          "StartDate": "Aug 2020",
+          "EndDate": "Jan 2023",
+          "Duration": "2 yrs 6 mos",
+          "Location": "Greater Seattle Area",
+          "Description": "Led Project Patronus to redefine global evaluation standards for delivery partners, improving policy accuracy by over 9–10% across NA, APAC, and India.\nBuilt anomaly detection model for real-time identification of Large Scale Events (LSEs), protecting 36,000 drivers and improving exception timeliness by +460 bps.\nAwarded the WW Last Mile Ops Advocate Award for building trust with ops teams through delivery of high-impact, tech-enabled solutions."
+        },
+        {
+          "Title": "Senior Program Manager (Innovation and Entrepreneurship)",
+          "Company": "Asia School of Business",
+          "CompanyWebsite": null,
+          "StartDate": "Apr 2018",
+          "EndDate": "Aug 2019",
+          "Duration": "1 yr 5 mos",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": "Increased Center revenue by 260% in 7 months through improved lead engagement and custom innovation training programs.\nDeveloped and delivered corporate workshops in product development, design thinking, and basic programming to boost innovation capabilities in the private and public sectors.\nLed business planning for a 5-year strategic roadmap, aligning education and innovation goals with long-term growth and partnerships."
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Ponce Samaniego",
+        "graduation_year": 2018,
+        "program": "MBA",
+        "linkedin_url": "https://www.linkedin.com/in/poncesamaniego/"
+      },
+      "current_company": {
+        "name": "Amazon",
+        "industry_category": "Technology",
+        "company_type": "Public",
+        "company_stage": "Enterprise",
+        "job_title": "Senior Product Manager, Recycle and International Liquidations",
+        "location": "Greater Seattle Area",
+        "start_date": "Aug 2024",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "Amazon",
+          "title": "Senior Product Manager, Recycle and International Liquidations",
+          "duration": "11 mos",
+          "industry_category": "Technology",
+          "company_type": "Public",
+          "seniority_level": "Senior"
+        },
+        {
+          "company": "Amazon",
+          "title": "Senior Product Manager, Driver Engagement and Motivation",
+          "duration": "1 yr 8 mos",
+          "industry_category": "Technology",
+          "company_type": "Public",
+          "seniority_level": "Senior"
+        },
+        {
+          "company": "Amazon",
+          "title": "Senior Program Manager, Driver Evaluation",
+          "duration": "2 yrs 6 mos",
+          "industry_category": "Technology",
+          "company_type": "Public",
+          "seniority_level": "Senior"
+        },
+        {
+          "company": "Asia School of Business",
+          "title": "Senior Program Manager (Innovation and Entrepreneurship)",
+          "duration": "1 yr 5 mos",
+          "industry_category": "Education",
+          "company_type": "Educational Institution",
+          "seniority_level": "Senior"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "MIT Sloan School of Management",
+          "degree": "Master of Science",
+          "field_of_study": "Management Studies in General Management and Business Analytics",
+          "graduation_year": 2020,
+          "school_tier": "Top Tier"
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration (MBA)",
+          "field_of_study": "Business Administration",
+          "graduation_year": 2018,
+          "school_tier": "Mid Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Technology",
+        "current_seniority_level": "Senior",
+        "key_expertise": [
+          "Product Management",
+          "Program Management",
+          "Driver Engagement",
+          "Liquidations",
+          "Recycle",
+          "Innovation",
+          "Entrepreneurship",
+          "Business Analytics"
+        ],
+        "years_experience_estimate": "6+",
+        "career_trajectory": {
+          "career_path": "Program Management to Product Management",
+          "recent_transitions": "Within Amazon, focusing on different product areas",
+          "growth_pattern": "Consistent growth within Amazon",
+          "potential_next_roles": [
+            "Director of Product Management",
+            "Head of Product"
+          ]
+        },
+        "industry_transitions": [
+          "Education to Technology"
+        ],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "1. **Company Type and Size:** Large Enterprise (Multinational Conglomerate)\n    * Amazon is one of the world's largest companies by revenue and market capitalization.  It employs over 1.5 million people worldwide.\n\n2. **Main Industry and Business Focus:** E-commerce, Cloud Computing, Digital Streaming, Artificial Intelligence\n    * While initially focused on online retail, Amazon has diversified significantly. Its core businesses now encompass a vast range of products and services.\n\n3. **Key Business Areas and Services:**\n    * **E-commerce:** Online retail of physical and digital goods, including books, electronics, apparel, groceries, and more through platforms like Amazon.com, Amazon Marketplace, and various country-specific sites.\n    * **Cloud Computing (Amazon Web Services - AWS):** Offers a comprehensive suite of cloud computing services, including computing power, storage, databases, analytics, networking, and more.  A dominant player in the cloud infrastructure market.\n    * **Digital Streaming (Amazon Prime Video, Amazon Music):** Provides on-demand video and music streaming services, competing with Netflix, Spotify, and others.\n    * **Artificial Intelligence (AI):** Develops and utilizes AI technologies for various applications, including voice assistants (Alexa), machine learning for its e-commerce platform, and cloud-based AI services for developers.\n    * **Logistics and Delivery:** Operates a vast logistics network including fulfillment centers, delivery trucks, and airplanes, enabling fast and efficient delivery of goods.\n    * **Physical Retail:** Operates physical stores, including Amazon Go (cashierless convenience stores), Amazon Fresh grocery stores, and Amazon Books.\n    * **Advertising:** Offers advertising services on its e-commerce platform and other properties, generating significant revenue.\n    * **Devices (Kindle, Echo, Fire TV):** Develops and sells consumer electronics devices like e-readers, smart speakers, and streaming devices.\n\n4. **Company Stage:** Mature/Enterprise\n    * Amazon is a well-established, mature company operating at an enterprise scale. It continues to innovate and expand into new markets, but its core businesses are mature and highly profitable.\n\n5. **Industry Category (Standardized):**\n    * **NAICS:** 454110 (Electronic Shopping and Mail-Order Houses) - primary\n    * **NAICS:** 518210 (Data Processing, Hosting, and Related Services) - for AWS\n    * **NAICS:** 512290 (Other Sound Recording Industries) - for Amazon Music\n    * **NAICS:** 512110 (Motion Picture and Video Production) - for Amazon Studios\n    * **GICS:** Consumer Discretionary (Internet & Direct Marketing Retail) - primary\n    * **GICS:** Information Technology (Software & Services) - for AWS\n\n\n6. **Brief Company Description:** Amazon is a multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence. Founded in 1994 by Jeff Bezos, it started as an online bookstore and has since grown to become one of the world's most valuable companies. Amazon offers a wide range of products and services, including online retail, cloud infrastructure, digital content streaming, AI-powered devices, and logistics solutions, serving millions of customers and businesses globally.",
+      "search_query": "Amazon company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:21:43.633823",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Mike",
+      "Preferred": null,
+      "Last": "Titzer",
+      "Gender": null,
+      "GraduatedYear": 2018,
+      "Intake": null,
+      "Program": "Master of Business Administration (MBA)",
+      "GraduationAwards": [],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/mike-titzer-834a0535/",
+      "Education": [
+        {
+          "SchoolName": "United States Naval Academy",
+          "Degree": "Bachelor of Science - BS",
+          "FieldOfStudy": "Mechanical Engineering",
+          "StartYear": 2004,
+          "EndYear": 2008,
+          "ActivitiesAndSocieties": null,
+          "Achievements": [
+            "Graduated with Merit, Minored in Spanish"
+          ]
+        },
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "Master of Business Administration (MBA)",
+          "FieldOfStudy": null,
+          "StartYear": 2016,
+          "EndYear": 2018,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "Key Accounts Manager & Project Manager",
+          "Company": "NOLS",
+          "CompanyWebsite": null,
+          "StartDate": "2018",
+          "EndDate": "Present",
+          "Duration": "7 yrs 6 mos",
+          "Location": "Remote",
+          "Description": "• Own full client lifecycle for $1.2M+ in annual revenue across B2B and government accounts, including onboarding, implementation, contract delivery, and ongoing support.\n• Increased customer satisfaction and long-term renewals by identifying client goals, customizing delivery plans, and aligning internal teams for seamless delivery.\n• Built onboarding and account management workflows for high-touch clients; reduced churn and improved time-to-value.\n• Acted as liaison between clients and cross-functional teams (legal, finance, operations) to ensure compliance and timely delivery."
+        },
+        {
+          "Title": "Founder & Operations Lead",
+          "Company": "Braided Rivers LLC",
+          "CompanyWebsite": null,
+          "StartDate": "2022",
+          "EndDate": "Present",
+          "Duration": "3 yrs 6 mos",
+          "Location": "Remote",
+          "Description": "• Directed technical planning and vendor coordination for residential and international construction projects, overseeing budgets, schedules, and risk mitigation.\n• Managed $1M+ real estate portfolio and financial performance metrics, including cap rates, NOI, and cash flow.\n• Utilized Smartsheet and Basecamp to track tasks, manage timelines, and coordinate remote field teams.\n• Negotiated vendor contracts and oversaw quality control of deliverables and timelines."
+        },
+        {
+          "Title": "Project Manager / Technical Consultant",
+          "Company": "Self-employed",
+          "CompanyWebsite": null,
+          "StartDate": "2015",
+          "EndDate": "2018",
+          "Duration": "3 yrs",
+          "Location": "Greater Kuala Lumpur",
+          "Description": "• Delivered customer growth projects across Asia-Pacific, including onboarding and retention strategies for major clients like Johnson & Johnson and AirAsia.\n• Spearheaded the operational and customer engagement setup of a new athletic center in Cambodia, increasing annual revenue by $200K.\n• Led research and implementation of CX and go-to-market strategies, contributing to a 7% increase in market share for a healthcare brand."
+        },
+        {
+          "Title": "Strategic Planner & Client Liaison",
+          "Company": "United States Marine Corps",
+          "CompanyWebsite": null,
+          "StartDate": "2008",
+          "EndDate": "2014",
+          "Duration": "6 yrs",
+          "Location": "Global",
+          "Description": "• Served as key liaison between U.S. military and UAE government partners, overseeing multi-year client training programs and cross-cultural team integration.\n• Created and delivered leadership development programs for 600+ personnel, leading to improved engagement and client satisfaction.\n• Managed multi-stakeholder communications and delivered successful outcomes in high-pressure, remote, and cross-border environments."
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Mike Titzer",
+        "graduation_year": 2018,
+        "program": "Master of Business Administration (MBA)",
+        "linkedin_url": "https://www.linkedin.com/in/mike-titzer-834a0535/"
+      },
+      "current_company": {
+        "name": "NOLS",
+        "industry_category": "Education",
+        "company_type": "Non-profit",
+        "company_stage": "Mature",
+        "job_title": "Key Accounts Manager & Project Manager",
+        "location": "Remote",
+        "start_date": "2018",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "NOLS",
+          "title": "Key Accounts Manager & Project Manager",
+          "duration": "7 yrs 6 mos",
+          "industry_category": "Education",
+          "company_type": "Non-profit",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Braided Rivers LLC",
+          "title": "Founder & Operations Lead",
+          "duration": "3 yrs 6 mos",
+          "industry_category": "Unknown",
+          "company_type": "Unknown",
+          "seniority_level": "Executive"
+        },
+        {
+          "company": "Self-employed",
+          "title": "Project Manager / Technical Consultant",
+          "duration": "3 yrs",
+          "industry_category": "Consulting",
+          "company_type": "Self-Employed",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "United States Marine Corps",
+          "title": "Strategic Planner & Client Liaison",
+          "duration": "6 yrs",
+          "industry_category": "Military",
+          "company_type": "Government",
+          "seniority_level": "Mid"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "United States Naval Academy",
+          "degree": "Bachelor of Science - BS",
+          "field_of_study": "Mechanical Engineering",
+          "graduation_year": 2008,
+          "school_tier": "Top Tier"
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration (MBA)",
+          "field_of_study": "Business Administration",
+          "graduation_year": 2018,
+          "school_tier": "Mid Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Education",
+        "current_seniority_level": "Mid",
+        "key_expertise": [
+          "Project Management",
+          "Account Management",
+          "Operations",
+          "Strategic Planning",
+          "Client Relations"
+        ],
+        "years_experience_estimate": "19+ years",
+        "career_trajectory": {
+          "career_path": "Military to Consulting/Entrepreneurship to Education Management",
+          "recent_transitions": "Focus on account and project management within the education sector.",
+          "growth_pattern": "Lateral growth with increasing responsibility and leadership opportunities.",
+          "potential_next_roles": [
+            "Senior Management",
+            "Director of Operations",
+            "Head of Sales/Partnerships"
+          ]
+        },
+        "industry_transitions": [
+          "Military",
+          "Consulting",
+          "Entrepreneurship",
+          "Education"
+        ],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "1. **Company type and size:** NOLS is a large non-profit organization. While exact employee numbers are not publicly available, their extensive global operations and numerous courses suggest a substantial staff and instructor base, placing them firmly beyond SME status.\n\n2. **Main industry and business focus:**  NOLS's primary focus is wilderness education. They specialize in teaching leadership and outdoor skills through immersive expedition courses.\n\n3. **Key business areas and services:**\n\n* **Wilderness expeditions:** These are the core of NOLS's offerings. They range from backpacking and kayaking trips to mountaineering and sea kayaking, catering to various skill levels and interests, from beginner to advanced.  Courses are offered globally in diverse environments.\n* **Leadership training:**  Leadership development is integrated into all NOLS expeditions.  They also offer specific leadership courses and programs for organizations and individuals.\n* **Risk management training:**  NOLS provides training in wilderness risk management, including wilderness first aid, wilderness medicine, and other safety-related certifications.\n* **Custom education programs:** NOLS designs and delivers custom wilderness education programs for schools, organizations, and corporate groups, tailoring the experience to specific goals.\n* **Stewardship and research:** NOLS engages in environmental stewardship initiatives and conducts research related to wilderness education and leadership.\n\n4. **Company stage:** Enterprise. NOLS has been operating for over 75 years, making it a well-established and mature organization with a global reach.\n\n5. **Industry category (standardized):**  Education (specifically, Outdoor Education/Experiential Learning)\n\n6. **Brief company description:** The National Outdoor Leadership School (NOLS) is a non-profit global wilderness school dedicated to teaching leadership and outdoor skills through challenging expeditions. Founded in 1965, NOLS emphasizes experiential learning, environmental ethics, and risk management. They offer a wide range of courses and programs for individuals and organizations, catering to diverse interests and skill levels.  NOLS operates across six continents and is recognized as a leader in wilderness education and leadership development.",
+      "search_query": "NOLS company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:22:03.140236",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Siddharth",
+      "Preferred": null,
+      "Last": "G",
+      "Gender": null,
+      "GraduatedYear": 2018,
+      "Intake": 2016,
+      "Program": "Master of Business Administration - MBA",
+      "GraduationAwards": [
+        "Full MBA Scholarships"
+      ],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/sidgondode/",
+      "Education": [
+        {
+          "SchoolName": "MIT Sloan School of Management",
+          "Degree": "Master of Business Administration - MBA",
+          "FieldOfStudy": "Business Administration and Management, General",
+          "StartYear": 2017,
+          "EndYear": 2017,
+          "ActivitiesAndSocieties": "MIT Sloan International Masters Program",
+          "Achievements": []
+        },
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "Master of Business Administration - MBA",
+          "FieldOfStudy": "Business Administration and Management",
+          "StartYear": 2016,
+          "EndYear": 2018,
+          "ActivitiesAndSocieties": "Co-founder and President : ASB Community Service Club",
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "E-commerce Strategy and Insights Lead",
+          "Company": "Makro",
+          "CompanyWebsite": null,
+          "StartDate": "Sep 2023",
+          "EndDate": "Present",
+          "Duration": "1 yr 10 mos",
+          "Location": "Bangkok, Bangkok City, Thailand",
+          "Description": null
+        },
+        {
+          "Title": "Digital Strategy and Transformation Lead",
+          "Company": "Central Retail",
+          "CompanyWebsite": null,
+          "StartDate": "Oct 2021",
+          "EndDate": "Sep 2023",
+          "Duration": "2 yrs",
+          "Location": "Bangkok, Bangkok City, Thailand",
+          "Description": "Digital Strategy | Digital Transformation | Business Transformation | Business Insights | Project Management | Innovation | Data Strategy |"
+        },
+        {
+          "Title": "Sr. Manager E-commerce Strategy and Insights",
+          "Company": "airasia Super App",
+          "CompanyWebsite": null,
+          "StartDate": "Jan 2020",
+          "EndDate": "Oct 2021",
+          "Duration": "1 yr 10 mos",
+          "Location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+          "Description": "Business Strategy | Commercial Planning | Market Research | Commercial Analytics | Campaign Performance | Business Review | E-Wallets"
+        },
+        {
+          "Title": "Business Strategy Manager (Airline and Partnerships)",
+          "Company": "AirAsia",
+          "CompanyWebsite": null,
+          "StartDate": "Sep 2018",
+          "EndDate": "Feb 2020",
+          "Duration": "1 yr 6 mos",
+          "Location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+          "Description": "Strategic Planning | Business Performance | Business Development | Growth Strategy | Strategic Partnerships"
+        },
+        {
+          "Title": "MBA Consulting Project (Mobile Customer Acquisition Strategy)",
+          "Company": "Bangkok Bank",
+          "CompanyWebsite": null,
+          "StartDate": "Jul 2017",
+          "EndDate": "Dec 2017",
+          "Duration": "6 mos",
+          "Location": "Bangkok, Bangkok City, Thailand",
+          "Description": "Customer Acquisition Strategy for mobile Banking App | Market Research | Product Management"
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Siddharth G",
+        "graduation_year": 2018,
+        "program": "Master of Business Administration - MBA",
+        "linkedin_url": "https://www.linkedin.com/in/sidgondode/"
+      },
+      "current_company": {
+        "name": "Makro",
+        "industry_category": "Retail",
+        "company_type": "Subsidiary",
+        "company_stage": "Mature",
+        "job_title": "E-commerce Strategy and Insights Lead",
+        "location": "Bangkok, Bangkok City, Thailand",
+        "start_date": "Sep 2023",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "Makro",
+          "title": "E-commerce Strategy and Insights Lead",
+          "duration": "1 yr 10 mos",
+          "industry_category": "Retail",
+          "company_type": "Subsidiary",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Central Retail",
+          "title": "Digital Strategy and Transformation Lead",
+          "duration": "2 yrs",
+          "industry_category": "Retail",
+          "company_type": "Enterprise",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "airasia Super App",
+          "title": "Sr. Manager E-commerce Strategy and Insights",
+          "duration": "1 yr 10 mos",
+          "industry_category": "Technology",
+          "company_type": "Growth",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "AirAsia",
+          "title": "Business Strategy Manager (Airline and Partnerships)",
+          "duration": "1 yr 6 mos",
+          "industry_category": "Travel",
+          "company_type": "Enterprise",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Bangkok Bank",
+          "title": "MBA Consulting Project (Mobile Customer Acquisition Strategy)",
+          "duration": "6 mos",
+          "industry_category": "Finance",
+          "company_type": "Enterprise",
+          "seniority_level": "Entry"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "MIT Sloan School of Management",
+          "degree": "Master of Business Administration - MBA",
+          "field_of_study": "Business Administration and Management, General",
+          "graduation_year": 2017,
+          "school_tier": "Top Tier"
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration - MBA",
+          "field_of_study": "Business Administration and Management",
+          "graduation_year": 2018,
+          "school_tier": "Mid Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Retail",
+        "current_seniority_level": "Mid",
+        "key_expertise": [
+          "E-commerce",
+          "Strategy",
+          "Digital Transformation",
+          "Business Strategy",
+          "Insights"
+        ],
+        "years_experience_estimate": "6+",
+        "career_trajectory": {
+          "career_path": "E-commerce and Digital Strategy",
+          "recent_transitions": "Within the retail and e-commerce industry, with increasing responsibility.",
+          "growth_pattern": "Consistent growth within strategy and e-commerce roles.",
+          "potential_next_roles": [
+            "Head of E-commerce",
+            "Director of Digital Strategy",
+            "Chief Digital Officer"
+          ]
+        },
+        "industry_transitions": [
+          "Travel to Technology",
+          "Technology to Retail"
+        ],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "Makro is a large, international brand operating primarily as a **cash-and-carry wholesaler**.  It's difficult to give one single, universally accurate description as Makro operates under different ownership and slightly different business models depending on the country.  However, some general characteristics hold true across most locations:\n\n1. **Company type and size:** Large enterprise. Makro operates across multiple countries and generally employs thousands of staff.\n\n2. **Main industry and business focus:** Wholesale and retail. Its core business is selling goods in bulk to businesses, traders, institutions, and professional customers (Horeca: Hotels, Restaurants, and Catering). In some regions, it also serves individual consumers.\n\n3. **Key business areas and services:**\n    * **Wholesale:**  Food (fresh, frozen, dry), beverages, office supplies, electronics, household goods, and often other categories like DIY, gardening, and even automotive.\n    * **Delivery services:** Many locations offer delivery services, especially to business customers.\n    * **Own-brand products:** Makro frequently offers a range of own-brand products across various categories, aiming for competitive pricing.\n    * **Additional services:** Depending on the location, they may offer services like financing, equipment rental, or specialized business consultation.\n\n4. **Company stage:** Mature.  Makro has been operating for decades in most regions.\n\n5. **Industry category (standardized):**\n    * **NAICS:** 4244 (Grocery and Related Product Merchant Wholesalers) primarily, with some potential overlap into 4249 (Other Miscellaneous Durable Goods Merchant Wholesalers) and 445110 (Supermarkets and Other Grocery (except Convenience) Stores) where they serve individual consumers.\n    * **SIC:** 5140 (Groceries and related products, not elsewhere classified) primarily, potentially overlapping with other wholesale categories.\n\n6. **Brief company description:** Makro is an international chain of wholesale stores primarily serving businesses and professional customers.  It operates on a cash-and-carry model, offering a wide range of products in bulk quantities.  Ownership and specific services vary by region.  In some areas, it operates under different brand names (e.g., Metro).  It emphasizes competitive pricing and efficient sourcing for its professional customer base.\n\n**Important Note:** Due to various divestments and restructuring over the years, the Makro brand can be slightly different depending on the location. Researching the specific Makro entity in a particular country is important for accurate, detailed information.  For example, in some parts of Europe, it operates under the Metro brand, while in other parts of the world it's owned by SHV Holdings or other parent companies. This affects the exact product offerings and business model.",
+      "search_query": "Makro company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:22:25.747152",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Samuel",
+      "Preferred": null,
+      "Last": "L.",
+      "Gender": null,
+      "GraduatedYear": 2018,
+      "Intake": null,
+      "Program": "Master of Business Administration (M.B.A.)",
+      "GraduationAwards": [],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/samuel-ler/",
+      "Education": [
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "Master of Business Administration (M.B.A.)",
+          "FieldOfStudy": "Business Administration and Management, General",
+          "StartYear": 2016,
+          "EndYear": 2018,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        },
+        {
+          "SchoolName": "The University of Texas at Austin",
+          "Degree": "B.A./B.S.",
+          "FieldOfStudy": "Business Economics / Applied Mathematics",
+          "StartYear": 2004,
+          "EndYear": 2007,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "Vice President",
+          "Company": "SoftBank Investment Advisers",
+          "CompanyWebsite": null,
+          "StartDate": "Mar 2022",
+          "EndDate": "Present",
+          "Duration": "3 yrs 4 mos",
+          "Location": "San Carlos, California, United States",
+          "Description": "• 𝗠𝗮𝗻𝗮𝗴𝗲𝗱 𝗺𝗼𝗻𝘁𝗵𝗹𝘆 𝗰𝗹𝗼𝘀𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀: Ensured precise and timely accounting entries.\n• 𝗖𝗼𝗻𝗱𝘂𝗰𝘁𝗲𝗱 𝗰𝗼𝗺𝗽𝗿𝗲𝗵𝗲𝗻𝘀𝗶𝘃𝗲 𝗺𝗼𝗻𝘁𝗵𝗹𝘆 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗿𝗲𝘃𝗶𝗲𝘄𝘀: Analyzed performance against budgets and forecasts, identifying improvement areas.\n• 𝗗𝗿𝗼𝘃𝗲 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗮𝗻𝗱 𝗰𝗼𝘀𝘁 𝘀𝗮𝘃𝗶𝗻𝗴𝘀: Established strategic partnerships with functions, resulting in $10.5M in savings. Developed and maintained departmental expense reporting, promoting accountability through Power BI, saving 200+ manpower hours annually. Streamlined processes and collaborated with cross-functional teams to deliver accurate preliminary results with earlier closing.\n• 𝗟𝗲𝗱 𝗮𝗻𝗻𝘂𝗮𝗹 𝗯𝘂𝗱𝗴𝗲𝘁 𝗮𝗻𝗱 𝗾𝘂𝗮𝗿𝘁𝗲𝗿𝗹𝘆 𝗳𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝘀: Aligned financial strategies with organizational goals. Overhauled processes for improved efficiency and accuracy.\n• 𝗦𝗽𝗲𝗮𝗿𝗵𝗲𝗮𝗱𝗲𝗱 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻: Enabled data-driven decision-making and self-service for stakeholders.\n• 𝗨𝗽𝗴𝗿𝗮𝗱𝗲𝗱 𝗮𝗻𝗱 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀: Enhanced rigor, accuracy, and productivity while ensuring data integrity. Consolidated financial data via a unified ERM database (DataRails), saving 350+ manpower hours annually. Improved internal controls through risk assessment on high-impact projects, maximizing profits. Integration with Anaplan underway.\n• 𝗠𝗮𝗻𝗮𝗴𝗲𝗱, 𝘁𝗿𝗮𝗶𝗻𝗲𝗱, 𝗮𝗻𝗱 𝗿𝗲𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗙𝗣&𝗔 𝘁𝗲𝗮𝗺: Delegated responsibilities, managed multiple projects, and ensured timely, budget-compliant results. Built and trained the APAC outsource model, cultivating a culture of quality, scale, accountability, and integrity."
+        },
+        {
+          "Title": "Associate",
+          "Company": "SoftBank Investment Advisers",
+          "CompanyWebsite": null,
+          "StartDate": "Apr 2020",
+          "EndDate": "Jul 2022",
+          "Duration": "2 yrs 4 mos",
+          "Location": null,
+          "Description": null
+        },
+        {
+          "Title": "Senior Business System Analyst",
+          "Company": "Franklin Templeton",
+          "CompanyWebsite": null,
+          "StartDate": "Jan 2019",
+          "EndDate": "Mar 2020",
+          "Duration": "1 yr 3 mos",
+          "Location": "San Francisco Bay Area",
+          "Description": "• Achieved sustainable outcomes by designing, modifying, and enhancing reports and metrics for process measurement while identifying indicators for future improvement opportunities\n• Improved operational efficiency by investigating, back testing, and resolving technical issues to promote stability in company-wide business intelligence application\n• Spearheaded meeting and work streams projects by identifying improvement opportunities across the organization with process and system design mapping\n• Cultivated strategic relationships by collaborating with internal process owners and team leads to identify, troubleshoot and prioritize strategic design and process improvement initiatives\n• Enhanced productivity by introducing Automation Anywhere RPA Proof of Concept to departmental workstream to save 1000+ work hours over 12 months"
+        },
+        {
+          "Title": "FP&A",
+          "Company": "MetLife",
+          "CompanyWebsite": null,
+          "StartDate": "2015",
+          "EndDate": "2016",
+          "Duration": "1 yr",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": "• Analyzed firm-wide financial activities using complex Excel modeling, including monthly GAAP close process, expense budget and forecast, capital expenditures, P&L and balance sheet budget development\n• Provided insightful and actionable analytics by fostering partnerships with distribution channel representatives to drive growth strategy, effective decision-making, and strategic thinking\n• Developed and maintained departmental expense reporting and headcount data in Excel to maintain strong cost discipline across all functions\n• Improved internal controls and accounting procedures by assessing risks, weaknesses, and opportunities on multiple high impact special projects to maximize profit margins"
+        },
+        {
+          "Title": "Planning & Performance Management",
+          "Company": "Zurich Insurance Company Ltd",
+          "CompanyWebsite": null,
+          "StartDate": "2012",
+          "EndDate": "2015",
+          "Duration": "3 yrs",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": "• Performed month end closing, prepared monthly KPI management reporting, and conducted extensive account level analysis for actual and forecast variance analysis using Excel\n• Spearheaded financial transformation integration project by synchronizing 30+ finance processes to improve communications across various organizational levels\n• Enhanced efficiency and accuracy for month-end and forecasting reports by developing standardized forecasting method to reduce financial preparation time by 80%\n• Championed the implementation of organizational cost-saving initiatives, and conducted due diligence on strategic projects to reduce expenses by $2M in 2 years"
+        },
+        {
+          "Title": "Valuation",
+          "Company": "GREAT EASTERN",
+          "CompanyWebsite": null,
+          "StartDate": "2009",
+          "EndDate": "2011",
+          "Duration": "2 yrs",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": "• Coordinated monthly review of financial and strategic direction by collaborating with management team to enable sound financial advice on decision-making to support business strategies\n• Conducted a deep dive into 200 product profitability performance by identifying key variabilities and performance drivers resulting in agile and competitive pricing methodology\n• Produced high-quality results by fostering a team culture built on diversity and inclusion to optimize productivity"
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Samuel L.",
+        "graduation_year": 2018,
+        "program": "Master of Business Administration (M.B.A.)",
+        "linkedin_url": "https://www.linkedin.com/in/samuel-ler/"
+      },
+      "current_company": {
+        "name": "SoftBank Investment Advisers",
+        "industry_category": "Finance",
+        "company_type": "Investment Firm",
+        "company_stage": "Enterprise",
+        "job_title": "Vice President",
+        "location": "San Carlos, California, United States",
+        "start_date": "Mar 2022",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "SoftBank Investment Advisers",
+          "title": "Vice President",
+          "duration": "3 yrs 4 mos",
+          "industry_category": "Finance",
+          "company_type": "Investment Firm",
+          "seniority_level": "Executive"
+        },
+        {
+          "company": "SoftBank Investment Advisers",
+          "title": "Associate",
+          "duration": "2 yrs 4 mos",
+          "industry_category": "Finance",
+          "company_type": "Investment Firm",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Franklin Templeton",
+          "title": "Senior Business System Analyst",
+          "duration": "1 yr 3 mos",
+          "industry_category": "Finance",
+          "company_type": "Investment Firm",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "MetLife",
+          "title": "FP&A",
+          "duration": "1 yr",
+          "industry_category": "Finance",
+          "company_type": "Insurance",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Zurich Insurance Company Ltd",
+          "title": "Planning & Performance Management",
+          "duration": "3 yrs",
+          "industry_category": "Finance",
+          "company_type": "Insurance",
+          "seniority_level": "Mid"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration (M.B.A.)",
+          "field_of_study": "Business Administration and Management, General",
+          "graduation_year": 2018,
+          "school_tier": "Mid Tier"
+        },
+        {
+          "school": "The University of Texas at Austin",
+          "degree": "B.A./B.S.",
+          "field_of_study": "Business Economics / Applied Mathematics",
+          "graduation_year": 2007,
+          "school_tier": "Top Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Finance",
+        "current_seniority_level": "Executive",
+        "key_expertise": [
+          "Investments",
+          "Financial Planning & Analysis",
+          "Business Analysis"
+        ],
+        "years_experience_estimate": "10+ years",
+        "career_trajectory": {
+          "career_path": "Finance, specializing in Investments",
+          "recent_transitions": "Progressive growth within SoftBank Investment Advisers",
+          "growth_pattern": "Upward trajectory with increasing responsibility",
+          "potential_next_roles": [
+            "Senior Vice President",
+            "Managing Director",
+            "Partner"
+          ]
+        },
+        "industry_transitions": [],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "SoftBank Investment Advisers (SBIA)\n\n1. **Company Type and Size:** Large enterprise.  SBIA manages hundreds of billions of dollars, making it one of the world's largest technology investment firms.\n\n2. **Main Industry and Business Focus:** Investment management, specifically in technology-focused companies globally.  Their focus is primarily on late-stage, pre-IPO, and public technology companies.\n\n3. **Key Business Areas and Services:**\n    * **Managing the Vision Funds:**  SBIA is the investment manager for the SoftBank Vision Funds 1 and 2, massive technology-focused investment vehicles.  They source deals, conduct due diligence, execute investments, and manage portfolio companies.\n    * **Investment Strategy and Portfolio Management:**  Developing and implementing investment strategies across various tech sectors. This involves identifying promising technologies and companies with high growth potential.\n    * **Value Creation for Portfolio Companies:**  Supporting portfolio companies with operational expertise, strategic guidance, and network access to accelerate growth.\n\n4. **Company Stage:** Mature. While relatively young compared to other investment firms, SBIA manages established funds and has a significant track record.\n\n5. **Industry Category (Standardized):**\n    * **NAICS:** 523930 (Investment Advice)\n    * **GICS:** Financials / Asset Management & Custody Banks\n\n\n6. **Brief Company Description:** SoftBank Investment Advisers (SBIA) is a global asset management firm that manages the SoftBank Vision Funds, investing in leading technology companies worldwide.  SBIA seeks to identify and support transformative businesses that are shaping the future across diverse sectors like artificial intelligence, robotics, and fintech.  They provide capital, strategic guidance, and operational support to their portfolio companies, aiming to drive innovation and create significant value. While historically known for large investments, they have recently adopted a more cautious approach due to market conditions.",
+      "search_query": "SoftBank Investment Advisers company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:22:44.180784",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Christopher",
+      "Preferred": "G.",
+      "Last": "Benavides",
+      "Gender": null,
+      "GraduatedYear": 2018,
+      "Intake": null,
+      "Program": "MBA",
+      "GraduationAwards": [],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/christophergbenavides/",
+      "Education": [
+        {
+          "SchoolName": "Yale School of Management",
+          "Degree": "Master of Advanced Management - MAM with Distinction",
+          "FieldOfStudy": "Finance",
+          "StartYear": null,
+          "EndYear": null,
+          "ActivitiesAndSocieties": "",
+          "Achievements": []
+        },
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "MBA",
+          "FieldOfStudy": null,
+          "StartYear": null,
+          "EndYear": 2018,
+          "ActivitiesAndSocieties": "",
+          "Achievements": []
+        },
+        {
+          "SchoolName": "Florida State University",
+          "Degree": "Bachelor of Science (B.Sc.)",
+          "FieldOfStudy": null,
+          "StartYear": null,
+          "EndYear": null,
+          "ActivitiesAndSocieties": "",
+          "Achievements": []
+        },
+        {
+          "SchoolName": "Yale School of Engineering & Applied Science",
+          "Degree": null,
+          "FieldOfStudy": "Department of Computer Science",
+          "StartYear": null,
+          "EndYear": null,
+          "ActivitiesAndSocieties": "Cross-Registered during MAM",
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "Principal/Business Architecture Manager, North America | Workforce Management (WFM) Practice",
+          "Company": "Accenture",
+          "CompanyWebsite": null,
+          "StartDate": "Jun 2024",
+          "EndDate": "Present",
+          "Duration": "1 yr 1 mo",
+          "Location": "Tampa, Florida, United States · Hybrid",
+          "Description": "My responsibilities include delivering cutting-edge workforce management technology solutions and optimizing architectural strategies to enhance our clients operational systems and processes. My role specifically involves driving operational and IT strategies, managing implementations, providing advanced-level Operational Excellence and WFM expertise, and leading complex projects to successful completion. By leveraging best practices and innovative technologies, I aim to maximize the value of our clients' investments and drive operational excellence."
+        },
+        {
+          "Title": "Founder, Product Manager & Software Engineer",
+          "Company": "Domain-Content Validator (DCV) Chrome Extension",
+          "CompanyWebsite": null,
+          "StartDate": "Oct 2023",
+          "EndDate": "Present",
+          "Duration": "1 yr 9 mos",
+          "Location": "United States · Remote",
+          "Description": "The Domain-Content Validator (DCV) Chrome extension helps you verify the authenticity of emails by analyzing the correlation between the domain of the sender and the body of the email. If there's a mismatch or any suspicious patterns, DCV will alert you, reducing the risk of falling victim to scams."
+        },
+        {
+          "Title": "Founder, Product Manager & Software Engineer",
+          "Company": "Montage",
+          "CompanyWebsite": null,
+          "StartDate": "Feb 2020",
+          "EndDate": "Present",
+          "Duration": "5 yrs 5 mos",
+          "Location": null,
+          "Description": null
+        },
+        {
+          "Title": "Founder, Product Manager & Software Engineer (Industrial Engineering app)",
+          "Company": "Time & Motion Study",
+          "CompanyWebsite": null,
+          "StartDate": "Mar 2019",
+          "EndDate": "Present",
+          "Duration": "6 yrs 4 mos",
+          "Location": "Remote",
+          "Description": "Time & Motion Study is a tool built to enable industrial engineers and quality assurance teams to more readily perform time & motion studies in one comprehensive app that can not only perform the studies but also provide real-time statistical analysis of studies. Approximately ~900,000 active users globally since launch in December 2020."
+        },
+        {
+          "Title": "Sr. Project Manager, WFM Systems, Data Management & Integrations (Stores, Supply Chain & CC)",
+          "Company": "Macy's",
+          "CompanyWebsite": null,
+          "StartDate": "Aug 2023",
+          "EndDate": "Jul 2024",
+          "Duration": "1 yr",
+          "Location": "Remote",
+          "Description": "Sr. Program Manager overseeing Stores, Supply Chain and Contact Center Workforce Management (WFM) Transformation Roadmap, Systems, and Integrations, where I spearheaded the advancement to the latest cloud-based Enterprise Workforce Management (WFM) Technology Stack"
+        },
+        {
+          "Title": "Sr. Product Manager, Workforce Management Systems, Data Management & Integrations (Stores)",
+          "Company": "Macy's",
+          "CompanyWebsite": null,
+          "StartDate": "Mar 2022",
+          "EndDate": "Aug 2023",
+          "Duration": "1 yr 6 mos",
+          "Location": null,
+          "Description": "Sr. Product Manager overseeing Stores Workforce Management (WFM) Systems and Integrations, spearheading the advancement of the latest cloud-based Enterprise Workforce Management Technology Stack across Macy’s & Bloomingdale’s retail stores, contact centers, and supply chain operations."
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Christopher Benavides",
+        "graduation_year": 2018,
+        "program": "MBA",
+        "linkedin_url": "https://www.linkedin.com/in/christophergbenavides/"
+      },
+      "current_company": {
+        "name": "Accenture",
+        "industry_category": "Consulting",
+        "company_type": "Public",
+        "company_stage": "Enterprise",
+        "job_title": "Principal/Business Architecture Manager, North America | Workforce Management (WFM) Practice",
+        "location": "Tampa, Florida, United States · Hybrid",
+        "start_date": "Jun 2024",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "Accenture",
+          "title": "Principal/Business Architecture Manager, North America | Workforce Management (WFM) Practice",
+          "duration": "1 yr 1 mo",
+          "industry_category": "Consulting",
+          "company_type": "Public",
+          "seniority_level": "Senior"
+        },
+        {
+          "company": "Domain-Content Validator (DCV) Chrome Extension",
+          "title": "Founder, Product Manager & Software Engineer",
+          "duration": "1 yr 9 mos",
+          "industry_category": "Technology",
+          "company_type": "Startup",
+          "seniority_level": "Executive"
+        },
+        {
+          "company": "Montage",
+          "title": "Founder, Product Manager & Software Engineer",
+          "duration": "5 yrs 5 mos",
+          "industry_category": "Technology",
+          "company_type": "Startup",
+          "seniority_level": "Executive"
+        },
+        {
+          "company": "Time & Motion Study",
+          "title": "Founder, Product Manager & Software Engineer (Industrial Engineering app)",
+          "duration": "6 yrs 4 mos",
+          "industry_category": "Technology",
+          "company_type": "Startup",
+          "seniority_level": "Executive"
+        },
+        {
+          "company": "Macy's",
+          "title": "Sr. Project Manager, WFM Systems, Data Management & Integrations (Stores, Supply Chain & CC)",
+          "duration": "1 yr",
+          "industry_category": "Retail",
+          "company_type": "Public",
+          "seniority_level": "Senior"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "Yale School of Management",
+          "degree": "Master of Advanced Management",
+          "field_of_study": "Management",
+          "graduation_year": null,
+          "school_tier": "Top Tier"
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "MBA",
+          "field_of_study": "Business Administration",
+          "graduation_year": 2018,
+          "school_tier": "Mid Tier"
+        },
+        {
+          "school": "Florida State University",
+          "degree": "Bachelor of Science",
+          "field_of_study": null,
+          "graduation_year": null,
+          "school_tier": "Mid Tier"
+        },
+        {
+          "school": "Yale School of Engineering & Applied Science",
+          "degree": null,
+          "field_of_study": "Computer Science",
+          "graduation_year": null,
+          "school_tier": "Top Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Technology",
+        "current_seniority_level": "Senior",
+        "key_expertise": [
+          "Workforce Management",
+          "Product Management",
+          "Software Engineering",
+          "Business Architecture",
+          "Project Management"
+        ],
+        "years_experience_estimate": "10+ years",
+        "career_trajectory": {
+          "career_path": "Entrepreneurial to Corporate Leadership",
+          "recent_transitions": "Return to corporate setting in a leadership role",
+          "growth_pattern": "Demonstrates consistent growth with experience in both startups and large organizations",
+          "potential_next_roles": [
+            "Director",
+            "Senior Principal",
+            "VP"
+          ]
+        },
+        "industry_transitions": [
+          "Technology to Retail",
+          "Retail to Consulting"
+        ],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "1. **Company Type and Size:** Accenture is a **large multinational enterprise**. It's a publicly traded company with hundreds of thousands of employees globally.\n\n2. **Main Industry and Business Focus:** Accenture's primary industry is **Information Technology (IT)**.  Its business focus revolves around providing consulting and processing services across a broad range of industries, leveraging technology to help clients improve efficiency, effectiveness, and competitiveness.\n\n3. **Key Business Areas and Services:**  Accenture operates through five key business groups:\n    * **Accenture Strategy & Consulting:**  Provides strategic advisory services, business architecture, operating model design, technology consulting, and human capital & change management.\n    * **Accenture Song:**  Focuses on creative, marketing, content, and commerce services.  This group was formed from the acquisition of various creative agencies.\n    * **Accenture Technology:**  Delivers technology services including cloud, software engineering, artificial intelligence, data & analytics, cybersecurity, and infrastructure.\n    * **Accenture Operations:**  Manages and optimizes business processes for clients, including finance & accounting, supply chain & operations, marketing operations, and sales operations.\n    * **Accenture Cloud First:**  Accelerates cloud migration and modernization, providing cloud-native development, infrastructure management, and security services.\n\n4. **Company Stage:** Accenture is in the **mature/enterprise** stage.  It's a well-established, global leader in its industry with a long history and proven track record.\n\n5. **Industry Category (Standardized):**  Information Technology Consulting and Services; IT Services and IT Consulting; Business Consulting and Services; Professional Services.  Using Global Industry Classification Standard (GICS), Accenture falls under **IT Consulting & Other Services**.\n\n6. **Brief Company Description:** Accenture is a global professional services company that provides a broad range of services and solutions in strategy and consulting, interactive, technology, and operations.  Leveraging technology, Accenture helps clients across various industries improve their performance and create sustainable value for their stakeholders. It's known for its expertise in digital transformation, cloud computing, and other emerging technologies.",
+      "search_query": "Accenture company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:23:05.576565",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Natalie",
+      "Preferred": null,
+      "Last": "Ho",
+      "Gender": "She/Her",
+      "GraduatedYear": null,
+      "Intake": null,
+      "Program": null,
+      "GraduationAwards": [],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/natalie-ho-mba2018/",
+      "Education": [
+        {
+          "SchoolName": "Cornell University",
+          "Degree": "Bachelor of Science (B.S.)",
+          "FieldOfStudy": "Hotel/Motel Administration/Management",
+          "StartYear": 2006,
+          "EndYear": 2009,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        },
+        {
+          "SchoolName": "Georgetown University",
+          "Degree": null,
+          "FieldOfStudy": null,
+          "StartYear": 2005,
+          "EndYear": 2006,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "Vice President of Corporate Development",
+          "Company": "Tiber Capital Group",
+          "CompanyWebsite": null,
+          "StartDate": "Dec 2021",
+          "EndDate": "May 2024",
+          "Duration": "2 yrs 6 mos",
+          "Location": "Remote",
+          "Description": "Single-Family Rental Aggregator"
+        },
+        {
+          "Title": "Director - Finance and Strategy",
+          "Company": "Excel Group",
+          "CompanyWebsite": null,
+          "StartDate": "Oct 2019",
+          "EndDate": "Nov 2021",
+          "Duration": "2 yrs 2 mos",
+          "Location": "Washington, District of Columbia, United States",
+          "Description": "Hotel Private Equity"
+        },
+        {
+          "Title": "Associate",
+          "Company": "The MAJ Group",
+          "CompanyWebsite": null,
+          "StartDate": "Jul 2018",
+          "EndDate": "Sep 2019",
+          "Duration": "1 yr 3 mos",
+          "Location": "Jakarta, Indonesia",
+          "Description": "Hospitality and Entertainment Real Estate Private Equity"
+        },
+        {
+          "Title": "MBA Summer Intern",
+          "Company": "Oriental Patron",
+          "CompanyWebsite": null,
+          "StartDate": "Jun 2017",
+          "EndDate": "Aug 2017",
+          "Duration": "3 mos",
+          "Location": "Hong Kong",
+          "Description": null
+        },
+        {
+          "Title": "Brand Manager - Fine Wines",
+          "Company": "Bacchus Importers, Ltd",
+          "CompanyWebsite": null,
+          "StartDate": "Aug 2014",
+          "EndDate": "Jul 2016",
+          "Duration": "2 yrs",
+          "Location": "Baltimore, Maryland",
+          "Description": null
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Natalie Ho",
+        "graduation_year": null,
+        "program": "None",
+        "linkedin_url": "https://www.linkedin.com/in/natalie-ho-mba2018/"
+      },
+      "current_company": {
+        "name": "Tiber Capital Group",
+        "industry_category": "Finance",
+        "company_type": "Investment Firm",
+        "company_stage": "Growth",
+        "job_title": "Vice President of Corporate Development",
+        "location": "Remote",
+        "start_date": "Dec 2021",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "Tiber Capital Group",
+          "title": "Vice President of Corporate Development",
+          "duration": "2 yrs 6 mos",
+          "industry_category": "Finance",
+          "company_type": "Investment Firm",
+          "seniority_level": "Executive"
+        },
+        {
+          "company": "Excel Group",
+          "title": "Director - Finance and Strategy",
+          "duration": "2 yrs 2 mos",
+          "industry_category": "Finance",
+          "company_type": "Unknown",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "The MAJ Group",
+          "title": "Associate",
+          "duration": "1 yr 3 mos",
+          "industry_category": "Unknown",
+          "company_type": "Unknown",
+          "seniority_level": "Entry"
+        },
+        {
+          "company": "Oriental Patron",
+          "title": "MBA Summer Intern",
+          "duration": "3 mos",
+          "industry_category": "Unknown",
+          "company_type": "Unknown",
+          "seniority_level": "Entry"
+        },
+        {
+          "company": "Bacchus Importers, Ltd",
+          "title": "Brand Manager - Fine Wines",
+          "duration": "2 yrs",
+          "industry_category": "Food & Beverage",
+          "company_type": "Unknown",
+          "seniority_level": "Mid"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "Cornell University",
+          "degree": "Bachelor of Science (B.S.)",
+          "field_of_study": "Hotel/Motel Administration/Management",
+          "graduation_year": 2009,
+          "school_tier": "Top Tier"
+        },
+        {
+          "school": "Georgetown University",
+          "degree": "Unknown",
+          "field_of_study": "Unknown",
+          "graduation_year": null,
+          "school_tier": "Top Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Finance",
+        "current_seniority_level": "Executive",
+        "key_expertise": [
+          "Corporate Development",
+          "Finance",
+          "Strategy",
+          "Brand Management"
+        ],
+        "years_experience_estimate": "10+ years",
+        "career_trajectory": {
+          "career_path": "Finance and Corporate Development",
+          "recent_transitions": "Increasing responsibility within finance and corporate development roles.",
+          "growth_pattern": "Upward trajectory with progressive leadership roles.",
+          "potential_next_roles": [
+            "Senior Vice President of Corporate Development",
+            "Chief Financial Officer",
+            "Chief Investment Officer"
+          ]
+        },
+        "industry_transitions": [
+          "Food & Beverage to Finance"
+        ],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "Based on available information, Tiber Capital Group appears to be a **private investment firm**.  It's challenging to find precise details publicly available regarding their size or employee count, but their investment activities suggest they are likely a **small to medium-sized enterprise (SME)**.\n\n1. **Company Type and Size:** Private Investment Firm (SME)\n\n2. **Main Industry and Business Focus:**  Private equity and real estate investment.  Their focus appears to be on acquiring and managing a diversified portfolio of assets, primarily in North America.  They seem to target opportunistic investments, potentially including distressed assets or special situations.\n\n3. **Key Business Areas and Services:**\n    * **Acquisitions:** Sourcing, evaluating, and acquiring companies and real estate assets.\n    * **Asset Management:** Active management of their portfolio companies and properties to enhance value.\n    * **Investment Management:**  Overseeing the overall investment strategy and portfolio performance.  They may also offer investment management services to external clients, though this is not definitively confirmed.\n\n4. **Company Stage:**  Likely **Mature**, given their established investment activities. While precise founding dates are difficult to ascertain publicly, their operational history suggests they are beyond the startup or growth phase.\n\n5. **Industry Category (Standardized):**\n    * **Financial Services:** Specifically, Private Equity and Real Estate Investment.\n    * **Alternative Investments:** Encompassing their focus on non-traditional asset classes.\n\n\n6. **Brief Company Description:** Tiber Capital Group is a private investment firm focused on acquiring and managing a diversified portfolio of assets, primarily in North America.  Their investments span private equity and real estate, with a likely emphasis on opportunistic strategies.  While details regarding their size and specific holdings remain largely private, their activities suggest a focus on value creation through active asset management.\n\n\n**Important Note:** Information about Tiber Capital Group is limited in the public domain.  This analysis is based on available online resources and may not be fully comprehensive.  Direct contact with the company would be necessary for more detailed and precise information.",
+      "search_query": "Tiber Capital Group company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:23:24.445990",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Sharan",
+      "Preferred": null,
+      "Last": "JM",
+      "Gender": null,
+      "GraduatedYear": 2022,
+      "Intake": null,
+      "Program": "Master's degree, General Management, Technological Innovation & Entrepreneurship",
+      "GraduationAwards": [],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/sharanjm",
+      "Education": [
+        {
+          "SchoolName": "MIT Sloan School of Management",
+          "Degree": "Master's degree",
+          "FieldOfStudy": "General Management, Technological Innovation & Entrepreneurship",
+          "StartYear": null,
+          "EndYear": 2022,
+          "ActivitiesAndSocieties": "Class of 2022",
+          "Achievements": []
+        },
+        {
+          "SchoolName": "MIT Sloan School of Management",
+          "Degree": "MBA",
+          "FieldOfStudy": "Spring Module, Global Program",
+          "StartYear": 2017,
+          "EndYear": 2017,
+          "ActivitiesAndSocieties": "Pricing, Strategy, Corporate Finance, Platform Strategy, System Dynamics, Entrepreneurship",
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "Co-Founder & CPO",
+          "Company": "lumif.ai",
+          "CompanyWebsite": null,
+          "StartDate": "2025-01",
+          "EndDate": "Present",
+          "Duration": "6 mos",
+          "Location": "Dubai, United Arab Emirates · Remote",
+          "Description": null
+        },
+        {
+          "Title": "Investor",
+          "Company": "Merry",
+          "CompanyWebsite": null,
+          "StartDate": "Feb 2023",
+          "EndDate": "Present",
+          "Duration": "2 yrs 5 mos",
+          "Location": "Bengaluru, Karnataka, India · Remote",
+          "Description": null
+        },
+        {
+          "Title": "Head of Product",
+          "Company": "ROSHN l روشن",
+          "CompanyWebsite": null,
+          "StartDate": "Feb 2024",
+          "EndDate": "2025",
+          "Duration": "1 yr",
+          "Location": "On-site",
+          "Description": "A PIF Company building 400,000 homes\n\nAt Roshn, I am instrumental in setting up and scaling the product management function, laying down product management practices, and hiring and mentoring a team of 5 talented Product Managers. I’m driving a shift towards a data-driven and AI-first product vision, leveraging advanced ML and generative AI to radically rethink how we approach the home-buying experience.\n\n- Digitized the home-buying journey, significantly reducing the average closing time from over 14 days to just 1 days.\n- Developing personalization capabilities using a Customer 360 view, delivering customized recommendations\n- Spearheading a project to rethink the Sales Advisor app using generative AI, transforming how sales advisors interact with leads, manage preferences by leveraging LLMs\n- Introduced a home customization program, giving homeowners flexibility in add-ons with significant incremental revenue opportunities.\n- Working on Launching an AI-powered interior design tool, partnering with top furniture providers, that would improve both customer satisfaction and revenue."
+        },
+        {
+          "Title": "Co-Founder",
+          "Company": "Stealth",
+          "CompanyWebsite": null,
+          "StartDate": "Nov 2023",
+          "EndDate": "Mar 2024",
+          "Duration": "5 mos",
+          "Location": "Austin, Texas Metropolitan Area",
+          "Description": "Start-up Leadership, Start-up Ventures and +2 skills"
+        },
+        {
+          "Title": "Product Management, Technical (Amazon Ads - Causal ML focused Research Science Team)",
+          "Company": "Amazon",
+          "CompanyWebsite": null,
+          "StartDate": "May 2022",
+          "EndDate": "Nov 2023",
+          "Duration": "1 yr 7 mos",
+          "Location": "Seattle, Washington, United States",
+          "Description": "In my role at Amazon's Advertisement Science Team, I led Machine Learning initiatives that enabled more intelligent, data-driven decisions across Amazon's ad ecosystem. By collaborating with economists, data scientists, and engineering teams, I launched and scaled 7 different machine learning models and metrics that optimized both shopper experience and advertising effectiveness, driving strategic value through advanced ML applications.\n\n- Led the launch and adoption of a Reinforcement Learning-based ML model that predicts long-term impacts of new products and features using only 4-5 weeks of experimental data, significantly reducing the time to actionable insights.\n- Developed a causal inference ML model to analyze the impact of ads on shopper engagement and Amazon’s financial metrics, empowering senior leadership with insights reviewed quarterly to refine ad strategy.\n- Launched a holistic Shopper Experience Value metric that integrates multiple factors into a composite score, helping product teams make data-driven trade-offs in feature development.\n- Introduced an Ads Impact Persona model, leveraging ML to optimize ad density and relevance for specific customer personas, achieving a substantial revenue boost in key markets.\n- Enhanced Marketing Measurement by incorporating ad revenue attribution, utilizing advanced ML models to improve accuracy in measuring the cross-channel impact of marketing campaigns."
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Sharan JM",
+        "graduation_year": 2022,
+        "program": "Master's degree, General Management, Technological Innovation & Entrepreneurship",
+        "linkedin_url": "https://www.linkedin.com/in/sharanjm"
+      },
+      "current_company": {
+        "name": "lumif.ai",
+        "industry_category": "Technology",
+        "company_type": "Startup",
+        "company_stage": "Startup",
+        "job_title": "Co-Founder & CPO",
+        "location": "Dubai, United Arab Emirates · Remote",
+        "start_date": "2025-01",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "lumif.ai",
+          "title": "Co-Founder & CPO",
+          "duration": "6 mos",
+          "industry_category": "Technology",
+          "company_type": "Startup",
+          "seniority_level": "C-Level"
+        },
+        {
+          "company": "Merry",
+          "title": "Investor",
+          "duration": "2 yrs 5 mos",
+          "industry_category": "Finance",
+          "company_type": "Startup",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "ROSHN l روشن",
+          "title": "Head of Product",
+          "duration": "1 yr",
+          "industry_category": "Real Estate",
+          "company_type": "Enterprise",
+          "seniority_level": "Senior"
+        },
+        {
+          "company": "Stealth",
+          "title": "Co-Founder",
+          "duration": "5 mos",
+          "industry_category": "Unknown",
+          "company_type": "Startup",
+          "seniority_level": "C-Level"
+        },
+        {
+          "company": "Amazon",
+          "title": "Product Management, Technical (Amazon Ads - Causal ML focused Research Science Team)",
+          "duration": "1 yr 7 mos",
+          "industry_category": "Technology",
+          "company_type": "Enterprise",
+          "seniority_level": "Mid"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "MIT Sloan School of Management",
+          "degree": "Master's degree",
+          "field_of_study": "General Management, Technological Innovation & Entrepreneurship",
+          "graduation_year": 2022,
+          "school_tier": "Top Tier"
+        },
+        {
+          "school": "MIT Sloan School of Management",
+          "degree": "MBA",
+          "field_of_study": "Global Program",
+          "graduation_year": 2017,
+          "school_tier": "Top Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Technology",
+        "current_seniority_level": "C-Level",
+        "key_expertise": [
+          "Product Management",
+          "Entrepreneurship",
+          "Investment",
+          "Artificial Intelligence"
+        ],
+        "years_experience_estimate": "6+",
+        "career_trajectory": {
+          "career_path": "Product Management and Entrepreneurship",
+          "recent_transitions": "From Investor to Co-Founder",
+          "growth_pattern": "Rapid growth with entrepreneurial ventures and increasing leadership roles",
+          "potential_next_roles": [
+            "CEO",
+            "Board Member",
+            "Advisor"
+          ]
+        },
+        "industry_transitions": [
+          "Finance to Real Estate",
+          "Real Estate to Technology"
+        ],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "Lumif.ai appears to be defunct or operating in stealth mode. There's no readily available information about the company through standard web searches, social media, or business directories.  Searches using variations of the name also yield no relevant results related to an AI company.\n\nTherefore, it's impossible to provide a comprehensive analysis including the requested details.  It's likely that:\n\n* **The company has ceased operations:** Many startups fail, and their online presence is often removed.\n* **The company has rebranded:** It's possible they've changed their name and focus.\n* **The company is operating in stealth mode:**  Some companies, especially in the AI field, operate privately until they're ready for a public launch.\n* **The name is slightly misspelled:**  Double-check the spelling to ensure accuracy.\n\n\nWithout further information, any details about Lumif.ai would be purely speculative.  If you have additional context, such as a website, location, or founder names, it might be possible to find more information.",
+      "search_query": "lumif.ai company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:23:40.419897",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Alex",
+      "Preferred": null,
+      "Last": "Snedeker",
+      "Gender": null,
+      "GraduatedYear": 2018,
+      "Intake": null,
+      "Program": "Master of Business Administration - MBA",
+      "GraduationAwards": [],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/alexsnedeker/",
+      "Education": [
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "Master of Business Administration - MBA",
+          "FieldOfStudy": "Business Administration and Management, General",
+          "StartYear": 2016,
+          "EndYear": 2018,
+          "ActivitiesAndSocieties": null,
+          "Achievements": [
+            "Grade: 3.7/4.0"
+          ]
+        },
+        {
+          "SchoolName": "University of North Carolina at Chapel Hill",
+          "Degree": "Bachelor of Science (B.S.) with Highest Honors",
+          "FieldOfStudy": "Environmental Science",
+          "StartYear": null,
+          "EndYear": null,
+          "ActivitiesAndSocieties": null,
+          "Achievements": [
+            "Grade: 3.9/4.0"
+          ]
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "General Manager",
+          "Company": "Wattch",
+          "CompanyWebsite": null,
+          "StartDate": "May 2022",
+          "EndDate": "Present",
+          "Duration": "3 yrs 2 mos",
+          "Location": "Atlanta, Georgia, United States",
+          "Description": null
+        },
+        {
+          "Title": "Director of Growth (Sales + Marketing)",
+          "Company": "Cherry Street Energy",
+          "CompanyWebsite": null,
+          "StartDate": "Oct 2021",
+          "EndDate": "May 2022",
+          "Duration": "8 mos",
+          "Location": "Atlanta, Georgia, United States",
+          "Description": null
+        },
+        {
+          "Title": "Director of Marketing",
+          "Company": "Cherry Street Energy",
+          "CompanyWebsite": null,
+          "StartDate": "Nov 2020",
+          "EndDate": "Oct 2021",
+          "Duration": "1 yr",
+          "Location": "Atlanta, Georgia, United States",
+          "Description": null
+        },
+        {
+          "Title": "Marketing Manager",
+          "Company": "Asia School of Business",
+          "CompanyWebsite": null,
+          "StartDate": "Nov 2018",
+          "EndDate": "Oct 2020",
+          "Duration": "2 yrs",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": null
+        },
+        {
+          "Title": "Marketing Director",
+          "Company": "Joule Energy",
+          "CompanyWebsite": null,
+          "StartDate": "Mar 2015",
+          "EndDate": "Jul 2016",
+          "Duration": "1 yr 5 mos",
+          "Location": "Greater New Orleans Area",
+          "Description": null
+        },
+        {
+          "Title": "2013 Fellow",
+          "Company": "Venture For America",
+          "CompanyWebsite": null,
+          "StartDate": "Jul 2013",
+          "EndDate": "Jun 2015",
+          "Duration": "2 yrs",
+          "Location": "Greater New York City Area",
+          "Description": null
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Alex Snedeker",
+        "graduation_year": 2018,
+        "program": "Master of Business Administration - MBA",
+        "linkedin_url": "https://www.linkedin.com/in/alexsnedeker/"
+      },
+      "current_company": {
+        "name": "Wattch",
+        "industry_category": "Renewable Energy",
+        "company_type": "Startup",
+        "company_stage": "Growth",
+        "job_title": "General Manager",
+        "location": "Atlanta, Georgia, United States",
+        "start_date": "May 2022",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "Wattch",
+          "title": "General Manager",
+          "duration": "3 yrs 2 mos",
+          "industry_category": "Renewable Energy",
+          "company_type": "Startup",
+          "seniority_level": "Executive"
+        },
+        {
+          "company": "Cherry Street Energy",
+          "title": "Director of Growth (Sales + Marketing)",
+          "duration": "8 mos",
+          "industry_category": "Renewable Energy",
+          "company_type": "Startup",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Cherry Street Energy",
+          "title": "Director of Marketing",
+          "duration": "1 yr",
+          "industry_category": "Renewable Energy",
+          "company_type": "Startup",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Asia School of Business",
+          "title": "Marketing Manager",
+          "duration": "2 yrs",
+          "industry_category": "Education",
+          "company_type": "Educational Institution",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Joule Energy",
+          "title": "Marketing Director",
+          "duration": "1 yr 5 mos",
+          "industry_category": "Renewable Energy",
+          "company_type": "Startup",
+          "seniority_level": "Mid"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration - MBA",
+          "field_of_study": "Business Administration and Management, General",
+          "graduation_year": 2018,
+          "school_tier": "Mid Tier"
+        },
+        {
+          "school": "University of North Carolina at Chapel Hill",
+          "degree": "Bachelor of Science (B.S.)",
+          "field_of_study": "Environmental Science",
+          "graduation_year": null,
+          "school_tier": "Top Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Renewable Energy",
+        "current_seniority_level": "Executive",
+        "key_expertise": [
+          "Marketing",
+          "Sales",
+          "Growth",
+          "Renewable Energy",
+          "Business Development"
+        ],
+        "years_experience_estimate": "7+",
+        "career_trajectory": {
+          "career_path": "Marketing and Sales focused within the Renewable Energy industry, progressing into General Management",
+          "recent_transitions": "Consistent upward trajectory, demonstrating increasing responsibility and leadership roles.",
+          "growth_pattern": "Rapid career growth with transitions to higher seniority levels.",
+          "potential_next_roles": [
+            "VP of Operations",
+            "COO",
+            "CEO within a Renewable Energy company",
+            "Director/VP at a larger Renewable Energy firm"
+          ]
+        },
+        "industry_transitions": [],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "Based on available information, there are two distinct entities using the name \"Wattch\":\n\n**1. Wattch (UK-based Electric Vehicle Charging)**\n\n* **Company Type and Size:** Small to Medium Enterprise (SME)\n* **Main Industry and Business Focus:**  Electric Vehicle (EV) Charging Infrastructure and Management\n* **Key Business Areas and Services:** Installation and maintenance of EV chargers (both domestic and commercial),  EV charging management software and platforms, potentially energy management consulting for businesses transitioning to EV fleets.\n* **Company Stage:** Growth\n* **Industry Category:**  Renewable Energy Equipment & Services,  Information Technology and Services,  Facilities Services\n* **Brief Company Description:** Wattch is a UK-based company specializing in providing comprehensive EV charging solutions.  They offer end-to-end services, from initial consultation and charger installation to ongoing maintenance and software-based charging management.  They appear to cater to both residential and commercial clients.  Their specific focus seems to be on simplifying the EV charging experience and optimizing charging efficiency.  They are actively growing their presence in the UK market.\n\n**2. Wattch (US-based Smart Watch Technology - Defunct)**\n\n* **Company Type and Size:**  Startup (now defunct)\n* **Main Industry and Business Focus:**  Wearable Technology, Smartwatches, Mobile Applications\n* **Key Business Areas and Services:** Developed a smartwatch and accompanying mobile app focused on security and personal safety features, particularly for women.  The watch included features like GPS tracking, emergency alerts, and a discreet panic button.\n* **Company Stage:**  Defunct (website and social media presence are inactive)\n* **Industry Category:** Consumer Electronics,  Software,  Personal Safety\n* **Brief Company Description:**  Wattch was a US-based startup that developed a smartwatch designed for personal safety.  It aimed to provide users, particularly women, with a discreet and readily accessible way to call for help in emergency situations.  While the product generated some initial interest, the company appears to have ceased operations, and the product is no longer available.\n\n\nIt's important to differentiate between these two entities when searching for information.  The UK-based EV charging company is currently active, while the US-based smartwatch company is no longer operating.",
+      "search_query": "Wattch company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:24:00.531029",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Dmitry",
+      "Preferred": null,
+      "Last": "Vedenyapin",
+      "Gender": null,
+      "GraduatedYear": 2018,
+      "Intake": null,
+      "Program": "MBA",
+      "GraduationAwards": [],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/dmitryvedenyapin/",
+      "Education": [
+        {
+          "SchoolName": "Y Combinator",
+          "Degree": "Startup Founder",
+          "FieldOfStudy": null,
+          "StartYear": 2022,
+          "EndYear": 2022,
+          "ActivitiesAndSocieties": "W22 batch",
+          "Achievements": []
+        },
+        {
+          "SchoolName": "MIT Sloan School of Management",
+          "Degree": "MBA Spring Immersion",
+          "FieldOfStudy": "Business Administration and Management, General",
+          "StartYear": 2016,
+          "EndYear": 2017,
+          "ActivitiesAndSocieties": "MIT Sloan Alumni 2017",
+          "Achievements": []
+        },
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "MBA",
+          "FieldOfStudy": null,
+          "StartYear": null,
+          "EndYear": 2018,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "CTO & Founder",
+          "Company": "Peakflo (YC W22)",
+          "CompanyWebsite": null,
+          "StartDate": "Jan 2021",
+          "EndDate": "Present",
+          "Duration": "4 yrs 6 mos",
+          "Location": "Singapore",
+          "Description": "Empowering South East Asian businesses to achieve peak cashflows!"
+        },
+        {
+          "Title": "Mentor",
+          "Company": "GrowthMentor",
+          "CompanyWebsite": null,
+          "StartDate": "May 2020",
+          "EndDate": "Present",
+          "Duration": "5 yrs 2 mos",
+          "Location": null,
+          "Description": null
+        },
+        {
+          "Title": "Founder in residence",
+          "Company": "Entrepreneur First",
+          "CompanyWebsite": null,
+          "StartDate": "Jul 2020",
+          "EndDate": "Oct 2020",
+          "Duration": "4 mos",
+          "Location": "Singapore",
+          "Description": null
+        },
+        {
+          "Title": "Head Of Technology",
+          "Company": "AirAsia",
+          "CompanyWebsite": null,
+          "StartDate": "Dec 2018",
+          "EndDate": "Jul 2020",
+          "Duration": "1 yr 8 mos",
+          "Location": "Singapore",
+          "Description": "• Led Loyalty, Membership, OMS (Order management system), Activities, Deals and Messenger engineering teams.\n• Launched a platform in a month with 13k concurrent users.\n• Transformed line of business in product-centric, customer-focused organisation which resulted in 60% YoY revenue growth in 2019 by pioneering multiple high-impact products and effectively communicating with C-level stakeholders.\n• Managed a team of 30 across three countries: individual contributors, team leads and managers; managed the Tech department budget in ’19."
+        },
+        {
+          "Title": "Chief Technology Officer",
+          "Company": "Alluma",
+          "CompanyWebsite": null,
+          "StartDate": "2017",
+          "EndDate": "Nov 2018",
+          "Duration": "1 yr 11 mos",
+          "Location": "Singapore",
+          "Description": "• Built an international team of 14 engineers and product managers across multiple countries from scratch.\n• Successfully launched high-load scalable web and mobile fintech product in less than 5 months using blockchain technology, leading engineering and product teams.\n• Pioneered the software engineering and security processes; introduced best practices: Agile, SSDLC and OWASP.\n• Delivered integration with payment gateways, KYC providers, analytical software and CRM systems."
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Dmitry Vedenyapin",
+        "graduation_year": 2018,
+        "program": "MBA",
+        "linkedin_url": "https://www.linkedin.com/in/dmitryvedenyapin/"
+      },
+      "current_company": {
+        "name": "Peakflo (YC W22)",
+        "industry_category": "Financial Services",
+        "company_type": "Startup",
+        "company_stage": "Startup",
+        "job_title": "CTO & Founder",
+        "location": "Singapore",
+        "start_date": "Jan 2021",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "Peakflo (YC W22)",
+          "title": "CTO & Founder",
+          "duration": "4 yrs 6 mos",
+          "industry_category": "Financial Services",
+          "company_type": "Startup",
+          "seniority_level": "C-Level"
+        },
+        {
+          "company": "GrowthMentor",
+          "title": "Mentor",
+          "duration": "5 yrs 2 mos",
+          "industry_category": "Technology",
+          "company_type": "Startup",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Entrepreneur First",
+          "title": "Founder in residence",
+          "duration": "4 mos",
+          "industry_category": "Venture Capital/Private Equity",
+          "company_type": "Startup",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "AirAsia",
+          "title": "Head Of Technology",
+          "duration": "1 yr 8 mos",
+          "industry_category": "Travel/Hospitality",
+          "company_type": "Enterprise",
+          "seniority_level": "Executive"
+        },
+        {
+          "company": "Alluma",
+          "title": "Chief Technology Officer",
+          "duration": "1 yr 11 mos",
+          "industry_category": "Technology",
+          "company_type": "Startup",
+          "seniority_level": "C-Level"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "Y Combinator",
+          "degree": "Startup Founder",
+          "field_of_study": "Entrepreneurship",
+          "graduation_year": null,
+          "school_tier": "Top Tier"
+        },
+        {
+          "school": "MIT Sloan School of Management",
+          "degree": "MBA Spring Immersion in Business Administration and Management, General",
+          "field_of_study": "Business Administration and Management, General",
+          "graduation_year": null,
+          "school_tier": "Top Tier"
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "MBA",
+          "field_of_study": "Business Administration and Management",
+          "graduation_year": 2018,
+          "school_tier": "Mid Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Technology",
+        "current_seniority_level": "C-Level",
+        "key_expertise": [
+          "Technology",
+          "Fintech",
+          "Leadership",
+          "Mentorship",
+          "Startups"
+        ],
+        "years_experience_estimate": "8+",
+        "career_trajectory": {
+          "career_path": "Technology Management & Entrepreneurship",
+          "recent_transitions": "From CTO to Founder",
+          "growth_pattern": "Rapid growth with increasing leadership responsibilities",
+          "potential_next_roles": [
+            "Serial Entrepreneur",
+            "CEO",
+            "Board Member",
+            "Angel Investor"
+          ]
+        },
+        "industry_transitions": [
+          "Travel/Hospitality",
+          "Venture Capital/Private Equity",
+          "Financial Services"
+        ],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "Peakflo (YC W22) is a **startup** specializing in **accounts payable (AP) automation** for businesses.  While precise employee count is not publicly available, their participation in Y Combinator's Winter 2022 batch and subsequent fundraising suggests a small to medium-sized startup.\n\n**1. Company Type and Size:** Startup (likely small to medium-sized).\n\n**2. Main Industry and Business Focus:**  Financial technology (Fintech) with a focus on B2B SaaS solutions for accounts payable automation.\n\n**3. Key Business Areas and Services:**\n\n* **AP Automation:**  Peakflo streamlines the entire accounts payable process, from invoice processing and approvals to payments and reconciliation.\n* **Integration with Accounting Software:**  The platform integrates with popular accounting software like Xero and QuickBooks.\n* **Multi-Currency Support:**  Handles payments in multiple currencies, simplifying international transactions.\n* **Payment Optimization:** Offers various payment methods to optimize cost and efficiency.\n* **Reporting and Analytics:**  Provides real-time visibility into AP data and spending patterns.\n\n**4. Company Stage:** Growth stage (post-seed/Series A).  Having graduated from Y Combinator and secured subsequent funding, they've moved beyond the initial seed stage and are actively scaling their operations.\n\n**5. Industry Category (Standardized):**\n* Software as a Service (SaaS)\n* Fintech\n* Accounts Payable Automation\n* Business Process Automation (BPA)\n\n**6. Brief Company Description:**\n\nPeakflo is a Singapore-based fintech startup offering a cloud-based platform to automate accounts payable processes for businesses.  Their solution helps companies streamline invoice processing, approvals, payments, and reconciliation, while providing real-time visibility into AP data.  Integrated with popular accounting software and supporting multiple currencies, Peakflo aims to improve efficiency and reduce costs associated with traditional AP workflows.  They are a Y Combinator Winter 2022 alumni and are currently in a growth stage.",
+      "search_query": "Peakflo (YC W22) company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:24:19.643597",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Katherine",
+      "Preferred": null,
+      "Last": "Robinson",
+      "Gender": "She/Her",
+      "GraduatedYear": null,
+      "Intake": null,
+      "Program": "Master of Business Administration (MBA)",
+      "GraduationAwards": [],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/ktrobinson7/",
+      "Education": [
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "Master of Business Administration (MBA)",
+          "FieldOfStudy": null,
+          "StartYear": null,
+          "EndYear": null,
+          "ActivitiesAndSocieties": "Consulting Club, Outdoors Club, Photography Club, Values Committee",
+          "Achievements": []
+        },
+        {
+          "SchoolName": "The Johns Hopkins University",
+          "Degree": "Bachelor of Arts (BA)",
+          "FieldOfStudy": "International Studies and Sociology",
+          "StartYear": null,
+          "EndYear": null,
+          "ActivitiesAndSocieties": "Social Investment Outreach, Students Educating and Empowering for Diversity, Refugee Action Project, Senior Leadership Consultants, EcoReps, Blue Key Society, Phi Beta Kappa, Sigma Iota Rho, Alpha Kappa Delta",
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "Senior Manager, Program Strategy",
+          "Company": "Pivotal Ventures",
+          "CompanyWebsite": null,
+          "StartDate": "May 2023",
+          "EndDate": "Present",
+          "Duration": "2 yrs 2 mos",
+          "Location": null,
+          "Description": null
+        },
+        {
+          "Title": "Secondee",
+          "Company": "Pivotal Ventures",
+          "CompanyWebsite": null,
+          "StartDate": "May 2022",
+          "EndDate": "May 2023",
+          "Duration": "1 yr 1 mo",
+          "Location": null,
+          "Description": null
+        },
+        {
+          "Title": "Engagement Manager",
+          "Company": "McKinsey & Company",
+          "CompanyWebsite": null,
+          "StartDate": "2020",
+          "EndDate": "2023",
+          "Duration": "3 yrs",
+          "Location": "Denver, Colorado, United States",
+          "Description": "Social Sector Practice"
+        },
+        {
+          "Title": "Consultant",
+          "Company": "McKinsey & Company",
+          "CompanyWebsite": null,
+          "StartDate": "2018",
+          "EndDate": "2020",
+          "Duration": "2 yrs",
+          "Location": "Greater Denver Area",
+          "Description": null
+        },
+        {
+          "Title": "Consultant",
+          "Company": "EMH Strategy",
+          "CompanyWebsite": null,
+          "StartDate": "2014",
+          "EndDate": "2016",
+          "Duration": "2 yrs",
+          "Location": "Greater New Orleans Area",
+          "Description": "Provided strategic guidance to startups, non-profits, established businesses, and public entities in various industries including education, healthcare, construction, hospitality, and technology"
+        },
+        {
+          "Title": "Company Liasion & Fellow",
+          "Company": "Venture For America",
+          "CompanyWebsite": null,
+          "StartDate": "Nov 2014",
+          "EndDate": "Jun 2016",
+          "Duration": "1 yr 8 mos",
+          "Location": "New Orleans",
+          "Description": "Selected for a two-year entrepreneurship fellowship that places fellows in cities with emerging entrepreneurial ecosystems and managed the recruitment and on-boarding processes of New Orleans VFA company partners as a Company Liaison"
+        },
+        {
+          "Title": "Intern",
+          "Company": "LF Beauty",
+          "CompanyWebsite": null,
+          "StartDate": "Jun 2017",
+          "EndDate": "Aug 2017",
+          "Duration": "3 mos",
+          "Location": "Hong Kong",
+          "Description": null
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Katherine Robinson",
+        "graduation_year": null,
+        "program": "Master of Business Administration (MBA)",
+        "linkedin_url": "https://www.linkedin.com/in/ktrobinson7/"
+      },
+      "current_company": {
+        "name": "Pivotal Ventures",
+        "industry_category": "Philanthropy",
+        "company_type": "Non-profit",
+        "company_stage": "Mature",
+        "job_title": "Senior Manager, Program Strategy",
+        "location": "None",
+        "start_date": "May 2023",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "Pivotal Ventures",
+          "title": "Senior Manager, Program Strategy",
+          "duration": "2 yrs 2 mos",
+          "industry_category": "Philanthropy",
+          "company_type": "Non-profit",
+          "seniority_level": "Senior"
+        },
+        {
+          "company": "Pivotal Ventures",
+          "title": "Secondee",
+          "duration": "1 yr 1 mo",
+          "industry_category": "Philanthropy",
+          "company_type": "Non-profit",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "McKinsey & Company",
+          "title": "Engagement Manager",
+          "duration": "3 yrs",
+          "industry_category": "Consulting",
+          "company_type": "Enterprise",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "McKinsey & Company",
+          "title": "Consultant",
+          "duration": "2 yrs",
+          "industry_category": "Consulting",
+          "company_type": "Enterprise",
+          "seniority_level": "Entry"
+        },
+        {
+          "company": "EMH Strategy",
+          "title": "Consultant",
+          "duration": "2 yrs",
+          "industry_category": "Consulting",
+          "company_type": "Unknown",
+          "seniority_level": "Entry"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration (MBA)",
+          "field_of_study": "Business Administration",
+          "graduation_year": null,
+          "school_tier": "Mid Tier"
+        },
+        {
+          "school": "The Johns Hopkins University",
+          "degree": "Bachelor of Arts (BA)",
+          "field_of_study": "International Studies and Sociology",
+          "graduation_year": null,
+          "school_tier": "Top Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Consulting",
+        "current_seniority_level": "Senior",
+        "key_expertise": [
+          "Program Strategy",
+          "Management Consulting",
+          "Social Impact"
+        ],
+        "years_experience_estimate": "9+ years",
+        "career_trajectory": {
+          "career_path": "Consulting to Philanthropy",
+          "recent_transitions": "Moved from Management Consulting to Program Strategy within the Philanthropy sector.",
+          "growth_pattern": "Steady upward trajectory with increasing responsibility.",
+          "potential_next_roles": [
+            "Director of Program Strategy",
+            "Head of Programs",
+            "Chief Strategy Officer in a non-profit"
+          ]
+        },
+        "industry_transitions": [
+          "Consulting to Philanthropy"
+        ],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "Pivotal Ventures is an investment and incubation company founded by Melinda French Gates.  While it operates independently, it's structured as a limited liability company (LLC), not a publicly traded corporation.  Therefore, precise size metrics like employee count and revenue are not publicly disclosed. However, considering the scale of its investments and initiatives, it can be classified as a **large entity** in terms of its impact and financial resources.\n\n1. **Company Type and Size:**  LLC, large entity (impact and financial resources).  Not a traditional company in the sense of producing goods or services for sale, but rather an investment and incubation entity.\n\n2. **Main Industry and Business Focus:**  Philanthropic investment and incubation focused on driving social progress in the United States, particularly for women and families.  It utilizes a combination of grantmaking, investing, and advocacy.\n\n3. **Key Business Areas and Services:**\n    * **Investments:**  Provides funding to organizations working on issues related to gender equality, economic mobility, and social justice.  This includes investing in for-profit and non-profit entities.\n    * **Incubation:**  Develops and launches new initiatives and programs aimed at addressing social challenges.\n    * **Grantmaking:**  Awards grants to non-profit organizations aligned with its mission.\n    * **Advocacy:**  Engages in advocacy efforts to advance policy changes that support its goals.\n\n4. **Company Stage:** Mature. While Pivotal Ventures is relatively young (founded in 2015),  it operates with significant resources and a clearly defined mission, placing it in a mature stage of development.\n\n5. **Industry Category (Standardized):**  Philanthropy, Impact Investing, Social Impact, Venture Capital\n\n6. **Brief Company Description:** Pivotal Ventures is a Melinda French Gates-founded investment and incubation company dedicated to accelerating social progress in the United States.  Focusing on removing barriers faced by women and families, it leverages investments, grants, and advocacy to drive systemic change and create a more equitable society.",
+      "search_query": "Pivotal Ventures company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:24:38.553079",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Addis",
+      "Preferred": null,
+      "Last": "Olujohungbe",
+      "Gender": null,
+      "GraduatedYear": 2018,
+      "Intake": null,
+      "Program": "Master of Business Administration - MBA",
+      "GraduationAwards": [],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/addis-olujohungbe/",
+      "Education": [
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "Master of Business Administration - MBA",
+          "FieldOfStudy": "Business Administration and Management, General",
+          "StartYear": 2016,
+          "EndYear": 2018,
+          "ActivitiesAndSocieties": "Co-Chair Energy Club",
+          "Achievements": []
+        },
+        {
+          "SchoolName": "MIT Sloan School of Management",
+          "Degree": "MBA",
+          "FieldOfStudy": "ASB Spring immersion program",
+          "StartYear": 2017,
+          "EndYear": 2017,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "Senior Engineering Manager",
+          "Company": "Esquel Group",
+          "CompanyWebsite": null,
+          "StartDate": "Jun 2018",
+          "EndDate": "Nov 2019",
+          "Duration": "1 yr 6 mos",
+          "Location": "South East Asia",
+          "Description": ""
+        },
+        {
+          "Title": "MBA Associate",
+          "Company": "BigC Supercenter Public Company Limited",
+          "CompanyWebsite": null,
+          "StartDate": "Sep 2017",
+          "EndDate": "Dec 2017",
+          "Duration": "4 mos",
+          "Location": "Bangkok City, Thailand",
+          "Description": ""
+        },
+        {
+          "Title": "MBA Internship",
+          "Company": "Citi",
+          "CompanyWebsite": null,
+          "StartDate": "Jun 2017",
+          "EndDate": "Aug 2017",
+          "Duration": "3 mos",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": "Branch digitization\nSEM and SEO top of funnel optimization\nStrategy and business development of acquisition channels for new bank customers"
+        },
+        {
+          "Title": "MBA Associate- ChargEV",
+          "Company": "Malaysian Green Technology and Climate Change Centre",
+          "CompanyWebsite": null,
+          "StartDate": "Sep 2016",
+          "EndDate": "Dec 2016",
+          "Duration": "4 mos",
+          "Location": "Selangor, Malaysia",
+          "Description": "Conducted market research, identified go-to-market strategies, pricing and financial models to deploy ChargEV's electric charging stations across Malaysia.\nDelivered a business and operating plan for the first 1000 electric charging stations to support Malaysia's EV initiative."
+        },
+        {
+          "Title": "IPT and EBU Integration Lead role (A320 Neo development)",
+          "Company": "Pratt & Whitney",
+          "CompanyWebsite": null,
+          "StartDate": "Feb 2013",
+          "EndDate": "Jul 2016",
+          "Duration": "3 yrs 6 mos",
+          "Location": null,
+          "Description": "Coordinate IPT team and manage task resources for the Block 1 engines on A320 Neo Program.\nExternals lead for the Tripartite EBU integration team, comprising of Pratt & Whitney, Airbus and United Aerospace Systems (UTAS).\n- Handle externals and EBU related interface negotiations, between Pratt & Whitney, Airbus and UTAS."
+        },
+        {
+          "Title": "Structures Engineer",
+          "Company": "Pratt & Whitney",
+          "CompanyWebsite": null,
+          "StartDate": "Jun 2010",
+          "EndDate": "Feb 2013",
+          "Duration": "2 yrs 9 mos",
+          "Location": null,
+          "Description": "Created structural models and performed 2D and 3D analysis on external components (tube networks, fittings, brackets, case ducts, bolts e.t.c) to turbine engines for NGPF programs (A320, MRJ and BA) and the AETD (Advanced Engine Technology Development),\nto meet requirements for resonance margins, vibratory and steady stress margins, and CRD requirements for creep, fatigue life and fracture life of components"
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Addis Olujohungbe",
+        "graduation_year": 2018,
+        "program": "Master of Business Administration - MBA",
+        "linkedin_url": "https://www.linkedin.com/in/addis-olujohungbe/"
+      },
+      "current_company": {
+        "name": "Esquel Group",
+        "industry_category": "Textiles and Apparel",
+        "company_type": "Private",
+        "company_stage": "Enterprise",
+        "job_title": "Senior Engineering Manager",
+        "location": "South East Asia",
+        "start_date": "Jun 2018",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "Esquel Group",
+          "title": "Senior Engineering Manager",
+          "duration": "1 yr 6 mos",
+          "industry_category": "Textiles and Apparel",
+          "company_type": "Private",
+          "seniority_level": "Senior"
+        },
+        {
+          "company": "BigC Supercenter Public Company Limited",
+          "title": "MBA Associate",
+          "duration": "4 mos",
+          "industry_category": "Retail",
+          "company_type": "Public",
+          "seniority_level": "Entry"
+        },
+        {
+          "company": "Citi",
+          "title": "MBA Internship",
+          "duration": "3 mos",
+          "industry_category": "Finance",
+          "company_type": "Public",
+          "seniority_level": "Entry"
+        },
+        {
+          "company": "Malaysian Green Technology and Climate Change Centre",
+          "title": "MBA Associate- ChargEV",
+          "duration": "4 mos",
+          "industry_category": "Renewables & Environment",
+          "company_type": "Government Agency",
+          "seniority_level": "Entry"
+        },
+        {
+          "company": "Pratt & Whitney",
+          "title": "IPT and EBU Integration Lead role (A320 Neo development)",
+          "duration": "3 yrs 6 mos",
+          "industry_category": "Aerospace & Defense",
+          "company_type": "Public",
+          "seniority_level": "Mid"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration - MBA",
+          "field_of_study": "Business Administration and Management, General",
+          "graduation_year": 2018,
+          "school_tier": "Mid Tier"
+        },
+        {
+          "school": "MIT Sloan School of Management",
+          "degree": "MBA",
+          "field_of_study": "ASB Spring immersion program",
+          "graduation_year": null,
+          "school_tier": "Top Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Engineering",
+        "current_seniority_level": "Senior",
+        "key_expertise": [
+          "Engineering Management",
+          "Integration",
+          "Project Management",
+          "Business Administration"
+        ],
+        "years_experience_estimate": "6+ years",
+        "career_trajectory": {
+          "career_path": "Engineering to Management",
+          "recent_transitions": "Transitioned into a management role after MBA",
+          "growth_pattern": "Upward Trajectory",
+          "potential_next_roles": [
+            "Director of Engineering",
+            "VP of Operations",
+            "Chief Operating Officer"
+          ]
+        },
+        "industry_transitions": [
+          "Aerospace & Defense to Retail",
+          "Retail to Renewables & Environment",
+          "Renewables & Environment to Finance",
+          "Finance to Textiles and Apparel"
+        ],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "Esquel Group is a large, vertically integrated textile and apparel manufacturer.\n\n1. **Company type and size:** Large enterprise.  Esquel employs over 50,000 people globally.  While privately held, its scale places it firmly in the large enterprise category.\n\n2. **Main industry and business focus:** Textile and Apparel Manufacturing. Their focus is on high-quality cotton shirting, spanning the entire supply chain from cotton farming to finished garments.\n\n3. **Key business areas and services:**\n    * **Cotton Farming:**  Owns and operates cotton farms, emphasizing sustainable practices.\n    * **Spinning:**  Produces yarn from raw cotton.\n    * **Weaving:**  Transforms yarn into fabric.\n    * **Dyeing and Finishing:**  Treats fabric to achieve desired color, texture, and performance characteristics.\n    * **Apparel Manufacturing:**  Designs and manufactures shirts and other garments for major international brands.\n    * **Retail:** Operates a small number of retail stores, primarily in China.\n    * **Technology Development:** Invests heavily in textile technology and automation.\n\n4. **Company stage:** Enterprise.  Esquel is a well-established, mature company with a long history and global presence.\n\n5. **Industry category (standardized):**\n    * **NAICS:** 315220 (Men's and Boys' Cut and Sew Apparel Manufacturing) - This is the most prominent code, though others apply given their vertical integration.\n    * **SIC:** 2321 (Men's and Boys' Shirts, Except Work Shirts) - Again, this reflects the primary output, but not the full scope of their operations.\n    * **Global Industry Classification Standard (GICS):** Consumer Discretionary - Textiles, Apparel & Luxury Goods\n\n6. **Brief company description:** Esquel Group is a leading global textile and apparel manufacturer with a vertically integrated supply chain.  Founded in 1978, the Hong Kong-based company specializes in high-quality cotton shirting, serving major international brands. Esquel emphasizes sustainability and innovation throughout its operations, from cotton farming to finished garments, and invests heavily in advanced textile technologies.  They operate globally, with significant presence in China, Malaysia, Vietnam, Sri Lanka, and Mauritius.",
+      "search_query": "Esquel Group company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:24:59.456799",
+    "enrichment_version": "v2.0"
+  },
+  {
+    "original_profile": {
+      "First": "Esther",
+      "Preferred": null,
+      "Last": "Siah",
+      "Gender": null,
+      "GraduatedYear": 2018,
+      "Intake": null,
+      "Program": "Master of Business Administration - MBA",
+      "GraduationAwards": [],
+      "Birthdate": null,
+      "LinkedInURL": "https://www.linkedin.com/in/esther-siah-86a9a278/",
+      "Education": [
+        {
+          "SchoolName": "Asia School of Business",
+          "Degree": "Master of Business Administration - MBA",
+          "FieldOfStudy": null,
+          "StartYear": 2016,
+          "EndYear": 2018,
+          "ActivitiesAndSocieties": "Involved in 5 different projects across Southeast Asia.\n- Air Asia, Kuala Lumpur (Operations)\n- Procter & Gamble, Myanmar (Marketing)\n- SMART, Cambodia ( Business Opportunity)\n- Biji-Biji ethical Fashion, Kuala Lumpur (NGO)\n- Summer internship with Microsoft, Kuala Lumpur",
+          "Achievements": []
+        },
+        {
+          "SchoolName": "MIT Sloan School of Management",
+          "Degree": "Spring Immersion Program 2017 (Asia School of Business)",
+          "FieldOfStudy": "Business Administration and Management, General",
+          "StartYear": 2017,
+          "EndYear": 2017,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        },
+        {
+          "SchoolName": "University of Nottingham",
+          "Degree": "Bachelor of Science in Economics",
+          "FieldOfStudy": null,
+          "StartYear": null,
+          "EndYear": null,
+          "ActivitiesAndSocieties": null,
+          "Achievements": []
+        }
+      ],
+      "Experience": [
+        {
+          "Title": "Business Development Manager",
+          "Company": "SingSaver",
+          "CompanyWebsite": null,
+          "StartDate": "May 2022",
+          "EndDate": "Oct 2024",
+          "Duration": "2 yrs 6 mos",
+          "Location": null,
+          "Description": "In my role as a Business Development Manager at SingSaver, I successfully grew a new vertical from the ground up. I also secured exclusivity deals for key accounts, enhancing strategic partnerships and driving business growth."
+        },
+        {
+          "Title": "Assistant Manager",
+          "Company": "CIMB",
+          "CompanyWebsite": null,
+          "StartDate": "Sep 2019",
+          "EndDate": "Apr 2022",
+          "Duration": "2 yrs 8 mos",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": "Handles Mortgage Portfolio - launch campaigns to drive acquisition, leverage data insight for key strategic decisions, improve portfolio's bottomline"
+        },
+        {
+          "Title": "Business Development Manager",
+          "Company": "CIMB Bank Philippines",
+          "CompanyWebsite": null,
+          "StartDate": "May 2018",
+          "EndDate": "Aug 2019",
+          "Duration": "1 yr 4 mos",
+          "Location": "Philippines",
+          "Description": "• Spearheaded the establishment of CIMB Bank Philippines, playing a pivotal role in negotiating and onboarding key business partners.\n• Developed strategic directions for partnerships and maintained end-to-end relationships, from operations to strategic decision-making.\n• Led marketing campaigns and utilized data insights to drive key initiatives for business growth."
+        },
+        {
+          "Title": "MBA Graduate Student",
+          "Company": "Asia School of Business",
+          "CompanyWebsite": null,
+          "StartDate": "Sep 2016",
+          "EndDate": "Mar 2018",
+          "Duration": "1 yr 7 mos",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": "• Managed 5 projects with various companies, gaining exposure to different industries and functions.\n• Led operations in the airline industry and developed product strategies in a consumer product firm in Myanmar.\n• Collaborated with cross-functional teams to deliver successful project outcomes."
+        },
+        {
+          "Title": "Intern to MACH",
+          "Company": "Microsoft",
+          "CompanyWebsite": null,
+          "StartDate": "Jun 2017",
+          "EndDate": "Aug 2017",
+          "Duration": "3 mos",
+          "Location": "Kuala Lumpur, Malaysia",
+          "Description": "• Supported the SMC (Small Medium Commercial) division at Microsoft, Malaysia in driving customer acquisition through business partner collaborations.\n• Assisted in developing strategic plans to enhance customer engagement and increase revenue.\n• Conducted market research and analysis to identify new business opportunities and trends."
+        }
+      ]
+    },
+    "enriched_metadata": {
+      "profile_summary": {
+        "full_name": "Esther Siah",
+        "graduation_year": 2018,
+        "program": "Master of Business Administration - MBA",
+        "linkedin_url": "https://www.linkedin.com/in/esther-siah-86a9a278/"
+      },
+      "current_company": {
+        "name": "SingSaver",
+        "industry_category": "Finance",
+        "company_type": "Private",
+        "company_stage": "Growth",
+        "job_title": "Business Development Manager",
+        "location": "None",
+        "start_date": "May 2022",
+        "is_current": true
+      },
+      "career_progression": [
+        {
+          "company": "SingSaver",
+          "title": "Business Development Manager",
+          "duration": "2 yrs 6 mos",
+          "industry_category": "Finance",
+          "company_type": "Private",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "CIMB",
+          "title": "Assistant Manager",
+          "duration": "2 yrs 8 mos",
+          "industry_category": "Finance",
+          "company_type": "Public",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "CIMB Bank Philippines",
+          "title": "Business Development Manager",
+          "duration": "1 yr 4 mos",
+          "industry_category": "Finance",
+          "company_type": "Public",
+          "seniority_level": "Mid"
+        },
+        {
+          "company": "Asia School of Business",
+          "title": "MBA Graduate Student",
+          "duration": "1 yr 7 mos",
+          "industry_category": "Education",
+          "company_type": "Educational Institution",
+          "seniority_level": "Entry"
+        },
+        {
+          "company": "Microsoft",
+          "title": "Intern to MACH",
+          "duration": "3 mos",
+          "industry_category": "Technology",
+          "company_type": "Public",
+          "seniority_level": "Entry"
+        }
+      ],
+      "education_analysis": [
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration - MBA",
+          "field_of_study": "Business Administration and Management, General",
+          "graduation_year": 2018,
+          "school_tier": "Top Tier"
+        },
+        {
+          "school": "MIT Sloan School of Management",
+          "degree": "Spring Immersion Program 2017",
+          "field_of_study": "Business Administration and Management, General",
+          "graduation_year": 2017,
+          "school_tier": "Top Tier"
+        },
+        {
+          "school": "University of Nottingham",
+          "degree": "Bachelor of Science",
+          "field_of_study": "Economics",
+          "graduation_year": null,
+          "school_tier": "Mid Tier"
+        }
+      ],
+      "career_insights": {
+        "primary_industry": "Finance",
+        "current_seniority_level": "Mid",
+        "key_expertise": [
+          "Business Development",
+          "Financial Services"
+        ],
+        "years_experience_estimate": "6+",
+        "career_trajectory": {
+          "career_path": "Business Development within Financial Services",
+          "recent_transitions": "Consistent focus on Business Development roles",
+          "growth_pattern": "Steady progression with increasing responsibility",
+          "potential_next_roles": [
+            "Senior Business Development Manager",
+            "Director of Business Development",
+            "Head of Business Development"
+          ]
+        },
+        "industry_transitions": [],
+        "leadership_experience": true
+      }
+    },
+    "company_research": {
+      "company_summary": "SingSaver is a **large privately-held company** operating as a **financial comparison platform**.\n\n1. **Company type and size:**  Large privately-held company.  While exact employee numbers are not publicly disclosed, information suggests a substantial workforce across multiple departments like marketing, technology, partnerships, and editorial, indicating a size beyond that of a typical SME.\n\n2. **Main industry and business focus:**  Financial Technology (Fintech) with a focus on online financial product comparison and consumer empowerment.\n\n3. **Key business areas and services:**\n    * **Financial product comparison:**  SingSaver allows users to compare a wide range of financial products, including credit cards, personal loans, home loans, insurance (travel, car, home), savings accounts, and investment products.\n    * **Personalized recommendations:**  The platform uses algorithms and user data to provide tailored recommendations based on individual needs and financial profiles.\n    * **Financial education and resources:** SingSaver publishes articles, guides, and tools to help consumers make informed financial decisions.\n    * **Partnerships with financial institutions:** The company collaborates with banks and other financial institutions to offer exclusive deals and promotions to its users.\n    * **Application assistance:**  Streamlines the application process for selected financial products through its platform.\n\n4. **Company stage:**  **Growth/Mature**. SingSaver has moved beyond the startup phase. It has established a strong market presence, secured significant funding, and expanded its services beyond its initial offerings.  It continues to innovate and grow, indicating a position in the growth or mature stage.\n\n5. **Industry category (standardized):**\n    * **NAICS:** 522320 - Nondepository Credit Intermediation\n    * **GICS:** 45 - Financials (more broadly) and 4530 - Financial Exchanges & Data (more specifically)\n\n6. **Brief company description:** SingSaver is a leading personal finance comparison platform in Singapore, helping consumers save money and make smarter financial decisions.  It offers a comprehensive range of financial product comparisons, personalized recommendations, and educational resources.  Through partnerships with major banks and financial institutions, SingSaver provides access to exclusive deals and simplifies the application process for various financial products.  It operates primarily in Singapore but also has a presence in other Southeast Asian markets.",
+      "search_query": "SingSaver company information"
+    },
+    "enrichment_timestamp": "2025-06-08T17:25:19.671176",
+    "enrichment_version": "v2.0"
+  }
+]
