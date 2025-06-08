@@ -33,7 +33,7 @@
       "current_company": {
         "name": "The Global Alliance for Cyber Safety",
         "industry_category": "Cybersecurity",
-        "company_type": "Non-profit organization",
+        "company_type": "Non-profit Organization",
         "company_stage": "Unknown",
         "job_title": "Business Development",
         "date_range": {
@@ -56,7 +56,7 @@
         {
           "name": "The Global Alliance for Cyber Safety",
           "industry_category": "Cybersecurity",
-          "company_type": "Non-profit organization",
+          "company_type": "Non-profit Organization",
           "job_title": "Business Development",
           "date_range": {
             "start": "2024-12",
@@ -86,22 +86,21 @@
         }
       ],
       "career_insights": {
-        "industry": "Cybersecurity, Information Technology",
+        "industry": "Information Technology",
         "seniority_level": "Mid",
         "key_expertise": [
           "Business Development",
-          "Digital Leadership",
-          "Cybersecurity"
+          "Cybersecurity",
+          "Digital Leadership"
         ],
         "years_experience_estimate": "5+",
         "career_trajectory": {
-          "recent_transition": "Transitioned from a general IT Business Development role to a more specialized Cybersecurity focused role.",
-          "growth_path": "Focusing on building expertise in business development within the tech industry, with a recent move towards the cybersecurity sector.  The Executive Digital Leadership program suggests a desire for career advancement towards leadership positions.",
+          "recent_transition": "Transitioned from a general IT Business Development role to a more specialized role in Cybersecurity.",
+          "growth_path": "Demonstrates commitment to professional development through executive education focusing on digital leadership.",
           "potential_roles": [
             "Senior Business Development Manager",
             "Director of Business Development",
-            "Head of Partnerships",
-            "Chief Revenue Officer"
+            "Cybersecurity Consultant"
           ]
         }
       }
@@ -153,7 +152,7 @@
         {
           "name": "Permodalan Nasional Berhad",
           "industry_category": "Financial Services",
-          "company_type": "Government-Linked Company (GLC)",
+          "company_type": "Government-linked company",
           "job_title": "Internship Trainee, Shariah Management",
           "date_range": {
             "start": "2023-08",
@@ -202,13 +201,12 @@
         ],
         "years_experience_estimate": "< 1",
         "career_trajectory": {
-          "recent_transition": "Internship to Entry-Level",
+          "recent_transition": "Internship to Entry-level",
           "growth_path": "Specialization in Corporate Governance or Shariah Management",
           "potential_roles": [
-            "Senior Executive, Corporate Governance",
-            "Manager, Corporate Governance",
-            "Shariah Advisor",
-            "Shariah Compliance Officer"
+            "Corporate Governance Officer",
+            "Shariah Compliance Officer",
+            "Risk Management Executive"
           ]
         }
       }
@@ -305,16 +303,17 @@
         "seniority_level": "Entry",
         "key_expertise": [
           "Equity Research",
-          "Financial Analysis"
+          "Financial Analysis",
+          "Scientific Research"
         ],
-        "years_experience_estimate": "2-3",
+        "years_experience_estimate": "2-4",
         "career_trajectory": {
           "recent_transition": "Academia to Finance",
-          "growth_path": "Financial Analyst -> Senior Analyst -> Portfolio Manager",
+          "growth_path": "Financial Analyst track",
           "potential_roles": [
             "Senior Equity Analyst",
-            "Investment Associate",
-            "Portfolio Manager"
+            "Portfolio Manager",
+            "Investment Banking Associate"
           ]
         }
       }
@@ -365,7 +364,7 @@
       "list_of_companies": [
         {
           "name": "Securities Commission Malaysia",
-          "industry_category": "Government and Public Administration",
+          "industry_category": "Government & Regulatory",
           "company_type": "Government Agency",
           "job_title": "InvestED Leadership Programme Trainee",
           "date_range": {
@@ -411,8 +410,8 @@
         "seniority_level": "Entry",
         "key_expertise": [
           "Java Development",
-          "Financial Services",
-          "Leadership"
+          "Leadership Training",
+          "Financial Services"
         ],
         "years_experience_estimate": "Less than 1 year",
         "career_trajectory": {
@@ -420,7 +419,7 @@
           "growth_path": "Software Engineering within Financial Services",
           "potential_roles": [
             "Senior Java Developer",
-            "Software Architect",
+            "Software Engineer",
             "Tech Lead"
           ]
         }
@@ -516,11 +515,13 @@
       "career_insights": {
         "industry": "Management Consulting",
         "seniority_level": "Mid",
-        "key_expertise": [],
-        "years_experience_estimate": "2",
+        "key_expertise": [
+          "Consulting"
+        ],
+        "years_experience_estimate": "1-2",
         "career_trajectory": {
           "recent_transition": "Healthcare to Management Consulting",
-          "growth_path": "Potentially transitioning to a more senior consulting role after MBA completion.",
+          "growth_path": "Consultant to Senior Consultant/Manager",
           "potential_roles": [
             "Senior Consultant",
             "Manager",
@@ -611,16 +612,16 @@
         "key_expertise": [
           "Healthcare Administration",
           "Public Health",
-          "Digital Leadership"
+          "Policy"
         ],
-        "years_experience_estimate": "3+ years (estimated based on provided information)",
+        "years_experience_estimate": "3+ years",
         "career_trajectory": {
-          "recent_transition": "Promotion or role change within the same organization",
-          "growth_path": "Likely upward trajectory within the Ministry of Health or related government agencies",
+          "recent_transition": "No change in role, potentially a promotion or increased responsibilities within the same organization.",
+          "growth_path": "Likely continued advancement within the Ministry of Health, potentially towards higher directorial or executive roles.",
           "potential_roles": [
             "Director",
             "Deputy Director General",
-            "Higher leadership roles in healthcare administration"
+            "Senior Advisor"
           ]
         }
       }
@@ -672,7 +673,7 @@
         {
           "name": "Malaysia Debt Ventures Berhad",
           "industry_category": "Venture Capital & Private Equity",
-          "company_type": "Financial Institution",
+          "company_type": "Government-Linked Company (GLC)",
           "job_title": "Venture Finance Manager",
           "date_range": {
             "start": "2024-06",
@@ -719,16 +720,15 @@
           "Venture Finance",
           "Dealership",
           "Marketing",
-          "Leadership"
+          "Financial Analysis"
         ],
-        "years_experience_estimate": "1-2 years",
+        "years_experience_estimate": "1-2",
         "career_trajectory": {
-          "recent_transition": "Transitioned from Venture Finance to a hybrid Dealer/Marketing role",
-          "growth_path": "Potentially moving towards a more client-facing or sales-oriented role within the financial services industry",
+          "recent_transition": "Transitioned from Venture Finance to a hybrid Dealer/Marketing role.",
+          "growth_path": "Potentially moving towards a more client-facing role within financial services.",
           "potential_roles": [
-            "Senior Dealer",
-            "Marketing Manager",
-            "Financial Advisor",
+            "Senior Marketing Executive",
+            "Relationship Manager",
             "Investment Analyst"
           ]
         }
@@ -768,7 +768,7 @@
     "enriched_metadata": {
       "current_company": {
         "name": "Trexon Energy",
-        "industry_category": "Renewables & Environment",
+        "industry_category": "Renewable Energy",
         "company_type": "Startup",
         "company_stage": "Startup",
         "job_title": "Founder & CEO",
@@ -791,7 +791,7 @@
         },
         {
           "name": "Trexon Energy",
-          "industry_category": "Renewables & Environment",
+          "industry_category": "Renewable Energy",
           "company_type": "Startup",
           "job_title": "Founder & CEO",
           "date_range": {
@@ -822,18 +822,18 @@
         }
       ],
       "career_insights": {
-        "industry": "Renewables & Environment",
+        "industry": "Renewable Energy",
         "seniority_level": "Executive",
         "key_expertise": [
-          "Entrepreneurship",
           "Renewable Energy",
+          "Entrepreneurship",
           "Business Development",
           "Leadership"
         ],
         "years_experience_estimate": "8+",
         "career_trajectory": {
           "recent_transition": "Founder to Founder & CEO",
-          "growth_path": "Founder, demonstrating consistent entrepreneurial drive.",
+          "growth_path": "Entrepreneurial",
           "potential_roles": [
             "CEO",
             "Board Member",
@@ -914,7 +914,7 @@
         {
           "school": "MIT Sloan School of Management",
           "degree": "Executive MBA",
-          "field_of_study": "Global Programs in collaboration with Asia School of Business",
+          "field_of_study": "Business Administration and Management, General",
           "date_range": {
             "start": "2023-09",
             "end": "2025-01"
@@ -923,7 +923,7 @@
         {
           "school": "Asia School of Business",
           "degree": "Executive MBA",
-          "field_of_study": "Business Administration",
+          "field_of_study": "Business Administration and Management, General",
           "date_range": {
             "start": "2023-09",
             "end": "2025-01"
@@ -940,8 +940,8 @@
         ],
         "years_experience_estimate": "10+ years",
         "career_trajectory": {
-          "recent_transition": "Logistics to Finance",
-          "growth_path": "Management to Executive Leadership",
+          "recent_transition": "Moved from Logistics to a Head of Finance role",
+          "growth_path": "Progressive increase in responsibility and leadership roles",
           "potential_roles": [
             "CFO",
             "Regional Finance Director",

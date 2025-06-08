@@ -1,0 +1,85 @@
+{
+    "First": "Ponce",
+    "Preferred": "Ernest",
+    "Last": "Samaniego",
+    "Gender": null,
+    "GraduatedYear": 2018,
+    "Intake": null,
+    "Program": "MBA",
+    "GraduationAwards": [
+      "President’s Leadership Award",
+      "Best Action Learning Project"
+    ],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/poncesamaniego/",
+    "Education": [
+      {
+        "SchoolName": "MIT Sloan School of Management",
+        "Degree": "Master of Science in Management Studies",
+        "FieldOfStudy": "General Management and Business Analytics",
+        "StartYear": 2019,
+        "EndYear": 2020,
+        "ActivitiesAndSocieties": null,
+        "Achievements": [
+          "Awarded merit-based fellowship covering 50% of tuition",
+          "Student Project: Improving B2B Sales for a SaaS company in Israel",
+          "Thesis entitled Analytics for Corporate Social Responsibility"
+        ]
+      },
+      {
+        "SchoolName": "Asia School of Business",
+        "Degree": "Master of Business Administration (MBA)",
+        "FieldOfStudy": null,
+        "StartYear": 2016,
+        "EndYear": 2018,
+        "ActivitiesAndSocieties": "ASB Community Service Club",
+        "Achievements": [
+          "Awarded the President’s Leadership Award (given to one student each cohort at graduation for demonstrating ASB’s values of excellence, collaboration, continuous learning, well-being, and respect)",
+          "Selected for Best Action Learning Project (out of 40 student team projects) recognizing the most impactful and rigorous student project throughout the MBA program",
+          "Granted ASB Fellowship Award which covers 100% of tuition, housing, and travel"
+        ]
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "Senior Product Manager, Recycle and International Liquidations",
+        "Company": "Amazon",
+        "CompanyWebsite": null,
+        "StartDate": "Aug 2024",
+        "EndDate": "Present",
+        "Duration": "11 mos",
+        "Location": "Greater Seattle Area",
+        "Description": "Leads product strategy and development for Amazon’s global recycling technology initiatives, optimizing waste classification, tracking, and compliance systems that align with Amazon’s ESG goals.\nLaunched Liquidations as a Service for FBA Sellers in Canada, enabling sellers to recover value from unsold goods while generating $61.5M in revenue and freeing $21M in fulfillment center capacity.\nOwns Project TRACE, a cross-functional digital product reducing brand and regulatory risk (~$115M/year) while delivering $2.87M in operational savings through advanced recycling vendor analytics.\nAuthor of end-to-end traceability platform roadmap and business requirement document; drives alignment across hardware, data science, and software teams to meet $105M in compliance entitlements.\nDeveloped scalable automation protocols for donation and liquidation partners to improve accountability and avoid environmental noncompliance penalties of up to $15M per infraction."
+      },
+      {
+        "Title": "Senior Product Manager, Driver Engagement and Motivation",
+        "Company": "Amazon",
+        "CompanyWebsite": null,
+        "StartDate": "Jan 2023",
+        "EndDate": "Aug 2024",
+        "Duration": "1 yr 8 mos",
+        "Location": "Greater Seattle Area",
+        "Description": "Owned the Amazon Flex Rewards product (1M+ global users), improving driver loyalty and delivery capacity via gamified, tier-based incentives.\nScaled Flex Rewards to JP, AU, and SG, increasing driver hours by 13.4% through localized partnerships with benefit providers.\nLed debit card integration into onboarding, increasing financial product adoption by 68% among delivery partners.\nCo-led Amazon Delivery’s volunteering program, engaging 42% of the org in community service initiatives."
+      },
+      {
+        "Title": "Senior Program Manager, Driver Evaluation",
+        "Company": "Amazon",
+        "CompanyWebsite": null,
+        "StartDate": "Aug 2020",
+        "EndDate": "Jan 2023",
+        "Duration": "2 yrs 6 mos",
+        "Location": "Greater Seattle Area",
+        "Description": "Led Project Patronus to redefine global evaluation standards for delivery partners, improving policy accuracy by over 9–10% across NA, APAC, and India.\nBuilt anomaly detection model for real-time identification of Large Scale Events (LSEs), protecting 36,000 drivers and improving exception timeliness by +460 bps.\nAwarded the WW Last Mile Ops Advocate Award for building trust with ops teams through delivery of high-impact, tech-enabled solutions."
+      },
+      {
+        "Title": "Senior Program Manager (Innovation and Entrepreneurship)",
+        "Company": "Asia School of Business",
+        "CompanyWebsite": null,
+        "StartDate": "Apr 2018",
+        "EndDate": "Aug 2019",
+        "Duration": "1 yr 5 mos",
+        "Location": "Kuala Lumpur, Malaysia",
+        "Description": "Increased Center revenue by 260% in 7 months through improved lead engagement and custom innovation training programs.\nDeveloped and delivered corporate workshops in product development, design thinking, and basic programming to boost innovation capabilities in the private and public sectors.\nLed business planning for a 5-year strategic roadmap, aligning education and innovation goals with long-term growth and partnerships."
+      }
+    ]
+  }

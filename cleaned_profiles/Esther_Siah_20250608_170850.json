@@ -1,0 +1,94 @@
+{
+  "First": "Esther",
+  "Preferred": null,
+  "Last": "Siah",
+  "Gender": null,
+  "GraduatedYear": 2018,
+  "ProfileImageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+  "Intake": null,
+  "Program": "Master of Business Administration - MBA",
+  "GraduationAwards": [],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/esther-siah-86a9a278/",
+  "Education": [
+    {
+      "SchoolName": "Asia School of Business",
+      "Degree": "Master of Business Administration - MBA",
+      "FieldOfStudy": null,
+      "StartYear": 2016,
+      "EndYear": 2018,
+      "ActivitiesAndSocieties": "Involved in 5 different projects across Southeast Asia.\n- Air Asia, Kuala Lumpur (Operations)\n- Procter & Gamble, Myanmar (Marketing)\n- SMART, Cambodia ( Business Opportunity)\n- Biji-Biji ethical Fashion, Kuala Lumpur (NGO)\n- Summer internship with Microsoft, Kuala Lumpur",
+      "Achievements": []
+    },
+    {
+      "SchoolName": "MIT Sloan School of Management",
+      "Degree": "Spring Immersion Program 2017 (Asia School of Business)",
+      "FieldOfStudy": "Business Administration and Management, General",
+      "StartYear": 2017,
+      "EndYear": 2017,
+      "ActivitiesAndSocieties": null,
+      "Achievements": []
+    },
+    {
+      "SchoolName": "University of Nottingham",
+      "Degree": "Bachelor of Science in Economics",
+      "FieldOfStudy": null,
+      "StartYear": null,
+      "EndYear": null,
+      "ActivitiesAndSocieties": null,
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Business Development Manager",
+      "Company": "SingSaver",
+      "CompanyWebsite": null,
+      "StartDate": "May 2022",
+      "EndDate": "Oct 2024",
+      "Duration": "2 yrs 6 mos",
+      "Location": null,
+      "Description": "In my role as a Business Development Manager at SingSaver, I successfully grew a new vertical from the ground up. I also secured exclusivity deals for key accounts, enhancing strategic partnerships and driving business growth."
+    },
+    {
+      "Title": "Assistant Manager",
+      "Company": "CIMB",
+      "CompanyWebsite": null,
+      "StartDate": "Sep 2019",
+      "EndDate": "Apr 2022",
+      "Duration": "2 yrs 8 mos",
+      "Location": "Kuala Lumpur, Malaysia",
+      "Description": "Handles Mortgage Portfolio - launch campaigns to drive acquisition, leverage data insight for key strategic decisions, improve portfolio's bottomline"
+    },
+    {
+      "Title": "Business Development Manager",
+      "Company": "CIMB Bank Philippines",
+      "CompanyWebsite": null,
+      "StartDate": "May 2018",
+      "EndDate": "Aug 2019",
+      "Duration": "1 yr 4 mos",
+      "Location": "Philippines",
+      "Description": "• Spearheaded the establishment of CIMB Bank Philippines, playing a pivotal role in negotiating and onboarding key business partners.\n• Developed strategic directions for partnerships and maintained end-to-end relationships, from operations to strategic decision-making.\n• Led marketing campaigns and utilized data insights to drive key initiatives for business growth."
+    },
+    {
+      "Title": "MBA Graduate Student",
+      "Company": "Asia School of Business",
+      "CompanyWebsite": null,
+      "StartDate": "Sep 2016",
+      "EndDate": "Mar 2018",
+      "Duration": "1 yr 7 mos",
+      "Location": "Kuala Lumpur, Malaysia",
+      "Description": "• Managed 5 projects with various companies, gaining exposure to different industries and functions.\n• Led operations in the airline industry and developed product strategies in a consumer product firm in Myanmar.\n• Collaborated with cross-functional teams to deliver successful project outcomes."
+    },
+    {
+      "Title": "Intern to MACH",
+      "Company": "Microsoft",
+      "CompanyWebsite": null,
+      "StartDate": "Jun 2017",
+      "EndDate": "Aug 2017",
+      "Duration": "3 mos",
+      "Location": "Kuala Lumpur, Malaysia",
+      "Description": "• Supported the SMC (Small Medium Commercial) division at Microsoft, Malaysia in driving customer acquisition through business partner collaborations.\n• Assisted in developing strategic plans to enhance customer engagement and increase revenue.\n• Conducted market research and analysis to identify new business opportunities and trends."
+    }
+  ]
+}

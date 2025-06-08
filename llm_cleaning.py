@@ -14,6 +14,7 @@ Required JSON Output Structure:
   "Last": "",
   "Gender": null,
   "GraduatedYear": null,
+  "ProfileImageURL": null,
   "Intake": null,
   "Program": null,
   "GraduationAwards": [],

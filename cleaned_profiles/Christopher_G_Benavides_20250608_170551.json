@@ -1,0 +1,104 @@
+{
+  "First": "Christopher",
+  "Preferred": "G.",
+  "Last": "Benavides",
+  "Gender": null,
+  "GraduatedYear": 2018,
+  "ProfileImageURL": "https://media.licdn.com/dms/image/v2/D4D03AQFJm5R7Bn7V1A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721665201662?e=1755129600&v=beta&t=jl0-V_ikCy4joFOL9Qq2n2B1RAlg-S_RNw5amGJKVRI",
+  "Intake": null,
+  "Program": "MBA",
+  "GraduationAwards": [],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/christophergbenavides/",
+  "Education": [
+    {
+      "SchoolName": "Yale School of Management",
+      "Degree": "Master of Advanced Management - MAM with Distinction",
+      "FieldOfStudy": "Finance",
+      "StartYear": null,
+      "EndYear": null,
+      "ActivitiesAndSocieties": "",
+      "Achievements": []
+    },
+    {
+      "SchoolName": "Asia School of Business in collaboration with MIT Sloan",
+      "Degree": "MBA",
+      "FieldOfStudy": null,
+      "StartYear": null,
+      "EndYear": 2018,
+      "ActivitiesAndSocieties": "",
+      "Achievements": []
+    },
+    {
+      "SchoolName": "Florida State University",
+      "Degree": "Bachelor of Science (B.Sc.)",
+      "FieldOfStudy": null,
+      "StartYear": null,
+      "EndYear": null,
+      "ActivitiesAndSocieties": "",
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Principal/Business Architecture Manager, North America | Workforce Management (WFM) Practice",
+      "Company": "Accenture",
+      "CompanyWebsite": null,
+      "StartDate": "Jun 2024",
+      "EndDate": "Present",
+      "Duration": "1 yr 1 mo",
+      "Location": "Tampa, Florida, United States · Hybrid",
+      "Description": "My responsibilities include delivering cutting-edge workforce management technology solutions and optimizing architectural strategies to enhance our clients operational systems and processes. My role specifically involves driving operational and IT strategies, managing implementations, providing advanced-level Operational Excellence and WFM expertise, and leading complex projects to successful completion. By leveraging best practices and innovative technologies, I aim to maximize the value of our clients' investments and drive operational excellence."
+    },
+    {
+      "Title": "Founder, Product Manager & Software Engineer",
+      "Company": "Domain-Content Validator (DCV) Chrome Extension",
+      "CompanyWebsite": null,
+      "StartDate": "Oct 2023",
+      "EndDate": "Present",
+      "Duration": "1 yr 9 mos",
+      "Location": "United States · Remote",
+      "Description": "The Domain-Content Validator (DCV) Chrome extension helps you verify the authenticity of emails by analyzing the correlation between the domain of the sender and the body of the email. If there's a mismatch or any suspicious patterns, DCV will alert you, reducing the risk of falling victim to scams."
+    },
+    {
+      "Title": "Founder, Product Manager & Software Engineer",
+      "Company": "Montage",
+      "CompanyWebsite": null,
+      "StartDate": "Feb 2020",
+      "EndDate": "Present",
+      "Duration": "5 yrs 5 mos",
+      "Location": null,
+      "Description": null
+    },
+    {
+      "Title": "Founder, Product Manager & Software Engineer (Industrial Engineering app)",
+      "Company": "Time & Motion Study",
+      "CompanyWebsite": null,
+      "StartDate": "Mar 2019",
+      "EndDate": "Present",
+      "Duration": "6 yrs 4 mos",
+      "Location": "Remote",
+      "Description": "Time & Motion Study is a tool built to enable industrial engineers and quality assurance teams to more readily perform time & motion studies in one comprehensive app that can not only perform the studies but also provide real-time statistical analysis of studies. Approximately ~900,000 active users globally since launch in December 2020."
+    },
+    {
+      "Title": "Sr. Project Manager, WFM Systems, Data Management & Integrations (Stores, Supply Chain & CC)",
+      "Company": "Macy's",
+      "CompanyWebsite": null,
+      "StartDate": "Aug 2023",
+      "EndDate": "Jul 2024",
+      "Duration": "1 yr",
+      "Location": "Remote",
+      "Description": "Sr. Program Manager overseeing Stores, Supply Chain and Contact Center Workforce Management (WFM) Transformation Roadmap, Systems, and Integrations, where I spearheaded the advancement to the latest cloud-based Enterprise Workforce Management (WFM) Technology Stack"
+    },
+    {
+      "Title": "Sr. Product Manager, Workforce Management Systems, Data Management & Integrations (Stores)",
+      "Company": "Macy's",
+      "CompanyWebsite": null,
+      "StartDate": "Mar 2022",
+      "EndDate": "Aug 2023",
+      "Duration": "1 yr 6 mos",
+      "Location": null,
+      "Description": "Sr. Product Manager overseeing Stores Workforce Management (WFM) Systems and Integrations, spearheading the advancement of the latest cloud-based Enterprise Workforce Management Technology Stack across Macy’s & Bloomingdale’s retail stores, contact centers, and supply chain operations."
+    }
+  ]
+}

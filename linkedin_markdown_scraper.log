@@ -81,3 +81,82 @@
 2025-06-08 16:33:51,413 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108faa550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7120404a9e2d83f422ff26d373d847ec
 2025-06-08 16:33:51,424 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bb98650>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7120404a9e2d83f422ff26d373d847ec
 2025-06-08 16:33:51,439 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a3e67d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7120404a9e2d83f422ff26d373d847ec
+2025-06-08 17:03:29,291 - INFO - Attempting to login to LinkedIn...
+2025-06-08 17:03:42,245 - INFO - Successfully logged in to LinkedIn
+2025-06-08 17:03:42,287 - INFO - Loaded 15 LinkedIn URLs from CSV
+2025-06-08 17:03:42,288 - INFO - Processing 1/15: https://www.linkedin.com/in/addis-olujohungbe/
+2025-06-08 17:03:42,288 - INFO - Scraping profile: https://www.linkedin.com/in/addis-olujohungbe/
+2025-06-08 17:03:52,374 - INFO - Markdown content saved to: Addis_Olujohungbe_20250608_170352.md
+2025-06-08 17:03:52,374 - INFO - Completed 1/15 profiles
+2025-06-08 17:03:52,374 - INFO - Processing 2/15: https://www.linkedin.com/in/sharanjm
+2025-06-08 17:03:52,374 - INFO - Waiting 13.4 seconds before next request...
+2025-06-08 17:04:05,769 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 17:04:19,402 - INFO - Markdown content saved to: Sharan_JM_20250608_170419.md
+2025-06-08 17:04:19,403 - INFO - Completed 2/15 profiles
+2025-06-08 17:04:19,403 - INFO - Processing 3/15: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 17:04:19,403 - INFO - Waiting 11.3 seconds before next request...
+2025-06-08 17:04:30,765 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 17:04:42,319 - INFO - Markdown content saved to: Ponce_Ernest_Samaniego_20250608_170442.md
+2025-06-08 17:04:42,319 - INFO - Completed 3/15 profiles
+2025-06-08 17:04:42,319 - INFO - Processing 4/15: https://www.linkedin.com/in/samuel-ler/
+2025-06-08 17:04:42,319 - INFO - Waiting 11.2 seconds before next request...
+2025-06-08 17:04:53,490 - INFO - Scraping profile: https://www.linkedin.com/in/samuel-ler/
+2025-06-08 17:05:04,962 - INFO - Markdown content saved to: Samuel_L_20250608_170504.md
+2025-06-08 17:05:04,962 - INFO - Completed 4/15 profiles
+2025-06-08 17:05:04,962 - INFO - Processing 5/15: https://www.linkedin.com/in/andrew-foley-6ba07779/
+2025-06-08 17:05:04,962 - INFO - Waiting 11.1 seconds before next request...
+2025-06-08 17:05:16,096 - INFO - Scraping profile: https://www.linkedin.com/in/andrew-foley-6ba07779/
+2025-06-08 17:05:27,926 - INFO - Markdown content saved to: Andrew_Foley_20250608_170527.md
+2025-06-08 17:05:27,926 - INFO - Completed 5/15 profiles
+2025-06-08 17:05:27,926 - INFO - Processing 6/15: https://www.linkedin.com/in/christophergbenavides/
+2025-06-08 17:05:27,926 - INFO - Waiting 12.7 seconds before next request...
+2025-06-08 17:05:40,613 - INFO - Scraping profile: https://www.linkedin.com/in/christophergbenavides/
+2025-06-08 17:05:51,741 - INFO - Markdown content saved to: Christopher_G_Benavides_20250608_170551.md
+2025-06-08 17:05:51,742 - INFO - Completed 6/15 profiles
+2025-06-08 17:05:51,742 - INFO - Processing 7/15: https://www.linkedin.com/in/mike-titzer-834a0535/
+2025-06-08 17:05:51,742 - INFO - Waiting 13.3 seconds before next request...
+2025-06-08 17:06:05,096 - INFO - Scraping profile: https://www.linkedin.com/in/mike-titzer-834a0535/
+2025-06-08 17:06:15,474 - INFO - Markdown content saved to: Mike_Titzer_20250608_170615.md
+2025-06-08 17:06:15,474 - INFO - Completed 7/15 profiles
+2025-06-08 17:06:15,474 - INFO - Processing 8/15: https://www.linkedin.com/in/ktrobinson7/
+2025-06-08 17:06:15,474 - INFO - Waiting 13.4 seconds before next request...
+2025-06-08 17:06:28,876 - INFO - Scraping profile: https://www.linkedin.com/in/ktrobinson7/
+2025-06-08 17:06:38,330 - INFO - Markdown content saved to: Katherine_Robinson_20250608_170638.md
+2025-06-08 17:06:38,331 - INFO - Completed 8/15 profiles
+2025-06-08 17:06:38,331 - INFO - Processing 9/15: https://www.linkedin.com/in/natalie-ho-mba2018/
+2025-06-08 17:06:38,331 - INFO - Waiting 11.0 seconds before next request...
+2025-06-08 17:06:49,325 - INFO - Scraping profile: https://www.linkedin.com/in/natalie-ho-mba2018/
+2025-06-08 17:06:59,754 - INFO - Markdown content saved to: Natalie_Ho_MBA_20250608_170659.md
+2025-06-08 17:06:59,754 - INFO - Completed 9/15 profiles
+2025-06-08 17:06:59,754 - INFO - Processing 10/15: https://www.linkedin.com/in/alexsnedeker/
+2025-06-08 17:06:59,754 - INFO - Waiting 11.1 seconds before next request...
+2025-06-08 17:07:10,824 - INFO - Scraping profile: https://www.linkedin.com/in/alexsnedeker/
+2025-06-08 17:07:19,714 - INFO - Markdown content saved to: Alex_Snedeker_20250608_170719.md
+2025-06-08 17:07:19,714 - INFO - Completed 10/15 profiles
+2025-06-08 17:07:19,714 - INFO - Processing 11/15: https://www.linkedin.com/in/sidgondode/
+2025-06-08 17:07:19,714 - INFO - Waiting 12.3 seconds before next request...
+2025-06-08 17:07:32,096 - INFO - Scraping profile: https://www.linkedin.com/in/sidgondode/
+2025-06-08 17:07:43,267 - INFO - Markdown content saved to: Siddharth_G_20250608_170743.md
+2025-06-08 17:07:43,267 - INFO - Completed 11/15 profiles
+2025-06-08 17:07:43,267 - INFO - Processing 12/15: https://www.linkedin.com/in/keitumetse-molamu/
+2025-06-08 17:07:43,267 - INFO - Waiting 10.2 seconds before next request...
+2025-06-08 17:07:53,445 - INFO - Scraping profile: https://www.linkedin.com/in/keitumetse-molamu/
+2025-06-08 17:08:04,131 - INFO - Markdown content saved to: Keitumetse_Molamu_PrEng_MBA_IEEE_Senior_Member_20250608_170803.md
+2025-06-08 17:08:04,132 - INFO - Completed 12/15 profiles
+2025-06-08 17:08:04,132 - INFO - Processing 13/15: https://www.linkedin.com/in/jsehgal/
+2025-06-08 17:08:04,132 - INFO - Waiting 10.3 seconds before next request...
+2025-06-08 17:08:14,426 - INFO - Scraping profile: https://www.linkedin.com/in/jsehgal/
+2025-06-08 17:08:25,487 - INFO - Markdown content saved to: Jatinn_Sehgal_20250608_170825.md
+2025-06-08 17:08:25,487 - INFO - Completed 13/15 profiles
+2025-06-08 17:08:25,487 - INFO - Processing 14/15: https://www.linkedin.com/in/esther-siah-86a9a278/
+2025-06-08 17:08:25,487 - INFO - Waiting 13.5 seconds before next request...
+2025-06-08 17:08:39,001 - INFO - Scraping profile: https://www.linkedin.com/in/esther-siah-86a9a278/
+2025-06-08 17:08:50,591 - INFO - Markdown content saved to: Esther_Siah_20250608_170850.md
+2025-06-08 17:08:50,591 - INFO - Completed 14/15 profiles
+2025-06-08 17:08:50,591 - INFO - Processing 15/15: https://www.linkedin.com/in/dmitryvedenyapin/
+2025-06-08 17:08:50,591 - INFO - Waiting 12.3 seconds before next request...
+2025-06-08 17:09:02,909 - INFO - Scraping profile: https://www.linkedin.com/in/dmitryvedenyapin/
+2025-06-08 17:09:19,064 - INFO - Markdown content saved to: Dmitry_Vedenyapin_PhD_20250608_170918.md
+2025-06-08 17:09:19,064 - INFO - Completed 15/15 profiles
+2025-06-08 17:09:19,070 - INFO - Scraping completed! Summary saved to scraping_summary_20250608_170919.json
+2025-06-08 17:09:19,070 - INFO - Total profiles processed: 15

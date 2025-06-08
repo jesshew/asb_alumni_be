@@ -1,0 +1,105 @@
+{
+  "First": "Katherine",
+  "Preferred": null,
+  "Last": "Robinson",
+  "Gender": "Female",
+  "GraduatedYear": null,
+  "ProfileImageURL": "https://media.licdn.com/dms/image/v2/C5603AQHd1fZRT2P1yw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516951930583?e=1755129600&v=beta&t=LJCduraou6PI8aFd3hQ4aApY-bWBfJyUiWTl_f3rihM",
+  "Intake": null,
+  "Program": "Master of Business Administration (MBA)",
+  "GraduationAwards": [],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/ktrobinson7/",
+  "Education": [
+    {
+      "SchoolName": "Asia School of Business",
+      "Degree": "Master of Business Administration (MBA)",
+      "FieldOfStudy": null,
+      "StartYear": null,
+      "EndYear": null,
+      "ActivitiesAndSocieties": "Consulting Club, Outdoors Club, Photography Club, Values Committee",
+      "Achievements": []
+    },
+    {
+      "SchoolName": "The Johns Hopkins University",
+      "Degree": "Bachelor of Arts (BA)",
+      "FieldOfStudy": "International Studies and Sociology",
+      "StartYear": null,
+      "EndYear": null,
+      "ActivitiesAndSocieties": "Social Investment Outreach, Students Educating and Empowering for Diversity, Refugee Action Project, Senior Leadership Consultants, EcoReps, Blue Key Society, Phi Beta Kappa, Sigma Iota Rho, Alpha Kappa Delta",
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Senior Manager, Program Strategy",
+      "Company": "Pivotal Ventures",
+      "CompanyWebsite": null,
+      "StartDate": "May 2023",
+      "EndDate": "Present",
+      "Duration": "2 yrs 2 mos",
+      "Location": null,
+      "Description": null
+    },
+    {
+      "Title": "Secondee",
+      "Company": "Pivotal Ventures",
+      "CompanyWebsite": null,
+      "StartDate": "May 2022",
+      "EndDate": "May 2023",
+      "Duration": "1 yr 1 mo",
+      "Location": null,
+      "Description": null
+    },
+    {
+      "Title": "Engagement Manager",
+      "Company": "McKinsey & Company",
+      "CompanyWebsite": null,
+      "StartDate": "2020",
+      "EndDate": "2023",
+      "Duration": "3 yrs",
+      "Location": "Denver, Colorado, United States",
+      "Description": "Social Sector Practice"
+    },
+    {
+      "Title": "Consultant",
+      "Company": "McKinsey & Company",
+      "CompanyWebsite": null,
+      "StartDate": "2018",
+      "EndDate": "2020",
+      "Duration": "2 yrs",
+      "Location": "Greater Denver Area",
+      "Description": null
+    },
+    {
+      "Title": "Intern",
+      "Company": "LF Beauty",
+      "CompanyWebsite": null,
+      "StartDate": "Jun 2017",
+      "EndDate": "Aug 2017",
+      "Duration": "3 mos",
+      "Location": "Hong Kong",
+      "Description": null
+    },
+    {
+      "Title": "Company Liasion & Fellow",
+      "Company": "Venture For America",
+      "CompanyWebsite": null,
+      "StartDate": "Nov 2014",
+      "EndDate": "Jun 2016",
+      "Duration": "1 yr 8 mos",
+      "Location": "New Orleans",
+      "Description": "Selected for a two-year entrepreneurship fellowship that places fellows in cities with emerging entrepreneurial ecosystems and managed the recruitment and on-boarding processes of New Orleans VFA company partners as a Company Liaison"
+    },
+    {
+      "Title": "Consultant",
+      "Company": "EMH Strategy",
+      "CompanyWebsite": null,
+      "StartDate": "2014",
+      "EndDate": "2016",
+      "Duration": "2 yrs",
+      "Location": "Greater New Orleans Area",
+      "Description": "Provided strategic guidance to startups, non-profits, established businesses, and public entities in various industries including education, healthcare, construction, hospitality, and technology"
+    }
+  ]
+}

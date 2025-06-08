@@ -2,7 +2,7 @@
 
 **Profile URL:** https://www.linkedin.com/in/addis-olujohungbe/
 
-**Scraped at:** 2025-06-08T16:32:37.815132
+**Scraped at:** 2025-06-08T17:03:52.374401
 
 ---
 
@@ -187,7 +187,7 @@ Master of Business Administration \- MBA, Business Administration and Management
 		ASB teaches the same rigorous core curriculum taught at the MIT Sloan and by the same faculty. Additionally, the curriculum includes Action Learning projects with our corporate partners and institutional partners throughout Asia, providing ongoing opportunities to test and apply the theories of the classroom in a broad range of organizational, institutional and field challenges.
 
 		Learn More at http://www.asb.edu.my/
-	+ - [![](https://media.licdn.com/dms/image/sync/v2/C5127AQFH9mYFfDCNhg/articleshare-shrink_160/articleshare-shrink_160/0/1748401225593?e=1749978000&v=beta&t=q7VxN39grqHTAr1KyYwxlxD_WI9-BXpIXzWTaop-lKk)
+	+ - [![](https://media.licdn.com/dms/image/sync/v2/C5127AQFH9mYFfDCNhg/articleshare-shrink_160/articleshare-shrink_160/0/1748401225593?e=1749981600&v=beta&t=dC6h9FcuZ3GUa5RKEgOffzCsQpH090OtNbANyjKsiig)
 
 		Asia School of Business \- MBA Class of 2018Asia School of Business \- MBA Class of 2018
 
@@ -315,26 +315,26 @@ NewslettersNewsletters
 
 SchoolsSchools
 
- * [![Mary Barra](https://media.licdn.com/dms/image/v2/D5603AQFNy7nvRz3AAA/profile-displayphoto-shrink_100_100/B56ZSTmJCnGsAU-/0/1737643037480?e=1755129600&v=beta&t=qiuehNIFTuguYir5hra8VuqDsoDFihlbeJbcfw3XbQU)](https://www.linkedin.com/in/mary-barra)
+ * [![Justin Trudeau](https://media.licdn.com/dms/image/v2/C4E03AQGD-PJnXZmU8g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1629053585597?e=1755129600&v=beta&t=0G5j8cqIw4mshDkuvdyulnWsAJmFB6LGRlBvlW7rvag)](https://www.linkedin.com/in/justintrudeau)
 
-[Mary BarraMary Barra
+[Justin TrudeauJustin Trudeau
 
 · 3rdThird degree connection
 
-Chair and Chief Executive Officer at General MotorsChair and Chief Executive Officer at General Motors
+Prime Minister of Canada \| Premier ministre du CanadaPrime Minister of Canada \| Premier ministre du Canada
 
-1,433,717 followers1,433,717 followers](https://www.linkedin.com/in/mary-barra)
+5,521,757 followers5,521,757 followers](https://www.linkedin.com/in/justintrudeau)
 
 	+ Follow
-* [![Satya Nadella](https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1579726625423?e=1755129600&v=beta&t=Y2AGiAWGLJrJi3fV8xNsFjtqvohLebuXKy_XjZNTgb0)](https://www.linkedin.com/in/satyanadella)
+* [![Kevin O'Leary](https://media.licdn.com/dms/image/v2/C4E03AQFztoBPChLfwQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516323178775?e=1755129600&v=beta&t=GW8AW-RjoUZFOLeHB462WBq03LEsfOHK1nntcBvyNLg)](https://www.linkedin.com/in/kevinolearytv)
 
-[Satya NadellaSatya Nadella
+[Kevin O'LearyKevin O'Leary
 
 · 3rdThird degree connection
 
-Chairman and CEO at MicrosoftChairman and CEO at Microsoft
+Chairman, O’Leary Ventures and BeanstoxChairman, O’Leary Ventures and Beanstox
 
-11,389,357 followers11,389,357 followers](https://www.linkedin.com/in/satyanadella)
+4,433,281 followers4,433,281 followers](https://www.linkedin.com/in/kevinolearytv)
 
 	+ Follow
 
@@ -346,7 +346,7 @@ Chairman and CEO at MicrosoftChairman and CEO at Microsoft
 
 Oracle
 
-10,348,348 followers10,348,348 followers](https://www.linkedin.com/company/1028/)
+10,348,398 followers10,348,398 followers](https://www.linkedin.com/company/1028/)
 
 	+ Follow
 * [![Lockheed Martin logo](https://media.licdn.com/dms/image/v2/C4E0BAQHF1YKEZdN4LA/company-logo_100_100/company-logo_100_100/0/1668532986109/lockheed_martin_logo?e=1755129600&v=beta&t=nzL8vIUPigIHvReNR__IvclV_geFZusaHpeGIMiizbc)](https://www.linkedin.com/company/1319/)
@@ -355,13 +355,13 @@ Oracle
 
 Lockheed Martin
 
-2,734,957 followers2,734,957 followers](https://www.linkedin.com/company/1319/)
+2,734,980 followers2,734,980 followers](https://www.linkedin.com/company/1319/)
 
 	+ Follow
 
 [Show all companies](https://www.linkedin.com/in/addis-olujohungbe/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAdcGF4BwzOzVGGYrCUFrm1wAVs4OzB7b8U&tabIndex=1&detailScreenTabIndex=1)
 
- * [![Expat Network Malaysia: Moving to, Working in, Living in Malaysia logo](https://media.licdn.com/dms/image/v2/C4E07AQHmAdmrDjZnjg/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631363153827?e=1749978000&v=beta&t=ivElvlZ6ZHfx-O7gZfdIPvbIyTy4hk1nPH-Ie_35X4A)](https://www.linkedin.com/groups/3835167)
+ * [![Expat Network Malaysia: Moving to, Working in, Living in Malaysia logo](https://media.licdn.com/dms/image/v2/C4E07AQHmAdmrDjZnjg/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631363153827?e=1749981600&v=beta&t=q8JH7-2UFWu40TCWbxICI_ZAKE1pvNqiXAz7cN6VwHo)](https://www.linkedin.com/groups/3835167)
 
 [Expat Network Malaysia: Moving to, Working in, Living in MalaysiaExpat Network Malaysia: Moving to, Working in, Living in Malaysia
 
@@ -370,7 +370,7 @@ Lockheed Martin
 	+ Join
 
 	 Join Expat Network Malaysia: Moving to, Working in, Living in Malaysia group
-* [![Expat Network logo](https://media.licdn.com/dms/image/v2/C4D07AQEpi79BF_JEcQ/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631374044920?e=1749978000&v=beta&t=vC2kiJyIL-wQYjPrV0QrzKSSMF1gl3yYKE5846_W3eo)](https://www.linkedin.com/groups/40533)
+* [![Expat Network logo](https://media.licdn.com/dms/image/v2/C4D07AQEpi79BF_JEcQ/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631374044920?e=1749981600&v=beta&t=a-bY1-5RRszzIGS8H1j0tO9-uiBlfX6bfq6XOZdIJy8)](https://www.linkedin.com/groups/40533)
 
 [Expat NetworkExpat Network
 
@@ -449,7 +449,7 @@ Electrical Engineer II at Rutland corp. \| Automation and controlsElectrical Eng
 Supply Chain Operations Professional \| ERP \| Value Stream MappingSupply Chain Operations Professional \| ERP \| Value Stream Mapping](https://www.linkedin.com/in/rosejemmy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAH3YAwBzpFLqVDATiGXILZmoJwVRez8NW8)
 
 	+ Follow
-* [![Olanrewaju Oluwayimika MBA is open to work](https://media.licdn.com/dms/image/v2/D4D35AQG4TgZPgrHsIQ/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1692891272781?e=1749978000&v=beta&t=29VSJaE-FZFh8s3U20Y03ofQqVeYYDIAgc-WHTmsJ2Q)](https://www.linkedin.com/in/olanrewaju-oluwayimika-mba-0814507?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAFPtWEBCAY3LyRhIzsonDXh741YNhS7XqY)
+* [![Olanrewaju Oluwayimika MBA is open to work](https://media.licdn.com/dms/image/v2/D4D35AQG4TgZPgrHsIQ/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1692891272781?e=1749981600&v=beta&t=sVXvDKFCX7a49CNupdOZTJ1XhM5ExpFA5xf-Rhl5HxA)](https://www.linkedin.com/in/olanrewaju-oluwayimika-mba-0814507?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAFPtWEBCAY3LyRhIzsonDXh741YNhS7XqY)
 
 [Olanrewaju Oluwayimika MBAOlanrewaju Oluwayimika MBA
 
@@ -466,7 +466,7 @@ Chinese Translator/Interpreter/Tutor \| MBA in Business AdministrationChinese Tr
 
 Senior Designer w/ 5\+ years of experience in optimizing program management and interoperability. Proficient in SolidWorks, Microsoft Office, and Project Planning, enhancing project accuracy working cross\-functional teamsSenior Designer w/ 5\+ years of experience in optimizing program management and interoperability. Proficient in SolidWorks, Microsoft Office, and Project Planning, enhancing project accuracy working cross\-functional teams](https://www.linkedin.com/in/arnold-ojinmah-43b056a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABZun-8BOv7QCFZOfYNfi9vIecYsZN9HtpQ)
 
-	+ [Message](/messaging/thread/new?recipients=List(urn%3Ali%3Afsd_profile%3AACoAABZun-8BOv7QCFZOfYNfi9vIecYsZN9HtpQ)&controlUrn=browsemap_compose_message_button&referringModuleKey=NON_SELF_PROFILE_VIEW&messageComposeFlowTrackingId=mERZD9C6SF6nY7j7mHGUWw%3D%3D)
+	+ [Message](/messaging/thread/new?recipients=List(urn%3Ali%3Afsd_profile%3AACoAABZun-8BOv7QCFZOfYNfi9vIecYsZN9HtpQ)&controlUrn=browsemap_compose_message_button&referringModuleKey=NON_SELF_PROFILE_VIEW&messageComposeFlowTrackingId=Mby3R1B4R0Wi5l6oAHPypQ%3D%3D)
 * [![Jordan Brown](https://media.licdn.com/dms/image/v2/C5603AQEtNNOgQI0NnQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1622160958229?e=1755129600&v=beta&t=LCQNj0ISqy39LV71XUT2-JS-ddh1JxVDna9I1uq73AE)](https://www.linkedin.com/in/jordan-brown-925384163?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACcIPC0Btn6wR-ZXZhK0cn9WypNesqfShSo)
 
 [Jordan BrownJordan Brown
@@ -535,29 +535,27 @@ Manus AI
 
 Software DevelopmentSoftware Development
 
-37,964 followers37,964 followers](https://www.linkedin.com/company/106664974/)
+37,974 followers37,974 followers](https://www.linkedin.com/company/106664974/)
 
-	+ [- ![](https://media.licdn.com/dms/image/v2/D5635AQEeRtpXZICUtQ/profile-framedphoto-shrink_100_100/B56ZYkGUDoHoAk-/0/1744362357458?e=1749978000&v=beta&t=ILvCGusVUHa3dN_1JUf8Z-WUDxB-wsgrKihPPVH5n_g)
+	+ [- ![](https://media.licdn.com/dms/image/v2/D5635AQEeRtpXZICUtQ/profile-framedphoto-shrink_100_100/B56ZYkGUDoHoAk-/0/1744362357458?e=1749981600&v=beta&t=ZReUQrD6apynNqUzYEl9lTttoske-FqeQq4aP_JW-SA)
 		- ![](https://media.licdn.com/dms/image/v2/D5603AQHVopkGldElpg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1707223257166?e=1755129600&v=beta&t=EHBwIf2AYTlTlOh2o5HMPCnxKr7xSoNR8x2W5EVhCZg)
 		- ![](https://media.licdn.com/dms/image/v2/D5603AQF_fewrhlJIKw/profile-displayphoto-shrink_100_100/B56ZX0A8fCHEAU-/0/1743555643832?e=1755129600&v=beta&t=BFsqrSfkgOCfHhTwCvTS2QEiWPQdB7Vwg4lRSl6YQpI)
 
 	13 connections follow this page](https://www.linkedin.com/company/106664974/)
 	+ Follow
-* [![Mistral AI logo](https://media.licdn.com/dms/image/v2/D560BAQGAH0ZkR38jXQ/company-logo_100_100/B56ZU6_sVBGoAQ-/0/1740451530340/mistralai_logo?e=1755129600&v=beta&t=Zvhv0WTJLZbmdXKBVDWMvvLelkUq12e8mDVF6KxOTkc)](https://www.linkedin.com/company/94273421/)
+* [![HireDash logo](https://media.licdn.com/dms/image/v2/D560BAQGZN4xOTNvkxw/company-logo_100_100/B56ZYaA7iLHQAQ-/0/1744193174137/talentsproutofficial_logo?e=1755129600&v=beta&t=8TOpV0bjHBymKldk-W915E7oSY5BaOIXx4nhBASpX7c)](https://www.linkedin.com/company/104805019/)
 
-[Mistral AI
+[HireDash
 
-Mistral AI
+HireDash
 
-Technology, Information and InternetTechnology, Information and Internet
+Human Resources ServicesHuman Resources Services
 
-411,110 followers411,110 followers](https://www.linkedin.com/company/94273421/)
+153 followers153 followers](https://www.linkedin.com/company/104805019/)
 
-	+ [- ![](https://media.licdn.com/dms/image/v2/C4D03AQGgPxElQzKrnA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1660897192254?e=1755129600&v=beta&t=h3NWBgBsK3zH-ty46kCGasnS2X8s3v0tKUe_A12oJFU)
-		- ![](https://media.licdn.com/dms/image/v2/C5103AQEdthdsFo8hDQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1551152654803?e=1755129600&v=beta&t=ffNXG64mrSA7wHx9V0K_JTIScqbxjoSJdUmVuGGg6uA)
-		- ![](https://media.licdn.com/dms/image/v2/D5635AQFD-JXBJrzbPA/profile-framedphoto-shrink_100_100/B56ZdKQ82VGoAk-/0/1749297647341?e=1749978000&v=beta&t=BLUrmoz-67gqSIjZ8asQkw7RlYWudQPRu_to9wQgAtk)
+	+ [- ![](https://media.licdn.com/dms/image/v2/D5603AQGNwjCzf-qcvA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1732033405958?e=1755129600&v=beta&t=5Z8LXI103VtzXBr1WlZLoI5EcwdYTDy4g_Gdiz3uIvU)
 
-	42 connections follow this page](https://www.linkedin.com/company/94273421/)
+	1 connection works here](https://www.linkedin.com/company/104805019/)
 	+ Follow
 
 [Show all](https://www.linkedin.com/in/addis-olujohungbe/overlay/company-recommendations?isPrefetched=true&profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAdcGF4BwzOzVGGYrCUFrm1wAVs4OzB7b8U)

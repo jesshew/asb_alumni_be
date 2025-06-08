@@ -1,0 +1,94 @@
+{
+  "First": "Addis",
+  "Preferred": null,
+  "Last": "Olujohungbe",
+  "Gender": null,
+  "GraduatedYear": 2018,
+  "Intake": null,
+  "Program": "Master of Business Administration - MBA",
+  "GraduationAwards": [],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/addis-olujohungbe/",
+  "Education": [
+    {
+      "SchoolName": "Asia School of Business",
+      "Degree": "Master of Business Administration - MBA",
+      "FieldOfStudy": "Business Administration and Management, General",
+      "StartYear": 2016,
+      "EndYear": 2018,
+      "ActivitiesAndSocieties": "Co-Chair Energy Club",
+      "Achievements": []
+    },
+    {
+      "SchoolName": "MIT Sloan School of Management",
+      "Degree": "MBA",
+      "FieldOfStudy": "ASB Spring immersion program",
+      "StartYear": 2017,
+      "EndYear": 2017,
+      "ActivitiesAndSocieties": null,
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Senior Engineering Manager",
+      "Company": "Esquel Group",
+      "CompanyWebsite": null,
+      "StartDate": "Jun 2018",
+      "EndDate": "Nov 2019",
+      "Duration": "1 yr 6 mos",
+      "Location": "South East Asia",
+      "Description": ""
+    },
+    {
+      "Title": "MBA Associate",
+      "Company": "BigC Supercenter Public Company Limited",
+      "CompanyWebsite": null,
+      "StartDate": "Sep 2017",
+      "EndDate": "Dec 2017",
+      "Duration": "4 mos",
+      "Location": "Bangkok City, Thailand",
+      "Description": ""
+    },
+    {
+      "Title": "MBA Internship",
+      "Company": "Citi",
+      "CompanyWebsite": null,
+      "StartDate": "Jun 2017",
+      "EndDate": "Aug 2017",
+      "Duration": "3 mos",
+      "Location": "Kuala Lumpur, Malaysia",
+      "Description": "Branch digitization\nSEM and SEO top of funnel optimization\nStrategy and business development of acquisition channels for new bank customers"
+    },
+    {
+      "Title": "MBA Associate- ChargEV",
+      "Company": "Malaysian Green Technology and Climate Change Centre",
+      "CompanyWebsite": null,
+      "StartDate": "Sep 2016",
+      "EndDate": "Dec 2016",
+      "Duration": "4 mos",
+      "Location": "Selangor, Malaysia",
+      "Description": "Conducted market research, identified go-to-market strategies, pricing and financial models to deploy ChargEV's electric charging stations across Malaysia.\nDelivered a business and operating plan for the first 1000 electric charging stations to support Malaysia's EV initiative."
+    },
+    {
+      "Title": "IPT and EBU Integration Lead role (A320 Neo development)",
+      "Company": "Pratt & Whitney",
+      "CompanyWebsite": null,
+      "StartDate": "Feb 2013",
+      "EndDate": "Jul 2016",
+      "Duration": "3 yrs 6 mos",
+      "Location": null,
+      "Description": "Coordinate IPT team and manage task resources for the Block 1 engines on A320 Neo Program.\nExternals lead for the Tripartite EBU integration team, comprising of Pratt & Whitney, Airbus and United Aerospace Systems (UTAS).\n- Handle externals and EBU related interface negotiations, between Pratt & Whitney, Airbus and UTAS."
+    },
+    {
+      "Title": "Structures Engineer",
+      "Company": "Pratt & Whitney",
+      "CompanyWebsite": null,
+      "StartDate": "Jun 2010",
+      "EndDate": "Feb 2013",
+      "Duration": "2 yrs 9 mos",
+      "Location": null,
+      "Description": "Created structural models and performed 2D and 3D analysis on external components (tube networks, fittings, brackets, case ducts, bolts e.t.c) to turbine engines for NGPF programs (A320, MRJ and BA) and the AETD (Advanced Engine Technology Development),\nto meet requirements for resonance margins, vibratory and steady stress margins, and CRD requirements for creep, fatigue life and fracture life of components"
+    }
+  ]
+}

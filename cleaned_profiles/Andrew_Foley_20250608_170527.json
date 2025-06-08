@@ -1,0 +1,87 @@
+{
+  "First": "Andrew",
+  "Preferred": null,
+  "Last": "Foley",
+  "Gender": null,
+  "GraduatedYear": 2018,
+  "ProfileImageURL": "https://media.licdn.com/dms/image/v2/C4D03AQGXIzUmm2EOcg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1631468628545?e=1755129600&v=beta&t=QwBS-gnfNEkhCG2G-mO4W_5YHoV-WjnpquVbGmEJmbE",
+  "Intake": null,
+  "Program": "MBA",
+  "GraduationAwards": [
+    "MIT Sloan Dean's award for academic excellence (top 5%)"
+  ],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/andrew-foley-6ba07779/",
+  "Education": [
+    {
+      "SchoolName": "Cornell University",
+      "Degree": "Doctor of Philosophy - PhD",
+      "FieldOfStudy": "Management & Organizations, Statistics",
+      "StartYear": 2019,
+      "EndYear": 2025,
+      "ActivitiesAndSocieties": "Byron E. Grote '22 Johnson Professional Scholarship\nGraduate Student Senate (President)\nStudent-Faculty Liaison",
+      "Achievements": []
+    },
+    {
+      "SchoolName": "Asia School of Business",
+      "Degree": "Master of Business Administration",
+      "FieldOfStudy": "MBA",
+      "StartYear": 2016,
+      "EndYear": 2018,
+      "ActivitiesAndSocieties": null,
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Assistant Professor of Management & Organizations",
+      "Company": "NYU Stern School of Business",
+      "CompanyWebsite": null,
+      "StartDate": "2025",
+      "EndDate": "Present",
+      "Duration": "6 mos",
+      "Location": "New York, United States",
+      "Description": null
+    },
+    {
+      "Title": "Executive Director - Emerging Markets Theme",
+      "Company": "Cornell Emerging Markets Institute",
+      "CompanyWebsite": null,
+      "StartDate": "Oct 2022",
+      "EndDate": "May 2025",
+      "Duration": "2 yrs 8 mos",
+      "Location": "Ithaca, New York, United States",
+      "Description": null
+    },
+    {
+      "Title": "Instructor",
+      "Company": "Cornell Johnson Graduate School of Management",
+      "CompanyWebsite": null,
+      "StartDate": "Jul 2021",
+      "EndDate": "May 2025",
+      "Duration": "3 yrs 11 mos",
+      "Location": "Ithaca, New York, United States",
+      "Description": "Instructor for NBA 6650: \"The Strategic Management of Technology and Innovation\", an MBA course on innovation and industry evolution."
+    },
+    {
+      "Title": "Visiting Lecturer",
+      "Company": "VinUniversity",
+      "CompanyWebsite": null,
+      "StartDate": "Oct 2022",
+      "EndDate": "Feb 2023",
+      "Duration": "5 mos",
+      "Location": "Hanoi, Hanoi, Vietnam",
+      "Description": "Instructor for \"Corporate Entrepreneurship\" in the College of Business & Management (CBM)"
+    },
+    {
+      "Title": "Leader of Tomorrow",
+      "Company": "St. Gallen Symposium",
+      "CompanyWebsite": null,
+      "StartDate": "May 2019",
+      "EndDate": "Jun 2019",
+      "Duration": "2 mos",
+      "Location": "Switzerland",
+      "Description": "Selected as one of 9 semi-finalists (top 1%) for the 2019 essay competition and named a \"Leader of Tomorrow\" for life by the St. Gallen Symposium.\n\nParticipated in numerous workshops in St. Gallen, Switzerland, led by industry leaders including Dominic Barton (McKinsey & Company), Linda Hill (Harvard Business School), Piyush Gupta (DBS Group), Niall Ferguson (Hoover Institution), and others.\n\nThe symposium's central theme was re-envisioning the purpose of capital and what role businesses should play in our exchange with it."
+    }
+  ]
+}

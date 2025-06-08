@@ -1,8 +1,8 @@
-# LinkedIn Profile
+# LinkedIn Profile: Ponce_Ernest_Samaniego
 
 **Profile URL:** https://www.linkedin.com/in/poncesamaniego/
 
-**Scraped at:** 2025-06-08T16:20:36.210306
+**Scraped at:** 2025-06-08T17:04:42.318843
 
 ---
 
@@ -83,8 +83,6 @@ I hold a Master of Science in Management Studies from MIT Sloan through an ASEAN
 At Amazon, I led recycling initiatives across global logistics, applying data, AI, and product thinking to reduce environmental footprint and ensure compliance at scale. My cross\-sector experience enables me to translate ESG goals into actionable roadmaps, having operated at the intersection of corporate innovation, public policy, and nonprofit impact.
 
 I hold a Master of Science in Management Studies from MIT Sloan through an ASEAN Fellow scholarship, and an MBA from the Asia School of Business, where I earned the President’s Leadership Award and Best Action Learning Project honors.
-
- …see more
 
 ActivityActivity
 ----------------
@@ -282,8 +280,6 @@ Master of Business Administration (MBA)Master of Business Administration (MBA)
 		• Selected for Best Action Learning Project (out of 40 student team projects) recognizing the most impactful and rigorous student project throughout the MBA program
 		• Granted ASB Fellowship Award which covers 100% of tuition, housing, and travel
 
-		 …see more
-
 [Show all 5 educations](https://www.linkedin.com/in/poncesamaniego/details/education?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAzpgNEBeHbFRfYPxbBVAOxQFSuUjo5Jq18)
 
 SkillsSkills
@@ -330,7 +326,7 @@ Aspiring Strategist \| T\-Shaped Specialist Aspiring Strategist \| T\-Shaped Spe
 March 1, 2024, Ponce Ernest worked with Qurratu 'Aini but on different teamsMarch 1, 2024, Ponce Ernest worked with Qurratu 'Aini but on different teams](https://www.linkedin.com/in/qurratuhasram)
 
 	+ - Working alongside Qurratu at Asia School of Business was a privilege. She was always willing to lend a hand to colleagues and go above and beyond to contribute to the team. It was comforting to know I could always count on her to support and lead when requested. Qurratu’s collaborative spirit and commitment to excellence not only elevated our team but also left a lasting impact on our achievements. I wholeheartedly endorse her, confident that her talents will be an invaluable asset to any endeavor she pursues.Working alongside Qurratu at Asia School of Business was a privilege. She was always willing to lend a hand to colleagues and go above and beyond to contribute to the team. It was comforting to know I could always count on her to support and lead when requested. Qurratu’s collaborative spirit and commitment to excellence not only elevated our team but also left a lasting impact on our achievements. I wholeheartedly endorse her, confident that her talents will be an invaluable asset to any endeavor she pursues.
-* [![Erika Louise is open to work](https://media.licdn.com/dms/image/v2/D5635AQH1NZ8S5k4mQw/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1718216834743?e=1749978000&v=beta&t=MhfTIQradoCeqL_NnIMRnwkFsy9AW3oLNnlX2L2F89E)](https://www.linkedin.com/in/erikabagtas)
+* [![Erika Louise is open to work](https://media.licdn.com/dms/image/v2/D5635AQH1NZ8S5k4mQw/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1718216834743?e=1749981600&v=beta&t=QmJ2LBFT87iIy8cqpw4Jx4OjVQ7qTkeYdSSwVnokrwo)](https://www.linkedin.com/in/erikabagtas)
 
 [Erika LouiseErika Louise
 
@@ -355,8 +351,6 @@ Promethean Education Strategy Group · Jan 1, 2012Promethean Education Strategy 
 		It seems as though collaboration is not always a natural element of traditional teaching and learning, yet students are keen to learn collaboratively. Employers have identified collaboration skills as among the least developed through education but also among the most needed in the workplace. It is time for education to take a big step forward to adopt collaboration and to adapt its curricula and pedagogies accordinglyWith measurement of collaboration about to be adopted in international benchmarks, it is time for greater attention to be paid to the development of appropriate policies, practices, pedagogies and assessments for collaboration.
 		Research has already provided useful models that identify progression from simple participation to sophisticated collaboration.These models can help to structure the development of collaborative skills and assessment of these skills.
 		It seems as though collaboration is not always a natural element of traditional teaching and learning, yet students are keen to learn collaboratively. Employers have identified collaboration skills as among the least developed through education but also among the most needed in the workplace. It is time for education to take a big step forward to adopt collaboration and to adapt its curricula and pedagogies accordingly
-
-		 …see more
 	+ - Other authorsOther authors
 
 		[* ![](https://media.licdn.com/dms/image/v2/D4E03AQG7jnN9k71N1g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1687192689847?e=1755129600&v=beta&t=qXKj-uKczjTvEMV8cpejA6HCoumqxbrm6XCBL-5j1dI)
@@ -373,8 +367,6 @@ Promethean Education Strategy Group · Jan 1, 2012Promethean Education Strategy 
 		It seems as though collaboration is not always a natural element of traditional teaching and learning, yet students are keen to learn collaboratively. Employers have identified collaboration skills as among the least developed through education but also among the most needed in the workplace. It is time for education to take a big step forward to adopt collaboration and to adapt its curricula and pedagogies accordinglyWith measurement of collaboration about to be adopted in international benchmarks, it is time for greater attention to be paid to the development of appropriate policies, practices, pedagogies and assessments for collaboration.
 		Research has already provided useful models that identify progression from simple participation to sophisticated collaboration.These models can help to structure the development of collaborative skills and assessment of these skills.
 		It seems as though collaboration is not always a natural element of traditional teaching and learning, yet students are keen to learn collaboratively. Employers have identified collaboration skills as among the least developed through education but also among the most needed in the workplace. It is time for education to take a big step forward to adopt collaboration and to adapt its curricula and pedagogies accordingly
-
-		 …see more
 	+ - Other authorsOther authors
 
 		[* ![](https://media.licdn.com/dms/image/v2/D4E03AQG7jnN9k71N1g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1687192689847?e=1755129600&v=beta&t=qXKj-uKczjTvEMV8cpejA6HCoumqxbrm6XCBL-5j1dI)
@@ -425,18 +417,16 @@ SchoolsSchools
 
 Former CEO of PepsiCo. Author of 'My Life in Full'Former CEO of PepsiCo. Author of 'My Life in Full'
 
-1,547,630 followers1,547,630 followers](https://www.linkedin.com/in/indranooyi)
+1,547,631 followers1,547,631 followers](https://www.linkedin.com/in/indranooyi)
 
 	+ Follow
-* [![Satya Nadella](https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1579726625423?e=1755129600&v=beta&t=Y2AGiAWGLJrJi3fV8xNsFjtqvohLebuXKy_XjZNTgb0)](https://www.linkedin.com/in/satyanadella)
+* [Emmanuel Macron](https://www.linkedin.com/in/emmanuelmacron)
 
-[Satya NadellaSatya Nadella
+[Emmanuel MacronEmmanuel Macron
 
-· 3rdThird degree connection
+President of the French Republic.President of the French Republic.
 
-Chairman and CEO at MicrosoftChairman and CEO at Microsoft
-
-11,389,338 followers11,389,338 followers](https://www.linkedin.com/in/satyanadella)
+2,984,640 followers2,984,640 followers](https://www.linkedin.com/in/emmanuelmacron)
 
 	+ Follow
 
@@ -448,7 +438,7 @@ Chairman and CEO at MicrosoftChairman and CEO at Microsoft
 
 IBM
 
-18,333,817 followers18,333,817 followers](https://www.linkedin.com/company/1009/)
+18,333,935 followers18,333,935 followers](https://www.linkedin.com/company/1009/)
 
 	+ Follow
 * [![GE HealthCare logo](https://media.licdn.com/dms/image/v2/D4E0BAQGsvnH_VaICpQ/company-logo_100_100/company-logo_100_100/0/1695806357731/gehealthcare_logo?e=1755129600&v=beta&t=6xMp-V063uwRgs3mkHan-XEW3BORrdBlvyUhtwdYK7M)](https://www.linkedin.com/company/1016/)
@@ -457,13 +447,13 @@ IBM
 
 GE HealthCare
 
-2,496,257 followers2,496,257 followers](https://www.linkedin.com/company/1016/)
+2,496,263 followers2,496,263 followers](https://www.linkedin.com/company/1016/)
 
 	+ Follow
 
 [Show all companies](https://www.linkedin.com/in/poncesamaniego/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAzpgNEBeHbFRfYPxbBVAOxQFSuUjo5Jq18&tabIndex=1&detailScreenTabIndex=1)
 
- * [![MIT Sloan Sustainability Alumni Ecosystem logo](https://media.licdn.com/dms/image/v2/D4E07AQElHbqskzWOoQ/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1683078534340?e=1749978000&v=beta&t=cbgkD4daabz-g-0Kms_Rojmo3CElPLlFWWm7hGNnHUg)](https://www.linkedin.com/groups/12313885)
+ * [![MIT Sloan Sustainability Alumni Ecosystem logo](https://media.licdn.com/dms/image/v2/D4E07AQElHbqskzWOoQ/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1683078534340?e=1749981600&v=beta&t=V8ujhzt71IU1oJFroO-TTGOK-4z6cAk82LkE9QVx87Q)](https://www.linkedin.com/groups/12313885)
 
 [MIT Sloan Sustainability Alumni EcosystemMIT Sloan Sustainability Alumni Ecosystem
 
@@ -472,7 +462,7 @@ GE HealthCare
 	+ Join
 
 	 Join MIT Sloan Sustainability Alumni Ecosystem group
-* [![Master of Science in Management Studies at MIT Sloan - Students and Alumni Group logo](https://media.licdn.com/dms/image/v2/C5607AQHsBbuYVwRNPw/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631007558975?e=1749978000&v=beta&t=wlqjDkz_g-0SHUfCQSABTqPnERLKl4WzyRIxikg0z0w)](https://www.linkedin.com/groups/13855058)
+* [![Master of Science in Management Studies at MIT Sloan - Students and Alumni Group logo](https://media.licdn.com/dms/image/v2/C5607AQHsBbuYVwRNPw/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631007558975?e=1749981600&v=beta&t=ZUYsb-saZH-1Rh0-Wlnq4kDQsznEnpaTBh83n6ClG1M)](https://www.linkedin.com/groups/13855058)
 
 [Master of Science in Management Studies at MIT Sloan \- Students and Alumni GroupMaster of Science in Management Studies at MIT Sloan \- Students and Alumni Group
 
@@ -517,7 +507,7 @@ Published biweeklyPublished biweekly](https://www.linkedin.com/newsletters/66514
 
 [Stanford UniversityStanford University
 
-1,369,124 followers1,369,124 followers](https://www.linkedin.com/school/1792/)
+1,369,138 followers1,369,138 followers](https://www.linkedin.com/school/1792/)
 
 	+ Follow
 * [![Institute of Development Studies logo](https://media.licdn.com/dms/image/v2/C4D0BAQGU55fFDKvscA/company-logo_100_100/company-logo_100_100/0/1630504956648/institute_of_development_studies_logo?e=1755129600&v=beta&t=A-6FwwBhwQSrIF4IoYwcRq_Y6Q3FdLsBZAWSVYpualQ)](https://www.linkedin.com/company/39073/)
@@ -533,7 +523,7 @@ Published biweeklyPublished biweekly](https://www.linkedin.com/newsletters/66514
 More profiles for youMore profiles for you
 ------------------------------------------
 
- * [![Sharan JM is hiring](https://media.licdn.com/dms/image/v2/D5635AQHcYGCRSuUP0Q/profile-framedphoto-shrink_100_100/B56ZcajoNHHUAs-/0/1748497237207?e=1749978000&v=beta&t=vRztyNg-H8Vb7dr-fXGbBTAJcb1El71K3GlApxEyoyA)](https://www.linkedin.com/in/sharanjm?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAqF4DQBNWqysxck8h-KvIAKYFzPzrgWjkk)
+ * [![Sharan JM is hiring](https://media.licdn.com/dms/image/v2/D5635AQHcYGCRSuUP0Q/profile-framedphoto-shrink_100_100/B56ZcajoNHHUAs-/0/1748497237207?e=1749981600&v=beta&t=i-xdm_SMpJWpYPBTeswQheUUgi7u_uc8dK3aZOLXWLk)](https://www.linkedin.com/in/sharanjm?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAqF4DQBNWqysxck8h-KvIAKYFzPzrgWjkk)
 
 [Sharan JMSharan JM
 
@@ -637,9 +627,9 @@ Manus AI
 
 Software DevelopmentSoftware Development
 
-37,958 followers37,958 followers](https://www.linkedin.com/company/106664974/)
+37,974 followers37,974 followers](https://www.linkedin.com/company/106664974/)
 
-	+ [- ![](https://media.licdn.com/dms/image/v2/D5635AQEeRtpXZICUtQ/profile-framedphoto-shrink_100_100/B56ZYkGUDoHoAk-/0/1744362357458?e=1749978000&v=beta&t=ILvCGusVUHa3dN_1JUf8Z-WUDxB-wsgrKihPPVH5n_g)
+	+ [- ![](https://media.licdn.com/dms/image/v2/D5635AQEeRtpXZICUtQ/profile-framedphoto-shrink_100_100/B56ZYkGUDoHoAk-/0/1744362357458?e=1749981600&v=beta&t=ZReUQrD6apynNqUzYEl9lTttoske-FqeQq4aP_JW-SA)
 		- ![](https://media.licdn.com/dms/image/v2/D5603AQHVopkGldElpg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1707223257166?e=1755129600&v=beta&t=EHBwIf2AYTlTlOh2o5HMPCnxKr7xSoNR8x2W5EVhCZg)
 		- ![](https://media.licdn.com/dms/image/v2/D5603AQF_fewrhlJIKw/profile-displayphoto-shrink_100_100/B56ZX0A8fCHEAU-/0/1743555643832?e=1755129600&v=beta&t=BFsqrSfkgOCfHhTwCvTS2QEiWPQdB7Vwg4lRSl6YQpI)
 
@@ -653,113 +643,13 @@ Mistral AI
 
 Technology, Information and InternetTechnology, Information and Internet
 
-411,105 followers411,105 followers](https://www.linkedin.com/company/94273421/)
+411,126 followers411,126 followers](https://www.linkedin.com/company/94273421/)
 
 	+ [- ![](https://media.licdn.com/dms/image/v2/C4D03AQGgPxElQzKrnA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1660897192254?e=1755129600&v=beta&t=h3NWBgBsK3zH-ty46kCGasnS2X8s3v0tKUe_A12oJFU)
 		- ![](https://media.licdn.com/dms/image/v2/C5103AQEdthdsFo8hDQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1551152654803?e=1755129600&v=beta&t=ffNXG64mrSA7wHx9V0K_JTIScqbxjoSJdUmVuGGg6uA)
-		- ![](https://media.licdn.com/dms/image/v2/D5635AQFD-JXBJrzbPA/profile-framedphoto-shrink_100_100/B56ZdKQ82VGoAk-/0/1749297647341?e=1749978000&v=beta&t=BLUrmoz-67gqSIjZ8asQkw7RlYWudQPRu_to9wQgAtk)
+		- ![](https://media.licdn.com/dms/image/v2/D5635AQFD-JXBJrzbPA/profile-framedphoto-shrink_100_100/B56ZdKQ82VGoAk-/0/1749297647341?e=1749981600&v=beta&t=WiNEDkZhJSsqEQFYsWTjA09cFIcZyDXhI7Jx4Ny7c1w)
 
 	42 connections follow this page](https://www.linkedin.com/company/94273421/)
 	+ Follow
 
 [Show all](https://www.linkedin.com/in/poncesamaniego/overlay/company-recommendations?isPrefetched=true&profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAzpgNEBeHbFRfYPxbBVAOxQFSuUjo5Jq18)
-
-* [About](https://about.linkedin.com/)
-* [Accessibility](https://www.linkedin.com/accessibility)
-* [Talent Solutions](https://www.linkedin.com/talent/post-a-job?trk=footer_jobs_home&src=li-footer)
-* [Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies)
-* [Careers](https://careers.linkedin.com/)
-* [Marketing Solutions](https://business.linkedin.com/marketing-solutions?trk=n_nav_lms_f&src=li-footer)
-* Privacy \& Terms
-* [Ad Choices](https://www.linkedin.com/help/linkedin/answer/62931)
-* [Advertising](https://business.linkedin.com/marketing-solutions/ads?trk=n_nav_ads_f)
-* [Sales Solutions](https://business.linkedin.com/sales-solutions?trk=flagship_nav&veh=li-footer-lss-control&src=li-footer)
-* [Mobile](https://mobile.linkedin.com/)
-* [Small Business](https://smallbusiness.linkedin.com?&src=li-footer)
-* [Safety Center](https://safety.linkedin.com)
-
-* [Questions?](https://www.linkedin.com/help/linkedin?trk=d_flagship3_profile_view_base)
-
- Visit our Help Center.
-* [Manage your account and privacy](https://www.linkedin.com/psettings/)
-
- Go to your Settings.
-* [Recommendation transparency](https://www.linkedin.com/help/linkedin/answer/a1339724)
-
- Learn more about Recommended Content.
-
- Select Language
-
- العربية (Arabic)
-
- বাংলা (Bangla)
-
- Čeština (Czech)
-
- Dansk (Danish)
-
- Deutsch (German)
-
- Ελληνικά (Greek)
-
- English (English)
-
- Español (Spanish)
-
- فارسی (Persian)
-
- Suomi (Finnish)
-
- Français (French)
-
- हिंदी (Hindi)
-
- Magyar (Hungarian)
-
- Bahasa Indonesia (Indonesian)
-
- Italiano (Italian)
-
- עברית (Hebrew)
-
- 日本語 (Japanese)
-
- 한국어 (Korean)
-
- मराठी (Marathi)
-
- Bahasa Malaysia (Malay)
-
- Nederlands (Dutch)
-
- Norsk (Norwegian)
-
- ਪੰਜਾਬੀ (Punjabi)
-
- Polski (Polish)
-
- Português (Portuguese)
-
- Română (Romanian)
-
- Русский (Russian)
-
- Svenska (Swedish)
-
- తెలుగు (Telugu)
-
- ภาษาไทย (Thai)
-
- Tagalog (Tagalog)
-
- Türkçe (Turkish)
-
- Українська (Ukrainian)
-
- Tiếng Việt (Vietnamese)
-
- 简体中文 (Chinese (Simplified))
-
- 正體中文 (Chinese (Traditional))
-
- LinkedIn Corporation © 2025

@@ -1,0 +1,84 @@
+{
+  "First": "Natalie",
+  "Preferred": null,
+  "Last": "Ho",
+  "Gender": "She/Her",
+  "GraduatedYear": null,
+  "Intake": null,
+  "Program": null,
+  "GraduationAwards": [],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/natalie-ho-mba2018/",
+  "Education": [
+    {
+      "SchoolName": "Cornell University",
+      "Degree": "Bachelor of Science (B.S.)",
+      "FieldOfStudy": "Hotel/Motel Administration/Management",
+      "StartYear": 2006,
+      "EndYear": 2009,
+      "ActivitiesAndSocieties": null,
+      "Achievements": []
+    },
+    {
+      "SchoolName": "Georgetown University",
+      "Degree": null,
+      "FieldOfStudy": null,
+      "StartYear": 2005,
+      "EndYear": 2006,
+      "ActivitiesAndSocieties": null,
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Vice President of Corporate Development",
+      "Company": "Tiber Capital Group",
+      "CompanyWebsite": null,
+      "StartDate": "Dec 2021",
+      "EndDate": "May 2024",
+      "Duration": "2 yrs 6 mos",
+      "Location": "Remote",
+      "Description": "Single-Family Rental Aggregator"
+    },
+    {
+      "Title": "Director - Finance and Strategy",
+      "Company": "Excel Group",
+      "CompanyWebsite": null,
+      "StartDate": "Oct 2019",
+      "EndDate": "Nov 2021",
+      "Duration": "2 yrs 2 mos",
+      "Location": "Washington, District of Columbia, United States",
+      "Description": "Hotel Private Equity"
+    },
+    {
+      "Title": "Associate",
+      "Company": "The MAJ Group",
+      "CompanyWebsite": null,
+      "StartDate": "Jul 2018",
+      "EndDate": "Sep 2019",
+      "Duration": "1 yr 3 mos",
+      "Location": "Jakarta, Indonesia",
+      "Description": "Hospitality and Entertainment Real Estate Private Equity"
+    },
+    {
+      "Title": "MBA Summer Intern",
+      "Company": "Oriental Patron",
+      "CompanyWebsite": null,
+      "StartDate": "Jun 2017",
+      "EndDate": "Aug 2017",
+      "Duration": "3 mos",
+      "Location": "Hong Kong",
+      "Description": null
+    },
+    {
+      "Title": "Brand Manager - Fine Wines",
+      "Company": "Bacchus Importers, Ltd",
+      "CompanyWebsite": null,
+      "StartDate": "Aug 2014",
+      "EndDate": "Jul 2016",
+      "Duration": "2 yrs",
+      "Location": "Baltimore, Maryland",
+      "Description": null
+    }
+  ]
+}

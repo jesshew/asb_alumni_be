@@ -1,0 +1,85 @@
+{
+  "First": "Keitumetse",
+  "Preferred": null,
+  "Last": "Molamu",
+  "Gender": "Female",
+  "GraduatedYear": 2018,
+  "ProfileImageURL": "https://media.licdn.com/dms/image/v2/C5603AQGjlOb0lmnixQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1654542897799?e=1755129600&v=beta&t=c87CoogVNg80TEMINZVDQOgGhTMsZsek2eLeI-UN6y8",
+  "Intake": null,
+  "Program": "MBA",
+  "GraduationAwards": [],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/keitumetse-molamu/",
+  "Education": [
+    {
+      "SchoolName": "MIT Sloan School of Management",
+      "Degree": "Master of Science",
+      "FieldOfStudy": "MS",
+      "StartYear": 2020,
+      "EndYear": 2021,
+      "ActivitiesAndSocieties": null,
+      "Achievements": []
+    },
+    {
+      "SchoolName": "Asia School of Business",
+      "Degree": "Master of Business Administration",
+      "FieldOfStudy": "Business Administration and Management, General",
+      "StartYear": 2016,
+      "EndYear": 2018,
+      "ActivitiesAndSocieties": null,
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Head: Engineering and Technology Development",
+      "Company": "South African Radio Astronomy Observatory",
+      "CompanyWebsite": null,
+      "StartDate": "September 2022",
+      "EndDate": "Present",
+      "Duration": "2 yrs 10 mos",
+      "Location": "Cape Town, Western Cape, South Africa",
+      "Description": null
+    },
+    {
+      "Title": "Senior Manager, Mass Underserved Markets",
+      "Company": "RBC Insurance",
+      "CompanyWebsite": null,
+      "StartDate": "August 2021",
+      "EndDate": "August 2022",
+      "Duration": "1 yr 1 mo",
+      "Location": "Mississauga, Ontario, Canada",
+      "Description": "Identifying hidden gems of opportunity to drive inclusion and access to services for underserved markets.\nTechnology innovation, intrapreneurship & startup synergies as well as strategic management."
+    },
+    {
+      "Title": "Founder",
+      "Company": "Mulika Technology",
+      "CompanyWebsite": null,
+      "StartDate": "March 2018",
+      "EndDate": "September 2020",
+      "Duration": "2 yrs 7 mos",
+      "Location": "City of Johannesburg, Gauteng, South Africa",
+      "Description": "Independent consulting in technology and engineering services"
+    },
+    {
+      "Title": "Non Executive Board Member",
+      "Company": "Clyde Bergemann Africa (PTY) Ltd",
+      "CompanyWebsite": null,
+      "StartDate": "September 2017",
+      "EndDate": "December 2018",
+      "Duration": "1 yr 4 mos",
+      "Location": "Johannesburg Area, South Africa",
+      "Description": "CBZ provides turnkey projects, equipment, spares, service and maintenance in boiler cleaning systems, materials handling systems (e.g. ash handling, sorbent injection systems, DRYCON), air pollution control systems, energy recovery and air gas handling systems in the following industries:\n\nPower (Utility and Industrial)\nWaste to Energy and Biomass\nMining, metals and minerals\nCement\nPulp and Paper\nPetrochemical\n\nCurrently, CBZ‘s main projects are the design, supply, installation and commissioning of the fly ash conveying systems at South Africa’s new build coal fired power stations.\nUnderstanding the need of our customers to invest in production process improvements and upgrades, without compromising on quality and minimizing downtime, CBZ has an After Market Team to engage with our customers on short and long-term maintenance solutions."
+    },
+    {
+      "Title": "Business Development Intern",
+      "Company": "UNDP in Asia and the Pacific",
+      "CompanyWebsite": null,
+      "StartDate": "July 2017",
+      "EndDate": "August 2017",
+      "Duration": "2 mos",
+      "Location": "Oe-cusse, Timor-Leste",
+      "Description": "Internship to assist in successfully establishing a Business Incubator as a method of development which should mentally uplift and empower the community. Most of all, for poverty alleviation."
+    }
+  ]
+}

@@ -145,11 +145,11 @@ class LinkedInMarkdownScraper:
                 print(f"\n{'='*80}")
                 print(f"MARKDOWN PROFILE CONTENT FOR: {user_name or 'Unknown User'}")
                 print(f"Profile URL: {profile_url}")
-                print(f"{'='*80}")
-                print(cleaned_markdown)
-                print(f"{'='*80}")
-                print(f"END OF MARKDOWN CONTENT FOR: {user_name or 'Unknown User'}")
-                print(f"{'='*80}\n")
+                # print(f"{'='*80}")
+                # print(cleaned_markdown)
+                # print(f"{'='*80}")
+                # print(f"END OF MARKDOWN CONTENT FOR: {user_name or 'Unknown User'}")
+                # print(f"{'='*80}\n")
                 
                 # Save markdown to file
                 filename = self.create_safe_filename(user_name, timestamp)

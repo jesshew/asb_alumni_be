@@ -1,0 +1,77 @@
+{
+  "First": "Mike",
+  "Preferred": null,
+  "Last": "Titzer",
+  "Gender": null,
+  "GraduatedYear": 2018,
+  "ProfileImageURL": "https://media.licdn.com/dms/image/v2/C4E03AQEXdjmRmJho8A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1558411127740?e=1755129600&v=beta&t=TvvhQ6c1NwTxRjE6u1j62GnzTTHRmm6vSB0jgXuCZts",
+  "Intake": 2016,
+  "Program": "Master of Business Administration (MBA)",
+  "GraduationAwards": [],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/mike-titzer-834a0535/",
+  "Education": [
+    {
+      "SchoolName": "United States Naval Academy",
+      "Degree": "Bachelor of Science - BS",
+      "FieldOfStudy": "Mechanical Engineering",
+      "StartYear": 2004,
+      "EndYear": 2008,
+      "ActivitiesAndSocieties": null,
+      "Achievements": [
+        "Graduated with Merit, Minored in Spanish"
+      ]
+    },
+    {
+      "SchoolName": "Asia School of Business",
+      "Degree": "Master of Business Administration (MBA)",
+      "FieldOfStudy": null,
+      "StartYear": 2016,
+      "EndYear": 2018,
+      "ActivitiesAndSocieties": null,
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Key Accounts Manager & Project Manager",
+      "Company": "NOLS",
+      "CompanyWebsite": "https://www.linkedin.com/company/25127/",
+      "StartDate": "2018",
+      "EndDate": "Present",
+      "Duration": "7 yrs 6 mos",
+      "Location": "Remote",
+      "Description": "• Own full client lifecycle for $1.2M+ in annual revenue across B2B and government accounts, including onboarding, implementation, contract delivery, and ongoing support.\n• Increased customer satisfaction and long-term renewals by identifying client goals, customizing delivery plans, and aligning internal teams for seamless delivery.\n• Built onboarding and account management workflows for high-touch clients; reduced churn and improved time-to-value.\n• Acted as liaison between clients and cross-functional teams (legal, finance, operations) to ensure compliance and timely delivery."
+    },
+    {
+      "Title": "Founder & Operations Lead",
+      "Company": "Braided Rivers LLC",
+      "CompanyWebsite": null,
+      "StartDate": "2022",
+      "EndDate": "Present",
+      "Duration": "3 yrs 6 mos",
+      "Location": "Remote",
+      "Description": "• Directed technical planning and vendor coordination for residential and international construction projects, overseeing budgets, schedules, and risk mitigation.\n• Managed $1M+ real estate portfolio and financial performance metrics, including cap rates, NOI, and cash flow.\n• Utilized Smartsheet and Basecamp to track tasks, manage timelines, and coordinate remote field teams.\n• Negotiated vendor contracts and oversaw quality control of deliverables and timelines."
+    },
+    {
+      "Title": "Project Manager / Technical Consultant",
+      "Company": "Self-employed",
+      "CompanyWebsite": null,
+      "StartDate": "2015",
+      "EndDate": "2018",
+      "Duration": "3 yrs",
+      "Location": "Greater Kuala Lumpur",
+      "Description": "• Delivered customer growth projects across Asia-Pacific, including onboarding and retention strategies for major clients like Johnson & Johnson and AirAsia.\n• Spearheaded the operational and customer engagement setup of a new athletic center in Cambodia, increasing annual revenue by $200K.\n• Led research and implementation of CX and go-to-market strategies, contributing to a 7% increase in market share for a healthcare brand."
+    },
+    {
+      "Title": "Strategic Planner & Client Liaison",
+      "Company": "United States Marine Corps",
+      "CompanyWebsite": "https://www.linkedin.com/company/11175823/",
+      "StartDate": "2008",
+      "EndDate": "2014",
+      "Duration": "6 yrs",
+      "Location": "Global",
+      "Description": "• Served as key liaison between U.S. military and UAE government partners, overseeing multi-year client training programs and cross-cultural team integration.\n• Created and delivered leadership development programs for 600+ personnel, leading to improved engagement and client satisfaction.\n• Managed multi-stakeholder communications and delivered successful outcomes in high-pressure, remote, and cross-border environments."
+    }
+  ]
+}

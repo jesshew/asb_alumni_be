@@ -1,0 +1,86 @@
+{
+  "First": "Siddharth",
+  "Preferred": null,
+  "Last": "G",
+  "Gender": null,
+  "GraduatedYear": 2018,
+  "Intake": 2016,
+  "Program": "Master of Business Administration - MBA",
+  "GraduationAwards": [
+    "Full MBA Scholarships"
+  ],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/sidgondode/",
+  "Education": [
+    {
+      "SchoolName": "MIT Sloan School of Management",
+      "Degree": "Master of Business Administration - MBA",
+      "FieldOfStudy": "Business Administration and Management, General",
+      "StartYear": 2017,
+      "EndYear": 2017,
+      "ActivitiesAndSocieties": "MIT Sloan International Masters Program",
+      "Achievements": []
+    },
+    {
+      "SchoolName": "Asia School of Business",
+      "Degree": "Master of Business Administration - MBA",
+      "FieldOfStudy": "Business Administration and Management",
+      "StartYear": 2016,
+      "EndYear": 2018,
+      "ActivitiesAndSocieties": "Co-founder and President : ASB Community Service Club",
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "E-commerce Strategy and Insights Lead",
+      "Company": "Makro",
+      "CompanyWebsite": null,
+      "StartDate": "Sep 2023",
+      "EndDate": "Present",
+      "Duration": "1 yr 10 mos",
+      "Location": "Bangkok, Bangkok City, Thailand",
+      "Description": null
+    },
+    {
+      "Title": "Digital Strategy and Transformation Lead",
+      "Company": "Central Retail",
+      "CompanyWebsite": null,
+      "StartDate": "Oct 2021",
+      "EndDate": "Sep 2023",
+      "Duration": "2 yrs",
+      "Location": "Bangkok, Bangkok City, Thailand",
+      "Description": "Digital Strategy | Digital Transformation | Business Transformation | Business Insights | Project Management | Innovation | Data Strategy |"
+    },
+    {
+      "Title": "Sr. Manager E-commerce Strategy and Insights",
+      "Company": "airasia Super App",
+      "CompanyWebsite": null,
+      "StartDate": "Jan 2020",
+      "EndDate": "Oct 2021",
+      "Duration": "1 yr 10 mos",
+      "Location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "Description": "Business Strategy | Commercial Planning | Market Research | Commercial Analytics | Campaign Performance | Business Review | E-Wallets"
+    },
+    {
+      "Title": "Business Strategy Manager (Airline and Partnerships)",
+      "Company": "AirAsia",
+      "CompanyWebsite": null,
+      "StartDate": "Sep 2018",
+      "EndDate": "Feb 2020",
+      "Duration": "1 yr 6 mos",
+      "Location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "Description": "Strategic Planning | Business Performance | Business Development | Growth Strategy | Strategic Partnerships"
+    },
+    {
+      "Title": "MBA Consulting Project (Mobile Customer Acquisition Strategy)",
+      "Company": "Bangkok Bank",
+      "CompanyWebsite": null,
+      "StartDate": "Jul 2017",
+      "EndDate": "Dec 2017",
+      "Duration": "6 mos",
+      "Location": "Bangkok, Bangkok City, Thailand",
+      "Description": "Customer Acquisition Strategy for mobile Banking App | Market Research | Product Management"
+    }
+  ]
+}

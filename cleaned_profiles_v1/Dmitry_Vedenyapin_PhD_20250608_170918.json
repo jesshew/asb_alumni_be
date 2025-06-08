@@ -1,0 +1,93 @@
+{
+  "First": "Dmitry",
+  "Preferred": null,
+  "Last": "Vedenyapin",
+  "Gender": null,
+  "GraduatedYear": 2018,
+  "Intake": null,
+  "Program": "MBA",
+  "GraduationAwards": [],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/dmitryvedenyapin/",
+  "Education": [
+    {
+      "SchoolName": "Y Combinator",
+      "Degree": "Startup Founder",
+      "FieldOfStudy": null,
+      "StartYear": 2022,
+      "EndYear": 2022,
+      "ActivitiesAndSocieties": "W22 batch",
+      "Achievements": []
+    },
+    {
+      "SchoolName": "MIT Sloan School of Management",
+      "Degree": "MBA Spring Immersion",
+      "FieldOfStudy": "Business Administration and Management, General",
+      "StartYear": 2016,
+      "EndYear": 2017,
+      "ActivitiesAndSocieties": "MIT Sloan Alumni 2017",
+      "Achievements": []
+    },
+    {
+      "SchoolName": "Asia School of Business",
+      "Degree": "MBA",
+      "FieldOfStudy": null,
+      "StartYear": null,
+      "EndYear": 2018,
+      "ActivitiesAndSocieties": null,
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "CTO & Founder",
+      "Company": "Peakflo (YC W22)",
+      "CompanyWebsite": null,
+      "StartDate": "Jan 2021",
+      "EndDate": "Present",
+      "Duration": "4 yrs 6 mos",
+      "Location": "Singapore",
+      "Description": "Empowering South East Asian businesses to achieve peak cashflows!"
+    },
+    {
+      "Title": "Mentor",
+      "Company": "GrowthMentor",
+      "CompanyWebsite": null,
+      "StartDate": "May 2020",
+      "EndDate": "Present",
+      "Duration": "5 yrs 2 mos",
+      "Location": null,
+      "Description": null
+    },
+    {
+      "Title": "Founder in residence",
+      "Company": "Entrepreneur First",
+      "CompanyWebsite": null,
+      "StartDate": "Jul 2020",
+      "EndDate": "Oct 2020",
+      "Duration": "4 mos",
+      "Location": "Singapore",
+      "Description": null
+    },
+    {
+      "Title": "Head Of Technology",
+      "Company": "AirAsia",
+      "CompanyWebsite": null,
+      "StartDate": "Dec 2018",
+      "EndDate": "Jul 2020",
+      "Duration": "1 yr 8 mos",
+      "Location": "Singapore",
+      "Description": "• Led Loyalty, Membership, OMS (Order management system), Activities, Deals and Messenger engineering teams.\n• Launched a platform in a month with 13k concurrent users.\n• Transformed line of business in product-centric, customer-focused organisation which resulted in 60% YoY revenue growth in 2019 by pioneering multiple high-impact products and effectively communicating with C-level stakeholders.\n• Managed a team of 30 across three countries: individual contributors, team leads and managers; managed the Tech department budget in ’19."
+    },
+    {
+      "Title": "Chief Technology Officer",
+      "Company": "Alluma",
+      "CompanyWebsite": null,
+      "StartDate": "2017",
+      "EndDate": "Nov 2018",
+      "Duration": "1 yr 11 mos",
+      "Location": "Singapore",
+      "Description": "• Built an international team of 14 engineers and product managers across multiple countries from scratch.\n• Successfully launched high-load scalable web and mobile fintech product in less than 5 months using blockchain technology, leading engineering and product teams.\n• Pioneered the software engineering and security processes; introduced best practices: Agile, SSDLC and OWASP.\n• Delivered integration with payment gateways, KYC providers, analytical software and CRM systems."
+    }
+  ]
+}

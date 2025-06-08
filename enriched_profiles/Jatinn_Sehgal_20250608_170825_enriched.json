@@ -1,0 +1,216 @@
+{
+  "original_profile": {
+    "First": "Jatinn",
+    "Preferred": null,
+    "Last": "Sehgal",
+    "Gender": null,
+    "GraduatedYear": 2018,
+    "Intake": null,
+    "Program": "Master of Business Administration (M.B.A.)",
+    "GraduationAwards": [
+      "ASB Full Fellowship Award"
+    ],
+    "Birthdate": null,
+    "LinkedInURL": "https://www.linkedin.com/in/jsehgal/",
+    "Education": [
+      {
+        "SchoolName": "Asia School of Business",
+        "Degree": "Master of Business Administration (M.B.A.)",
+        "FieldOfStudy": null,
+        "StartYear": 2016,
+        "EndYear": 2018,
+        "ActivitiesAndSocieties": null,
+        "Achievements": []
+      },
+      {
+        "SchoolName": "MIT Sloan School of Management",
+        "Degree": "MBA Spring Immersion",
+        "FieldOfStudy": "Business Administration and Management, General",
+        "StartYear": 2017,
+        "EndYear": 2017,
+        "ActivitiesAndSocieties": null,
+        "Achievements": []
+      }
+    ],
+    "Experience": [
+      {
+        "Title": "SAP Concur Senior Account Manager, Southeast Asia",
+        "Company": "SAP",
+        "CompanyWebsite": null,
+        "StartDate": "Dec 2022",
+        "EndDate": "Present",
+        "Duration": "2 yrs 7 mos",
+        "Location": "Singapore",
+        "Description": "• Trusted advisor for Finance & HR teams on the company’s Travel & Expense policies industry best practices in Southeast Asia\n• Achieved Q-o-Q targets while managing revenue of 4 million Euros across 25 clients\n• Identified whitespace opportunities of over USD 500K through conducting multiple business reviews within the target accounts\n• Led China Cross Border Data Transfer and Vietnam Decree initiative managing multiple customers stakeholders’ escalations"
+      },
+      {
+        "Title": "SAP Litmos MidMarket Lead (Singapore, Indonesia, India)",
+        "Company": "SAP",
+        "CompanyWebsite": null,
+        "StartDate": "Mar 2022",
+        "EndDate": "Nov 2022",
+        "Duration": "9 mos",
+        "Location": "Singapore",
+        "Description": "• Led the Litmos (Learning & Development) business across Singapore, India and Indonesia\n• Delivered 40% Y-o-Y growth in net new sales in MSME businesses across the region\n• Actively collaborated with C-suite stakeholders internally and externally to promote Litmos cross-industry and within SAP Account teams\n• Build SAP Litmos partner and distributor network through various channels and closed the 1st indirect deal in India in 3 months"
+      },
+      {
+        "Title": "Industry Account Executive",
+        "Company": "SAP",
+        "CompanyWebsite": null,
+        "StartDate": "Jun 2019",
+        "EndDate": "Mar 2022",
+        "Duration": "2 yrs 10 mos",
+        "Location": "Malaysia",
+        "Description": "Account Executive for the territory of diverse industry customers & hidden champions with the following tasks:\n• Achievement of agreed sales targets and customer satisfaction in a challenging environment\n• Driving the whole sales cycle from demand generation, territory planning, to negotiating on different hierarchical levels in a direct and indirect buying cycle\n• Closing of complex software deals in cooperation with appropriate partners and line of businesses\n• Orchestration of the teams of Specialized Sales, Demand Managers, Marketing and Business Development,\n• Demonstrating the value of SAP solutions with industry content and business case"
+      },
+      {
+        "Title": "Consulting Project - Intern",
+        "Company": "Bangkok Bank",
+        "CompanyWebsite": null,
+        "StartDate": "Sep 2017",
+        "EndDate": "Dec 2017",
+        "Duration": "4 mos",
+        "Location": "Bangkok Metropolitan Area, Thailand",
+        "Description": "• Predicted $ XX Millions in savings by customer transition to mobile banking using behavioural personas for targeted campaigns through market segmentation"
+      },
+      {
+        "Title": "Wealth Management Strategy Intern",
+        "Company": "Citi",
+        "CompanyWebsite": null,
+        "StartDate": "Jun 2017",
+        "EndDate": "Aug 2017",
+        "Duration": "3 mos",
+        "Location": "Kuala Lumpur, Malaysia",
+        "Description": "• Drafted business case for growth of Private Wealth Management (WM) business of Citibank Malaysia.\n• Identified WM business growth drivers and quantified their contribution based on extensive industry research, market sizing and competitor benchmarking."
+      },
+      {
+        "Title": "Consulting Project - Intern",
+        "Company": "BJC",
+        "CompanyWebsite": null,
+        "StartDate": "Jan 2017",
+        "EndDate": "Mar 2017",
+        "Duration": "3 mos",
+        "Location": "Kuala Lumpur, Malaysia",
+        "Description": "• Developed Post M&A process re-engineering roadmap; focussing on finding synergies between sales, marketing, IT depts of the acquired firm."
+      },
+      {
+        "Title": "Consulting Project - Intern",
+        "Company": "Boeing",
+        "CompanyWebsite": null,
+        "StartDate": "Sep 2016",
+        "EndDate": "Dec 2016",
+        "Duration": "4 mos",
+        "Location": "Kedah, Malaysia",
+        "Description": "• Predicted $XXXK in savings by creating cost reduction tool to optimize company resource allocation strategy incorporating key success factors identified through employee surveys, conjoint analysis and interviews.\n• Developed and proposed framework for maximizing staff engagement in cost reduction initiative."
+      }
+    ]
+  },
+  "enriched_metadata": {
+    "profile_summary": {
+      "full_name": "Jatinn Sehgal",
+      "graduation_year": 2018,
+      "program": "Master of Business Administration (M.B.A.)",
+      "linkedin_url": "https://www.linkedin.com/in/jsehgal/"
+    },
+    "current_company": {
+      "name": "SAP",
+      "industry_category": "Technology",
+      "company_type": "Enterprise",
+      "company_stage": "Mature",
+      "job_title": "SAP Concur Senior Account Manager, Southeast Asia",
+      "location": "Singapore",
+      "start_date": "Dec 2022",
+      "is_current": true
+    },
+    "career_progression": [
+      {
+        "company": "SAP",
+        "title": "SAP Concur Senior Account Manager, Southeast Asia",
+        "duration": "2 yrs 7 mos",
+        "industry_category": "Technology",
+        "company_type": "Enterprise",
+        "seniority_level": "Senior"
+      },
+      {
+        "company": "SAP",
+        "title": "SAP Litmos MidMarket Lead (Singapore, Indonesia, India)",
+        "duration": "9 mos",
+        "industry_category": "Technology",
+        "company_type": "Enterprise",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "SAP",
+        "title": "Industry Account Executive",
+        "duration": "2 yrs 10 mos",
+        "industry_category": "Technology",
+        "company_type": "Enterprise",
+        "seniority_level": "Mid"
+      },
+      {
+        "company": "Bangkok Bank",
+        "title": "Consulting Project - Intern",
+        "duration": "4 mos",
+        "industry_category": "Finance",
+        "company_type": "Enterprise",
+        "seniority_level": "Entry"
+      },
+      {
+        "company": "Citi",
+        "title": "Wealth Management Strategy Intern",
+        "duration": "3 mos",
+        "industry_category": "Finance",
+        "company_type": "Enterprise",
+        "seniority_level": "Entry"
+      }
+    ],
+    "education_analysis": [
+      {
+        "school": "Asia School of Business",
+        "degree": "Master of Business Administration (M.B.A.)",
+        "field_of_study": "Business Administration and Management, General",
+        "graduation_year": 2018,
+        "school_tier": "Mid Tier"
+      },
+      {
+        "school": "MIT Sloan School of Management",
+        "degree": "MBA Spring Immersion in Business Administration and Management, General",
+        "field_of_study": "Business Administration and Management, General",
+        "graduation_year": 2017,
+        "school_tier": "Top Tier"
+      }
+    ],
+    "career_insights": {
+      "primary_industry": "Technology",
+      "current_seniority_level": "Senior",
+      "key_expertise": [
+        "Account Management",
+        "Sales",
+        "Southeast Asia",
+        "SaaS",
+        "Cloud Solutions"
+      ],
+      "years_experience_estimate": "6+",
+      "career_trajectory": {
+        "career_path": "Sales and Account Management within Technology",
+        "recent_transitions": "Progression within SAP, focusing on increasing responsibility in account management.",
+        "growth_pattern": "Upward trajectory within a single company, demonstrating increasing expertise and responsibility.",
+        "potential_next_roles": [
+          "Senior Account Director",
+          "Head of Sales",
+          "Regional Sales Manager"
+        ]
+      },
+      "industry_transitions": [
+        "Finance to Technology"
+      ],
+      "leadership_experience": true
+    }
+  },
+  "company_research": {
+    "company_summary": "1. **Company Type and Size:** Large enterprise, multinational corporation\n\n2. **Main Industry and Business Focus:** Enterprise software, cloud computing, database management, business intelligence, analytics, customer relationship management (CRM), supply chain management (SCM), human capital management (HCM), and related services.  Focus is on helping businesses manage their operations and customer relations.\n\n3. **Key Business Areas and Services:**\n    * **Enterprise Resource Planning (ERP):**  SAP S/4HANA, their flagship ERP system, integrates various business functions into a single platform.\n    * **Customer Relationship Management (CRM):**  SAP Customer Experience solutions help businesses manage customer interactions and data.\n    * **Supply Chain Management (SCM):**  SAP's supply chain solutions help businesses optimize their supply chains from procurement to logistics.\n    * **Human Capital Management (HCM):**  SAP SuccessFactors solutions cover various aspects of human resource management, including talent management, payroll, and core HR.\n    * **Business Technology Platform (BTP):** A platform-as-a-service offering for developing and running business applications.\n    * **Business Intelligence and Analytics:**  SAP Analytics Cloud and other tools provide data visualization and analytics capabilities.\n    * **Industry-Specific Solutions:**  SAP offers tailored solutions for various industries, such as retail, manufacturing, and financial services.\n    * **Cloud Services:**  SAP offers a wide range of cloud-based solutions, including software-as-a-service (SaaS), platform-as-a-service (PaaS), and infrastructure-as-a-service (IaaS).\n    * **Professional Services:**  Implementation, consulting, training, and support services related to SAP software.\n\n4. **Company Stage:** Enterprise (mature, established)\n\n5. **Industry Category (Standardized):**\n    * **NAICS:** 511210 (Software Publishers)\n    * **GICS:** 45 (Information Technology) - 4510 (Software & Services)\n\n6. **Brief Company Description:** SAP SE (Systems, Applications & Products in data processing) is a German multinational software corporation based in Walldorf, Baden-Württemberg.  Founded in 1972, it is one of the world's leading providers of enterprise application software.  SAP's core business is selling enterprise software solutions to manage business operations and customer relations.  They serve organizations of all sizes across a wide range of industries, offering both on-premises and cloud-based solutions.",
+    "search_query": "SAP company information"
+  },
+  "enrichment_timestamp": "2025-06-08T17:21:20.840353",
+  "enrichment_version": "v2.0"
+}

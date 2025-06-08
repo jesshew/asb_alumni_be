@@ -1,0 +1,84 @@
+{
+  "First": "Sharan",
+  "Preferred": null,
+  "Last": "JM",
+  "Gender": null,
+  "GraduatedYear": 2022,
+  "Intake": null,
+  "Program": "Master's degree, General Management, Technological Innovation & Entrepreneurship",
+  "GraduationAwards": [],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/sharanjm",
+  "Education": [
+    {
+      "SchoolName": "MIT Sloan School of Management",
+      "Degree": "Master's degree",
+      "FieldOfStudy": "General Management, Technological Innovation & Entrepreneurship",
+      "StartYear": null,
+      "EndYear": 2022,
+      "ActivitiesAndSocieties": "Class of 2022",
+      "Achievements": []
+    },
+    {
+      "SchoolName": "MIT Sloan School of Management",
+      "Degree": "MBA",
+      "FieldOfStudy": "Spring Module, Global Program",
+      "StartYear": 2017,
+      "EndYear": 2017,
+      "ActivitiesAndSocieties": "Pricing, Strategy, Corporate Finance, Platform Strategy, System Dynamics, Entrepreneurship",
+      "Achievements": []
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "Co-Founder & CPO",
+      "Company": "lumif.ai",
+      "CompanyWebsite": null,
+      "StartDate": "2025-01",
+      "EndDate": "Present",
+      "Duration": "6 mos",
+      "Location": "Dubai, United Arab Emirates · Remote",
+      "Description": null
+    },
+    {
+      "Title": "Investor",
+      "Company": "Merry",
+      "CompanyWebsite": null,
+      "StartDate": "Feb 2023",
+      "EndDate": "Present",
+      "Duration": "2 yrs 5 mos",
+      "Location": "Bengaluru, Karnataka, India · Remote",
+      "Description": null
+    },
+    {
+      "Title": "Head of Product",
+      "Company": "ROSHN l روشن",
+      "CompanyWebsite": null,
+      "StartDate": "Feb 2024",
+      "EndDate": "2025",
+      "Duration": "1 yr",
+      "Location": "On-site",
+      "Description": "A PIF Company building 400,000 homes\n\nAt Roshn, I am instrumental in setting up and scaling the product management function, laying down product management practices, and hiring and mentoring a team of 5 talented Product Managers. I’m driving a shift towards a data-driven and AI-first product vision, leveraging advanced ML and generative AI to radically rethink how we approach the home-buying experience.\n\n- Digitized the home-buying journey, significantly reducing the average closing time from over 14 days to just 1 days.\n- Developing personalization capabilities using a Customer 360 view, delivering customized recommendations\n- Spearheading a project to rethink the Sales Advisor app using generative AI, transforming how sales advisors interact with leads, manage preferences by leveraging LLMs\n- Introduced a home customization program, giving homeowners flexibility in add-ons with significant incremental revenue opportunities.\n- Working on Launching an AI-powered interior design tool, partnering with top furniture providers, that would improve both customer satisfaction and revenue."
+    },
+    {
+      "Title": "Co-Founder",
+      "Company": "Stealth",
+      "CompanyWebsite": null,
+      "StartDate": "Nov 2023",
+      "EndDate": "Mar 2024",
+      "Duration": "5 mos",
+      "Location": "Austin, Texas Metropolitan Area",
+      "Description": "Start-up Leadership, Start-up Ventures and +2 skills"
+    },
+    {
+      "Title": "Product Management, Technical (Amazon Ads - Causal ML focused Research Science Team)",
+      "Company": "Amazon",
+      "CompanyWebsite": null,
+      "StartDate": "May 2022",
+      "EndDate": "Nov 2023",
+      "Duration": "1 yr 7 mos",
+      "Location": "Seattle, Washington, United States",
+      "Description": "In my role at Amazon's Advertisement Science Team, I led Machine Learning initiatives that enabled more intelligent, data-driven decisions across Amazon's ad ecosystem. By collaborating with economists, data scientists, and engineering teams, I launched and scaled 7 different machine learning models and metrics that optimized both shopper experience and advertising effectiveness, driving strategic value through advanced ML applications.\n\n- Led the launch and adoption of a Reinforcement Learning-based ML model that predicts long-term impacts of new products and features using only 4-5 weeks of experimental data, significantly reducing the time to actionable insights.\n- Developed a causal inference ML model to analyze the impact of ads on shopper engagement and Amazon’s financial metrics, empowering senior leadership with insights reviewed quarterly to refine ad strategy.\n- Launched a holistic Shopper Experience Value metric that integrates multiple factors into a composite score, helping product teams make data-driven trade-offs in feature development.\n- Introduced an Ads Impact Persona model, leveraging ML to optimize ad density and relevance for specific customer personas, achieving a substantial revenue boost in key markets.\n- Enhanced Marketing Measurement by incorporating ad revenue attribution, utilizing advanced ML models to improve accuracy in measuring the cross-channel impact of marketing campaigns."
+    }
+  ]
+}

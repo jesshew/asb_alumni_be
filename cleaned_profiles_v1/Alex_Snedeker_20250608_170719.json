@@ -1,0 +1,98 @@
+{
+  "First": "Alex",
+  "Preferred": null,
+  "Last": "Snedeker",
+  "Gender": null,
+  "GraduatedYear": 2018,
+  "Intake": null,
+  "Program": "Master of Business Administration - MBA",
+  "GraduationAwards": [],
+  "Birthdate": null,
+  "LinkedInURL": "https://www.linkedin.com/in/alexsnedeker/",
+  "Education": [
+    {
+      "SchoolName": "Asia School of Business",
+      "Degree": "Master of Business Administration - MBA",
+      "FieldOfStudy": "Business Administration and Management, General",
+      "StartYear": 2016,
+      "EndYear": 2018,
+      "ActivitiesAndSocieties": null,
+      "Achievements": [
+        "Grade: 3.7/4.0"
+      ]
+    },
+    {
+      "SchoolName": "University of North Carolina at Chapel Hill",
+      "Degree": "Bachelor of Science (B.S.) with Highest Honors",
+      "FieldOfStudy": "Environmental Science",
+      "StartYear": null,
+      "EndYear": null,
+      "ActivitiesAndSocieties": null,
+      "Achievements": [
+        "Grade: 3.9/4.0"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "Title": "General Manager",
+      "Company": "Wattch",
+      "CompanyWebsite": null,
+      "StartDate": "May 2022",
+      "EndDate": "Present",
+      "Duration": "3 yrs 2 mos",
+      "Location": "Atlanta, Georgia, United States",
+      "Description": null
+    },
+    {
+      "Title": "Director of Growth (Sales + Marketing)",
+      "Company": "Cherry Street Energy",
+      "CompanyWebsite": null,
+      "StartDate": "Oct 2021",
+      "EndDate": "May 2022",
+      "Duration": "8 mos",
+      "Location": "Atlanta, Georgia, United States",
+      "Description": null
+    },
+    {
+      "Title": "Director of Marketing",
+      "Company": "Cherry Street Energy",
+      "CompanyWebsite": null,
+      "StartDate": "Nov 2020",
+      "EndDate": "Oct 2021",
+      "Duration": "1 yr",
+      "Location": "Atlanta, Georgia, United States",
+      "Description": null
+    },
+    {
+      "Title": "Marketing Manager",
+      "Company": "Asia School of Business",
+      "CompanyWebsite": null,
+      "StartDate": "Nov 2018",
+      "EndDate": "Oct 2020",
+      "Duration": "2 yrs",
+      "Location": "Kuala Lumpur, Malaysia",
+      "Description": null
+    },
+    {
+      "Title": "Marketing Director",
+      "Company": "Joule Energy",
+      "CompanyWebsite": null,
+      "StartDate": "Mar 2015",
+      "EndDate": "Jul 2016",
+      "Duration": "1 yr 5 mos",
+      "Location": "Greater New Orleans Area",
+      "Description": null
+    },
+    {
+      "Title": "2013 Fellow",
+      "Company": "Venture For America",
+      "CompanyWebsite": null,
+      "StartDate": "Jul 2013",
+      "EndDate": "Jun 2015",
+      "Duration": "2 yrs",
+      "Location": "Greater New York City Area",
+      "Description": null
+    }
+  ]
+}
