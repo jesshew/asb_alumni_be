@@ -22,6 +22,7 @@ async def database_health_check():
     """Check database connection health."""
     try:
         db_status = test_connection()
+        print(db_status)
         if db_status["status"] == "connected":
             return {
                 "status": "healthy",
