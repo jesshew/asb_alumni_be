@@ -1,6 +1,7 @@
 from pydantic import BaseModel, Field
 from typing import Optional
 from datetime import datetime
+from fastapi import UploadFile
 
 class CsvUploadBase(BaseModel):
     """Base model for CSV upload data."""
@@ -8,9 +9,10 @@ class CsvUploadBase(BaseModel):
     csv_upload_file_url: str = Field(..., max_length=512)
     csv_upload_description: Optional[str] = None
 
-class CsvUploadCreate(CsvUploadBase):
+class CsvUploadCreate(BaseModel):
     """Model for creating new CSV upload records."""
-    pass
+    file: UploadFile
+    description: Optional[str] = None
 
 class CsvUploadUpdate(BaseModel):
     """Model for updating CSV upload records."""

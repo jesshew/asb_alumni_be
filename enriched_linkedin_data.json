@@ -1,0 +1,954 @@
+[
+  {
+    "error": NaN,
+    "query": "https://www.linkedin.com/search/results/people/?keywords=asia%20school%20of%20business&origin=FACETED_SEARCH&schoolFilter=%5B%2210123780%22%5D&sid=5%3B%40",
+    "timestamp": "2025-06-08T03:07:31.196Z",
+    "profileUrl": "https://www.linkedin.com/in/tomaswong/",
+    "fullName": "Tomas W.",
+    "firstName": "Tomas",
+    "lastName": "W.",
+    "jobTitle": "Business Development",
+    "additionalInfo": "Current: Business Development at The Global Alliance for Cyber...",
+    "location": "Federal Territory of Kuala Lumpur, Malaysia",
+    "connectionDegree": "2nd",
+    "profileImageUrl": NaN,
+    "vmid": "ACoAABZu0zQBGckca7zVDTlvusovoJtK_42nlP0",
+    "category": "People",
+    "sharedConnections": "18 mutual connections",
+    "company": "The Global Alliance for Cyber Safety",
+    "companyUrl": "https://linkedin.com/company/99123400",
+    "industry": "Computer Software",
+    "company2": "Citizen Screen ",
+    "companyUrl2": "https://linkedin.com/company/4793364",
+    "jobDateRange": "Dec 2024 - Present",
+    "jobTitle2": "Business Development ",
+    "jobDateRange2": "Feb 2019 - Present",
+    "school": "Taylor's University",
+    "schoolDegree": "Bachelor of Information Technology (Hons)",
+    "schoolDateRange": NaN,
+    "school2": "Asia School of Business",
+    "schoolDegree2": "Executive Digital Leadership ",
+    "schoolDateRange2": "Dec 2023 - Apr 2024",
+    "enriched_metadata": {
+      "current_company": {
+        "name": "The Global Alliance for Cyber Safety",
+        "industry_category": "Cybersecurity",
+        "company_type": "Non-profit organization",
+        "company_stage": "Unknown",
+        "job_title": "Business Development",
+        "date_range": {
+          "start": "2024-12",
+          "end": null
+        }
+      },
+      "list_of_companies": [
+        {
+          "name": "Citizen Screen",
+          "industry_category": "Information Technology",
+          "company_type": "Unknown",
+          "job_title": "Business Development",
+          "date_range": {
+            "start": "2019-02",
+            "end": "2024-12"
+          },
+          "is_current": false
+        },
+        {
+          "name": "The Global Alliance for Cyber Safety",
+          "industry_category": "Cybersecurity",
+          "company_type": "Non-profit organization",
+          "job_title": "Business Development",
+          "date_range": {
+            "start": "2024-12",
+            "end": null
+          },
+          "is_current": true
+        }
+      ],
+      "list_of_education": [
+        {
+          "school": "Taylor's University",
+          "degree": "Bachelor of Information Technology (Hons)",
+          "field_of_study": "Information Technology",
+          "date_range": {
+            "start": null,
+            "end": null
+          }
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "Executive Digital Leadership",
+          "field_of_study": "Digital Leadership",
+          "date_range": {
+            "start": "2023-12",
+            "end": "2024-04"
+          }
+        }
+      ],
+      "career_insights": {
+        "industry": "Cybersecurity, Information Technology",
+        "seniority_level": "Mid",
+        "key_expertise": [
+          "Business Development",
+          "Digital Leadership",
+          "Cybersecurity"
+        ],
+        "years_experience_estimate": "5+",
+        "career_trajectory": {
+          "recent_transition": "Transitioned from a general IT Business Development role to a more specialized Cybersecurity focused role.",
+          "growth_path": "Focusing on building expertise in business development within the tech industry, with a recent move towards the cybersecurity sector.  The Executive Digital Leadership program suggests a desire for career advancement towards leadership positions.",
+          "potential_roles": [
+            "Senior Business Development Manager",
+            "Director of Business Development",
+            "Head of Partnerships",
+            "Chief Revenue Officer"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "error": NaN,
+    "query": "https://www.linkedin.com/search/results/people/?keywords=asia%20school%20of%20business&origin=FACETED_SEARCH&schoolFilter=%5B%2210123780%22%5D&sid=5%3B%40",
+    "timestamp": "2025-06-08T03:07:31.196Z",
+    "profileUrl": "https://www.linkedin.com/in/anwar-arif-73969122b/",
+    "fullName": "Anwar Arif",
+    "firstName": "Anwar",
+    "lastName": "Arif",
+    "jobTitle": "Executive, Corporate Governance",
+    "additionalInfo": "Education: Asia School of Business",
+    "location": "Kuala Lumpur",
+    "connectionDegree": "2nd",
+    "profileImageUrl": "https://media.licdn.com/dms/image/v2/D5603AQEM-q9WFat5jw/profile-displayphoto-shrink_100_100/B56Zaz_tSaGoAg-/0/1746776546532?e=1755129600&v=beta&t=jSRu0dcreEtIVRMI8CM9388Np2a4zRag5LFRTfMhdgo",
+    "vmid": "ACoAADmWW90BMdTqt6f_JrQSirmv3BlH09Ou8Qk",
+    "category": "People",
+    "sharedConnections": "1 mutual connection",
+    "company": "BIMB Securities Sdn Bhd",
+    "companyUrl": "https://linkedin.com/company/6850865",
+    "industry": "Financial Services",
+    "company2": "Permodalan Nasional Berhad",
+    "companyUrl2": "https://linkedin.com/company/30222020",
+    "jobDateRange": "Apr 2025 - Present",
+    "jobTitle2": "Internship Trainee, Shariah Management",
+    "jobDateRange2": "Aug 2023 - Nov 2023",
+    "school": "Asia School of Business",
+    "schoolDegree": "InvestED Leadership Programme",
+    "schoolDateRange": "Sep 2024 - Feb 2025",
+    "school2": "University of Malaya",
+    "schoolDegree2": "Bachelor's degree",
+    "schoolDateRange2": "Nov 2020 - Mar 2024",
+    "enriched_metadata": {
+      "current_company": {
+        "name": "BIMB Securities Sdn Bhd",
+        "industry_category": "Financial Services",
+        "company_type": "Subsidiary",
+        "company_stage": "Mature",
+        "job_title": "Executive, Corporate Governance",
+        "date_range": {
+          "start": "2025-04",
+          "end": null
+        }
+      },
+      "list_of_companies": [
+        {
+          "name": "Permodalan Nasional Berhad",
+          "industry_category": "Financial Services",
+          "company_type": "Government-Linked Company (GLC)",
+          "job_title": "Internship Trainee, Shariah Management",
+          "date_range": {
+            "start": "2023-08",
+            "end": "2023-11"
+          },
+          "is_current": false
+        },
+        {
+          "name": "BIMB Securities Sdn Bhd",
+          "industry_category": "Financial Services",
+          "company_type": "Subsidiary",
+          "job_title": "Executive, Corporate Governance",
+          "date_range": {
+            "start": "2025-04",
+            "end": null
+          },
+          "is_current": true
+        }
+      ],
+      "list_of_education": [
+        {
+          "school": "University of Malaya",
+          "degree": "Bachelor's degree",
+          "field_of_study": null,
+          "date_range": {
+            "start": "2020-11",
+            "end": "2024-03"
+          }
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "InvestED Leadership Programme",
+          "field_of_study": "Leadership",
+          "date_range": {
+            "start": "2024-09",
+            "end": "2025-02"
+          }
+        }
+      ],
+      "career_insights": {
+        "industry": "Financial Services",
+        "seniority_level": "Entry",
+        "key_expertise": [
+          "Corporate Governance",
+          "Shariah Management"
+        ],
+        "years_experience_estimate": "< 1",
+        "career_trajectory": {
+          "recent_transition": "Internship to Entry-Level",
+          "growth_path": "Specialization in Corporate Governance or Shariah Management",
+          "potential_roles": [
+            "Senior Executive, Corporate Governance",
+            "Manager, Corporate Governance",
+            "Shariah Advisor",
+            "Shariah Compliance Officer"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "error": NaN,
+    "query": "https://www.linkedin.com/search/results/people/?keywords=asia%20school%20of%20business&origin=FACETED_SEARCH&schoolFilter=%5B%2210123780%22%5D&sid=5%3B%40",
+    "timestamp": "2025-06-08T03:07:31.196Z",
+    "profileUrl": "https://www.linkedin.com/in/vivisana-sothivelr/",
+    "fullName": "Vivisana Sothivelr",
+    "firstName": "Vivisana",
+    "lastName": "Sothivelr",
+    "jobTitle": "Equity Analyst",
+    "additionalInfo": "Education: Asia School of Business",
+    "location": "Klang",
+    "connectionDegree": "2nd",
+    "profileImageUrl": "https://media.licdn.com/dms/image/v2/D5603AQGT2V7pWfVfRw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1674508590792?e=1755129600&v=beta&t=6tY-J60lvsUE2aA8B4KZbDJZd7ksz4Plmy_KyObYyOo",
+    "vmid": "ACoAABIHxQ0BrKqvLOzk5myeqZpyzOUGCe0QFa4",
+    "category": "People",
+    "sharedConnections": NaN,
+    "company": "KAF Group",
+    "companyUrl": "https://linkedin.com/company/437247",
+    "industry": "Financial Services",
+    "company2": "National University of Malaysia (UKM)",
+    "companyUrl2": "https://linkedin.com/company/13323274",
+    "jobDateRange": "Oct 2023 - Present",
+    "jobTitle2": "Scientific Researcher",
+    "jobDateRange2": "Feb 2021 - Present",
+    "school": "The University of Edinburgh",
+    "schoolDegree": "Bachelor of Science (BSc)",
+    "schoolDateRange": "Oct 2015 - Aug 2019",
+    "school2": "Asia School of Business",
+    "schoolDegree2": NaN,
+    "schoolDateRange2": "Sep 2023 - Sep 2023",
+    "enriched_metadata": {
+      "current_company": {
+        "name": "KAF Group",
+        "industry_category": "Financial Services",
+        "company_type": "Investment Banking",
+        "company_stage": "Mature",
+        "job_title": "Equity Analyst",
+        "date_range": {
+          "start": "2023-10",
+          "end": null
+        }
+      },
+      "list_of_companies": [
+        {
+          "name": "National University of Malaysia (UKM)",
+          "industry_category": "Education",
+          "company_type": "University",
+          "job_title": "Scientific Researcher",
+          "date_range": {
+            "start": "2021-02",
+            "end": "2023-10"
+          },
+          "is_current": false
+        },
+        {
+          "name": "KAF Group",
+          "industry_category": "Financial Services",
+          "company_type": "Investment Banking",
+          "job_title": "Equity Analyst",
+          "date_range": {
+            "start": "2023-10",
+            "end": null
+          },
+          "is_current": true
+        }
+      ],
+      "list_of_education": [
+        {
+          "school": "The University of Edinburgh",
+          "degree": "Bachelor of Science (BSc)",
+          "field_of_study": null,
+          "date_range": {
+            "start": "2015-10",
+            "end": "2019-08"
+          }
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": null,
+          "field_of_study": null,
+          "date_range": {
+            "start": "2023-09",
+            "end": "2023-09"
+          }
+        }
+      ],
+      "career_insights": {
+        "industry": "Financial Services",
+        "seniority_level": "Entry",
+        "key_expertise": [
+          "Equity Research",
+          "Financial Analysis"
+        ],
+        "years_experience_estimate": "2-3",
+        "career_trajectory": {
+          "recent_transition": "Academia to Finance",
+          "growth_path": "Financial Analyst -> Senior Analyst -> Portfolio Manager",
+          "potential_roles": [
+            "Senior Equity Analyst",
+            "Investment Associate",
+            "Portfolio Manager"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "error": NaN,
+    "query": "https://www.linkedin.com/search/results/people/?keywords=asia%20school%20of%20business&origin=FACETED_SEARCH&schoolFilter=%5B%2210123780%22%5D&sid=5%3B%40",
+    "timestamp": "2025-06-08T03:07:31.196Z",
+    "profileUrl": "https://www.linkedin.com/in/nur-ayra-binti-zulkifli-3778a8224/",
+    "fullName": "Nur Ayra Binti Zulkifli",
+    "firstName": "Nur",
+    "lastName": "Ayra Binti Zulkifli",
+    "jobTitle": "Java Developer",
+    "additionalInfo": "Education: Asia School of Business",
+    "location": "WP. Kuala Lumpur",
+    "connectionDegree": "2nd",
+    "profileImageUrl": "https://media.licdn.com/dms/image/v2/D5603AQEGI0LRpu4_fg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1714041941624?e=1755129600&v=beta&t=COT5d419uHuWab0r5MSId8DZkI0ROeyf3uQnCJY3_VI",
+    "vmid": "ACoAADhfggsBOSJHwarJi0TWt8ZIJd6bxCXccog",
+    "category": "People",
+    "sharedConnections": "5 mutual connections",
+    "company": "Etiqa Insurance and Takaful",
+    "companyUrl": "https://linkedin.com/company/3669214",
+    "industry": "Financial Services",
+    "company2": "Securities Commission Malaysia",
+    "companyUrl2": "https://linkedin.com/company/13449885",
+    "jobDateRange": "Apr 2025 - Present",
+    "jobTitle2": "InvestED Leadership Programme Trainee",
+    "jobDateRange2": "Sep 2024 - May 2025",
+    "school": "Universiti Teknologi MARA",
+    "schoolDegree": "Bachelor's degree",
+    "schoolDateRange": NaN,
+    "school2": "Asia School of Business",
+    "schoolDegree2": "InvestED Leadership Training",
+    "schoolDateRange2": "Sep 2024 - Sep 2024",
+    "enriched_metadata": {
+      "current_company": {
+        "name": "Etiqa Insurance and Takaful",
+        "industry_category": "Financial Services",
+        "company_type": "Insurance",
+        "company_stage": "Mature",
+        "job_title": "Java Developer",
+        "date_range": {
+          "start": "2025-04",
+          "end": null
+        }
+      },
+      "list_of_companies": [
+        {
+          "name": "Securities Commission Malaysia",
+          "industry_category": "Government and Public Administration",
+          "company_type": "Government Agency",
+          "job_title": "InvestED Leadership Programme Trainee",
+          "date_range": {
+            "start": "2024-09",
+            "end": "2025-05"
+          },
+          "is_current": false
+        },
+        {
+          "name": "Etiqa Insurance and Takaful",
+          "industry_category": "Financial Services",
+          "company_type": "Insurance",
+          "job_title": "Java Developer",
+          "date_range": {
+            "start": "2025-04",
+            "end": null
+          },
+          "is_current": true
+        }
+      ],
+      "list_of_education": [
+        {
+          "school": "Universiti Teknologi MARA",
+          "degree": "Bachelor's degree",
+          "field_of_study": null,
+          "date_range": {
+            "start": null,
+            "end": null
+          }
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "InvestED Leadership Training",
+          "field_of_study": "Leadership",
+          "date_range": {
+            "start": "2024-09",
+            "end": "2024-09"
+          }
+        }
+      ],
+      "career_insights": {
+        "industry": "Financial Services",
+        "seniority_level": "Entry",
+        "key_expertise": [
+          "Java Development",
+          "Financial Services",
+          "Leadership"
+        ],
+        "years_experience_estimate": "Less than 1 year",
+        "career_trajectory": {
+          "recent_transition": "Trainee to Java Developer",
+          "growth_path": "Software Engineering within Financial Services",
+          "potential_roles": [
+            "Senior Java Developer",
+            "Software Architect",
+            "Tech Lead"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "error": NaN,
+    "query": "https://www.linkedin.com/search/results/people/?keywords=asia%20school%20of%20business&origin=FACETED_SEARCH&schoolFilter=%5B%2210123780%22%5D&sid=5%3B%40",
+    "timestamp": "2025-06-08T03:07:31.196Z",
+    "profileUrl": "https://www.linkedin.com/in/amzar-shaik/",
+    "fullName": "Amzar Shaik",
+    "firstName": "Amzar",
+    "lastName": "Shaik",
+    "jobTitle": "Consultant",
+    "additionalInfo": "Education: Asia School of Business",
+    "location": "Shah Alam",
+    "connectionDegree": "2nd",
+    "profileImageUrl": "https://media.licdn.com/dms/image/v2/D5603AQHI1n7fcPrLzQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1727446340817?e=1755129600&v=beta&t=IPHWM-fXU8vLWvTIWsSbG39C9H9t0T3r7owMAkk0PWU",
+    "vmid": "ACoAACFzdnoBeyoypC-8mfn0kagEeXpFY7YThqY",
+    "category": "People",
+    "sharedConnections": "2 mutual connections",
+    "company": "Deloitte",
+    "companyUrl": "https://linkedin.com/company/1038",
+    "industry": "Management Consulting",
+    "company2": "Poliklinik Shaik",
+    "companyUrl2": "https://linkedin.com/company/51799773",
+    "jobDateRange": "Oct 2023 - Oct 2024",
+    "jobTitle2": "Executive",
+    "jobDateRange2": "Oct 2021 - Dec 2021",
+    "school": "Asia School of Business",
+    "schoolDegree": "Master of Business Administration - MBA",
+    "schoolDateRange": "Sep 2024 - Sep 2025",
+    "school2": "University of Newcastle",
+    "schoolDegree2": "Bachelor of Engineering - BE",
+    "schoolDateRange2": NaN,
+    "enriched_metadata": {
+      "current_company": {
+        "name": "Deloitte",
+        "industry_category": "Management Consulting",
+        "company_type": "Professional Services",
+        "company_stage": "Enterprise",
+        "job_title": "Consultant",
+        "date_range": {
+          "start": "2023-10",
+          "end": "2024-10"
+        }
+      },
+      "list_of_companies": [
+        {
+          "name": "Poliklinik Shaik",
+          "industry_category": "Healthcare",
+          "company_type": "Clinic",
+          "job_title": "Executive",
+          "date_range": {
+            "start": "2021-10",
+            "end": "2021-12"
+          },
+          "is_current": false
+        },
+        {
+          "name": "Deloitte",
+          "industry_category": "Management Consulting",
+          "company_type": "Professional Services",
+          "job_title": "Consultant",
+          "date_range": {
+            "start": "2023-10",
+            "end": "2024-10"
+          },
+          "is_current": true
+        }
+      ],
+      "list_of_education": [
+        {
+          "school": "University of Newcastle",
+          "degree": "Bachelor of Engineering",
+          "field_of_study": "Engineering",
+          "date_range": {
+            "start": null,
+            "end": null
+          }
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration",
+          "field_of_study": "Business Administration",
+          "date_range": {
+            "start": "2024-09",
+            "end": "2025-09"
+          }
+        }
+      ],
+      "career_insights": {
+        "industry": "Management Consulting",
+        "seniority_level": "Mid",
+        "key_expertise": [],
+        "years_experience_estimate": "2",
+        "career_trajectory": {
+          "recent_transition": "Healthcare to Management Consulting",
+          "growth_path": "Potentially transitioning to a more senior consulting role after MBA completion.",
+          "potential_roles": [
+            "Senior Consultant",
+            "Manager",
+            "Project Manager"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "error": NaN,
+    "query": "https://www.linkedin.com/search/results/people/?keywords=asia%20school%20of%20business&origin=FACETED_SEARCH&schoolFilter=%5B%2210123780%22%5D&sid=5%3B%40",
+    "timestamp": "2025-06-08T03:07:31.196Z",
+    "profileUrl": "https://www.linkedin.com/in/chin-yangxin-163671179/",
+    "fullName": "Chin Yangxin",
+    "firstName": "Chin",
+    "lastName": "Yangxin",
+    "jobTitle": "Principal Assistant Director",
+    "additionalInfo": "Education: Asia School of Business",
+    "location": "Putrajaya Federal Territory, Malaysia",
+    "connectionDegree": "2nd",
+    "profileImageUrl": "https://media.licdn.com/dms/image/v2/D5603AQFYwYMxE5SSSQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731491291290?e=1755129600&v=beta&t=IGBmHa_pxa8N1k42gr3MIbweBHoOAmc9WCYuThN4S4w",
+    "vmid": "ACoAACpHVpsBq1RPOBgrr2x95rbrVsS5qWHGUTw",
+    "category": "People",
+    "sharedConnections": "1 mutual connection",
+    "company": "Ministry Of Health, Malaysia (KKM)",
+    "companyUrl": "https://linkedin.com/company/14408020",
+    "industry": "Hospital & Health Care",
+    "company2": "Ministry Of Health, Malaysia (KKM)",
+    "companyUrl2": "https://linkedin.com/company/14408020",
+    "jobDateRange": "Aug 2024 - Present",
+    "jobTitle2": "Principal Assistant Director",
+    "jobDateRange2": "Oct 2021 - Jul 2024",
+    "school": "Kursk State Medical University (KSMU)",
+    "schoolDegree": "Medical",
+    "schoolDateRange": NaN,
+    "school2": "Asia School of Business",
+    "schoolDegree2": "Executive Digital Leadership Programme",
+    "schoolDateRange2": "Oct 2024 - Dec 2024",
+    "enriched_metadata": {
+      "current_company": {
+        "name": "Ministry Of Health, Malaysia (KKM)",
+        "industry_category": "Healthcare",
+        "company_type": "Government Agency",
+        "company_stage": "Enterprise",
+        "job_title": "Principal Assistant Director",
+        "date_range": {
+          "start": "2024-08",
+          "end": null
+        }
+      },
+      "list_of_companies": [
+        {
+          "name": "Ministry Of Health, Malaysia (KKM)",
+          "industry_category": "Healthcare",
+          "company_type": "Government Agency",
+          "job_title": "Principal Assistant Director",
+          "date_range": {
+            "start": "2021-10",
+            "end": "2024-07"
+          },
+          "is_current": false
+        }
+      ],
+      "list_of_education": [
+        {
+          "school": "Kursk State Medical University (KSMU)",
+          "degree": "Medical",
+          "field_of_study": "Medicine",
+          "date_range": {
+            "start": null,
+            "end": null
+          }
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "Executive Program",
+          "field_of_study": "Digital Leadership",
+          "date_range": {
+            "start": "2024-10",
+            "end": "2024-12"
+          }
+        }
+      ],
+      "career_insights": {
+        "industry": "Healthcare",
+        "seniority_level": "Senior",
+        "key_expertise": [
+          "Healthcare Administration",
+          "Public Health",
+          "Digital Leadership"
+        ],
+        "years_experience_estimate": "3+ years (estimated based on provided information)",
+        "career_trajectory": {
+          "recent_transition": "Promotion or role change within the same organization",
+          "growth_path": "Likely upward trajectory within the Ministry of Health or related government agencies",
+          "potential_roles": [
+            "Director",
+            "Deputy Director General",
+            "Higher leadership roles in healthcare administration"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "error": NaN,
+    "query": "https://www.linkedin.com/search/results/people/?keywords=asia%20school%20of%20business&origin=FACETED_SEARCH&schoolFilter=%5B%2210123780%22%5D&sid=5%3B%40",
+    "timestamp": "2025-06-08T03:07:31.196Z",
+    "profileUrl": "https://www.linkedin.com/in/weechuanhawcharles21/",
+    "fullName": "Wee Chuan Haw, Charles",
+    "firstName": "Wee",
+    "lastName": "Chuan Haw, Charles",
+    "jobTitle": "Dealer/Marketing Executive",
+    "additionalInfo": "Education: Asia School of Business",
+    "location": "WP. Kuala Lumpur",
+    "connectionDegree": "2nd",
+    "profileImageUrl": "https://media.licdn.com/dms/image/v2/D5603AQFufnVxNqty3g/profile-displayphoto-shrink_100_100/B56ZXIvgFzGoAY-/0/1742829652652?e=1755129600&v=beta&t=Ne6kOPPWQzhPO_QYP99dJaaVwukXwNvfQPePJxwBrV0",
+    "vmid": "ACoAADlHls8B5EXJLgkd7CtSiSxnrkTesyPqTsw",
+    "category": "People",
+    "sharedConnections": "2 mutual connections",
+    "company": "Phillip Capital Sdn Bhd",
+    "companyUrl": "https://linkedin.com/company/28160183",
+    "industry": "Financial Services",
+    "company2": "Malaysia Debt Ventures Berhad",
+    "companyUrl2": "https://linkedin.com/company/83864",
+    "jobDateRange": "Jan 2025 - Present",
+    "jobTitle2": "Venture Finance Manager",
+    "jobDateRange2": "Jun 2024 - Jan 2025",
+    "school": "Universiti Malaysia Sarawak (UNIMAS)",
+    "schoolDegree": "Bachelor's degree",
+    "schoolDateRange": NaN,
+    "school2": "Asia School of Business",
+    "schoolDegree2": "investED \uff08Leadership Programme)",
+    "schoolDateRange2": "Sep 2023 - Sep 2023",
+    "enriched_metadata": {
+      "current_company": {
+        "name": "Phillip Capital Sdn Bhd",
+        "industry_category": "Financial Services",
+        "company_type": "Financial Institution",
+        "company_stage": "Mature",
+        "job_title": "Dealer/Marketing Executive",
+        "date_range": {
+          "start": "2025-01",
+          "end": null
+        }
+      },
+      "list_of_companies": [
+        {
+          "name": "Malaysia Debt Ventures Berhad",
+          "industry_category": "Venture Capital & Private Equity",
+          "company_type": "Financial Institution",
+          "job_title": "Venture Finance Manager",
+          "date_range": {
+            "start": "2024-06",
+            "end": "2025-01"
+          },
+          "is_current": false
+        },
+        {
+          "name": "Phillip Capital Sdn Bhd",
+          "industry_category": "Financial Services",
+          "company_type": "Financial Institution",
+          "job_title": "Dealer/Marketing Executive",
+          "date_range": {
+            "start": "2025-01",
+            "end": null
+          },
+          "is_current": true
+        }
+      ],
+      "list_of_education": [
+        {
+          "school": "Universiti Malaysia Sarawak (UNIMAS)",
+          "degree": "Bachelor's degree",
+          "field_of_study": null,
+          "date_range": {
+            "start": null,
+            "end": null
+          }
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "investED \uff08Leadership Programme)",
+          "field_of_study": "Leadership",
+          "date_range": {
+            "start": "2023-09",
+            "end": "2023-09"
+          }
+        }
+      ],
+      "career_insights": {
+        "industry": "Financial Services",
+        "seniority_level": "Mid",
+        "key_expertise": [
+          "Venture Finance",
+          "Dealership",
+          "Marketing",
+          "Leadership"
+        ],
+        "years_experience_estimate": "1-2 years",
+        "career_trajectory": {
+          "recent_transition": "Transitioned from Venture Finance to a hybrid Dealer/Marketing role",
+          "growth_path": "Potentially moving towards a more client-facing or sales-oriented role within the financial services industry",
+          "potential_roles": [
+            "Senior Dealer",
+            "Marketing Manager",
+            "Financial Advisor",
+            "Investment Analyst"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "error": NaN,
+    "query": "https://www.linkedin.com/search/results/people/?keywords=asia%20school%20of%20business&origin=FACETED_SEARCH&schoolFilter=%5B%2210123780%22%5D&sid=5%3B%40",
+    "timestamp": "2025-06-08T03:07:31.196Z",
+    "profileUrl": "https://www.linkedin.com/in/chandrarau/",
+    "fullName": "Chandra Rau",
+    "firstName": "Chandra",
+    "lastName": "Rau",
+    "jobTitle": "Founder & CEO",
+    "additionalInfo": "Current: Managing Director at Thither Global (M) Sdn Bhd - ...seeming to be conventional business...",
+    "location": "Subang Jaya",
+    "connectionDegree": "2nd",
+    "profileImageUrl": "https://media.licdn.com/dms/image/v2/D5635AQGmxrHfFfYdrg/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1733816764440?e=1749960000&v=beta&t=cTx2hOyg4-IrqSDm70DtAeTHVVfJOQZyKm2lBaiqDpo",
+    "vmid": "ACoAAASLz9oB5X8duPCilLuP1H44LzCebQxutyk",
+    "category": "People",
+    "sharedConnections": "2 mutual connections",
+    "company": "Trexon Energy",
+    "companyUrl": "https://linkedin.com/company/102068281",
+    "industry": "Renewables & Environment",
+    "company2": "Techfix",
+    "companyUrl2": "https://linkedin.com/company/14590785",
+    "jobDateRange": "May 2024 - Present",
+    "jobTitle2": "Founder",
+    "jobDateRange2": "Oct 2016 - Present",
+    "school": "Asia School of Business",
+    "schoolDegree": "Master of Business Administration - MBA",
+    "schoolDateRange": NaN,
+    "school2": "MIT Sloan School of Management",
+    "schoolDegree2": "Master of Business Administration - MBA",
+    "schoolDateRange2": NaN,
+    "enriched_metadata": {
+      "current_company": {
+        "name": "Trexon Energy",
+        "industry_category": "Renewables & Environment",
+        "company_type": "Startup",
+        "company_stage": "Startup",
+        "job_title": "Founder & CEO",
+        "date_range": {
+          "start": "2024-05",
+          "end": null
+        }
+      },
+      "list_of_companies": [
+        {
+          "name": "Techfix",
+          "industry_category": "Information Technology",
+          "company_type": "Startup",
+          "job_title": "Founder",
+          "date_range": {
+            "start": "2016-10",
+            "end": "2024-05"
+          },
+          "is_current": false
+        },
+        {
+          "name": "Trexon Energy",
+          "industry_category": "Renewables & Environment",
+          "company_type": "Startup",
+          "job_title": "Founder & CEO",
+          "date_range": {
+            "start": "2024-05",
+            "end": null
+          },
+          "is_current": true
+        }
+      ],
+      "list_of_education": [
+        {
+          "school": "MIT Sloan School of Management",
+          "degree": "Master of Business Administration",
+          "field_of_study": "MBA",
+          "date_range": {
+            "start": null,
+            "end": null
+          }
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "Master of Business Administration",
+          "field_of_study": "MBA",
+          "date_range": {
+            "start": null,
+            "end": null
+          }
+        }
+      ],
+      "career_insights": {
+        "industry": "Renewables & Environment",
+        "seniority_level": "Executive",
+        "key_expertise": [
+          "Entrepreneurship",
+          "Renewable Energy",
+          "Business Development",
+          "Leadership"
+        ],
+        "years_experience_estimate": "8+",
+        "career_trajectory": {
+          "recent_transition": "Founder to Founder & CEO",
+          "growth_path": "Founder, demonstrating consistent entrepreneurial drive.",
+          "potential_roles": [
+            "CEO",
+            "Board Member",
+            "Advisor",
+            "Investor"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "error": NaN,
+    "query": "https://www.linkedin.com/search/results/people/?keywords=asia%20school%20of%20business&origin=FACETED_SEARCH&schoolFilter=%5B%2210123780%22%5D&sid=5%3B%40",
+    "timestamp": "2025-06-08T03:07:31.196Z",
+    "profileUrl": "https://www.linkedin.com/in/farrahaqlima/",
+    "fullName": "Farrah Aqlima",
+    "firstName": "Farrah",
+    "lastName": "Aqlima",
+    "jobTitle": "Country Head of Finance, MY",
+    "additionalInfo": "Education: Asia School of Business",
+    "location": "Malaysia",
+    "connectionDegree": "2nd",
+    "profileImageUrl": "https://media.licdn.com/dms/image/v2/D5603AQGoKGnevs3aDg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1696387216436?e=1755129600&v=beta&t=FET0UA9fpNWX4UhYmuMilvcyzBk58Tc83Gw14ecu2EY",
+    "vmid": "ACoAAA0IuLYBK34lL2UD6wW3p4rc5BeljI7Kqko",
+    "category": "People",
+    "sharedConnections": "1 mutual connection",
+    "company": "SEEK",
+    "companyUrl": "https://linkedin.com/company/8985",
+    "industry": "Computer Software",
+    "company2": "Lazada Logistics Malaysia",
+    "companyUrl2": "https://linkedin.com/company/18829627",
+    "jobDateRange": "Oct 2022 - Present",
+    "jobTitle2": "Senior Manager, Marketplace Logistics",
+    "jobDateRange2": "Jul 2020 - Aug 2021",
+    "school": "MIT Sloan School of Management",
+    "schoolDegree": "Executive MBA - Global Programs in collaboration with Asia School of Business",
+    "schoolDateRange": "Sep 2023 - Jan 2025",
+    "school2": "Asia School of Business",
+    "schoolDegree2": "Executive MBA",
+    "schoolDateRange2": "Sep 2023 - Jan 2025",
+    "enriched_metadata": {
+      "current_company": {
+        "name": "SEEK",
+        "industry_category": "Human Resources & Staffing",
+        "company_type": "Public",
+        "company_stage": "Enterprise",
+        "job_title": "Country Head of Finance, MY",
+        "date_range": {
+          "start": "2022-10",
+          "end": null
+        }
+      },
+      "list_of_companies": [
+        {
+          "name": "Lazada Logistics Malaysia",
+          "industry_category": "Logistics & Supply Chain",
+          "company_type": "Subsidiary",
+          "job_title": "Senior Manager, Marketplace Logistics",
+          "date_range": {
+            "start": "2020-07",
+            "end": "2021-08"
+          },
+          "is_current": false
+        },
+        {
+          "name": "SEEK",
+          "industry_category": "Human Resources & Staffing",
+          "company_type": "Public",
+          "job_title": "Country Head of Finance, MY",
+          "date_range": {
+            "start": "2022-10",
+            "end": null
+          },
+          "is_current": true
+        }
+      ],
+      "list_of_education": [
+        {
+          "school": "MIT Sloan School of Management",
+          "degree": "Executive MBA",
+          "field_of_study": "Global Programs in collaboration with Asia School of Business",
+          "date_range": {
+            "start": "2023-09",
+            "end": "2025-01"
+          }
+        },
+        {
+          "school": "Asia School of Business",
+          "degree": "Executive MBA",
+          "field_of_study": "Business Administration",
+          "date_range": {
+            "start": "2023-09",
+            "end": "2025-01"
+          }
+        }
+      ],
+      "career_insights": {
+        "industry": "Finance",
+        "seniority_level": "Executive",
+        "key_expertise": [
+          "Finance",
+          "Logistics",
+          "Management"
+        ],
+        "years_experience_estimate": "10+ years",
+        "career_trajectory": {
+          "recent_transition": "Logistics to Finance",
+          "growth_path": "Management to Executive Leadership",
+          "potential_roles": [
+            "CFO",
+            "Regional Finance Director",
+            "VP of Finance"
+          ]
+        }
+      }
+    }
+  }
+]

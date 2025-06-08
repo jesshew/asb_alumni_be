@@ -1,9 +1,12 @@
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
 psycopg2-binary==2.9.9
-python-dotenv==1.0.0
+python-dotenv==1.0.1
 pydantic==2.5.0
 pydantic[email]==2.5.0
-python-multipart==0.0.6
+python-multipart==0.0.9
 sqlalchemy==2.0.23
-alembic==1.13.1 
+alembic==1.13.1
+google-generativeai==0.3.2
+pandas==2.2.0
+supabase==2.3.4 
