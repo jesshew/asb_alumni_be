@@ -21,3 +21,59 @@
 2025-06-08 14:49:02,079 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
 2025-06-08 14:49:12,965 - INFO - Data saved to scraped_profiles.csv
 2025-06-08 14:49:12,969 - INFO - Scraping completed! Results saved to scraped_profiles.csv
+2025-06-08 14:56:10,640 - INFO - Attempting to login to LinkedIn...
+2025-06-08 14:56:20,666 - INFO - Successfully logged in to LinkedIn
+2025-06-08 14:56:20,703 - INFO - Loaded 2 LinkedIn URLs from CSV
+2025-06-08 14:56:20,704 - INFO - Processing 1/2: https://www.linkedin.com/in/sharanjm
+2025-06-08 14:56:20,704 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 14:56:31,578 - INFO - Processing 2/2: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 14:56:31,579 - INFO - Waiting 10 seconds before next request...
+2025-06-08 14:56:45,821 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 14:57:03,357 - INFO - Scraping completed! Processed 2 profiles
+2025-06-08 15:30:21,890 - INFO - Attempting to login to LinkedIn...
+2025-06-08 15:30:36,716 - INFO - Successfully logged in to LinkedIn
+2025-06-08 15:30:36,853 - INFO - Loaded 2 LinkedIn URLs from CSV
+2025-06-08 15:30:36,853 - INFO - Processing 1/2: https://www.linkedin.com/in/sharanjm
+2025-06-08 15:30:36,854 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 15:30:48,470 - INFO - Processing 2/2: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 15:30:48,471 - INFO - Waiting 10 seconds before next request...
+2025-06-08 15:31:01,407 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 15:31:13,159 - INFO - Scraping completed! Processed 2 profiles
+2025-06-08 15:42:59,271 - INFO - Attempting to login to LinkedIn...
+2025-06-08 15:43:14,333 - INFO - Successfully logged in to LinkedIn
+2025-06-08 15:43:14,345 - INFO - Loaded 2 LinkedIn URLs from CSV
+2025-06-08 15:43:14,345 - INFO - Processing 1/2: https://www.linkedin.com/in/sharanjm
+2025-06-08 15:43:14,345 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 15:43:26,020 - ERROR - Error scraping profile https://www.linkedin.com/in/sharanjm: 'NavigableString' object has no attribute 'parent'
+2025-06-08 15:43:26,022 - INFO - Processing 2/2: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 15:43:26,049 - INFO - Waiting 10 seconds before next request...
+2025-06-08 15:43:39,592 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 15:43:51,735 - ERROR - Error scraping profile https://www.linkedin.com/in/poncesamaniego/: 'NavigableString' object has no attribute 'parent'
+2025-06-08 15:43:51,736 - INFO - Scraping completed! Processed 2 profiles
+2025-06-08 15:44:33,267 - INFO - Attempting to login to LinkedIn...
+2025-06-08 15:44:47,252 - INFO - Successfully logged in to LinkedIn
+2025-06-08 15:44:47,285 - INFO - Loaded 2 LinkedIn URLs from CSV
+2025-06-08 15:44:47,285 - INFO - Processing 1/2: https://www.linkedin.com/in/sharanjm
+2025-06-08 15:44:47,286 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 15:44:59,028 - INFO - Processing 2/2: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 15:44:59,029 - INFO - Waiting 10 seconds before next request...
+2025-06-08 15:45:10,504 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 15:45:22,912 - INFO - Scraping completed! Processed 2 profiles
+2025-06-08 15:54:52,664 - INFO - Attempting to login to LinkedIn...
+2025-06-08 15:55:07,288 - INFO - Successfully logged in to LinkedIn
+2025-06-08 15:55:07,495 - INFO - Loaded 2 LinkedIn URLs from CSV
+2025-06-08 15:55:07,495 - INFO - Processing 1/2: https://www.linkedin.com/in/sharanjm
+2025-06-08 15:55:07,495 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 15:55:23,258 - INFO - Processing 2/2: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 15:55:23,259 - INFO - Waiting 10 seconds before next request...
+2025-06-08 15:55:34,986 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 15:55:46,428 - INFO - Scraping completed! Processed 2 profiles
+2025-06-08 15:58:09,351 - INFO - Attempting to login to LinkedIn...
+2025-06-08 15:58:26,061 - INFO - Successfully logged in to LinkedIn
+2025-06-08 15:58:26,173 - INFO - Loaded 2 LinkedIn URLs from CSV
+2025-06-08 15:58:26,192 - INFO - Processing 1/2: https://www.linkedin.com/in/sharanjm
+2025-06-08 15:58:26,192 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 15:58:38,370 - INFO - Processing 2/2: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 15:58:38,370 - INFO - Waiting 10 seconds before next request...
+2025-06-08 15:58:51,864 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 15:59:09,094 - INFO - Scraping completed! Processed 2 profiles

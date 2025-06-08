@@ -125,6 +125,155 @@ class LinkedInScraper:
             # Get page source and parse with BeautifulSoup
             soup = BeautifulSoup(self.driver.page_source, 'html.parser')
             
+            # DEBUG: Find and print the specific profile content div
+            profile_content_div = soup.find('div', {'class': 'extended tetris pv-profile-body-wrapper', 'id': 'profile-content'})
+            
+            if profile_content_div:
+                # DEBUG: Print all unique IDs in the profile content
+                all_elements_with_ids = profile_content_div.find_all(attrs={'id': True})
+                unique_ids = set()
+                for element in all_elements_with_ids:
+                    element_id = element.get('id')
+                    if element_id:
+                        unique_ids.add(element_id)
+                
+                print(f"\n{'='*80}")
+                print(f"ALL UNIQUE IDs FOUND IN PROFILE FOR: {profile_url}")
+                print(f"{'='*80}")
+                for unique_id in sorted(unique_ids):
+                    print(f"ID: {unique_id}")
+                print(f"{'='*80}")
+                print(f"TOTAL UNIQUE IDs: {len(unique_ids)}")
+                print(f"{'='*80}\n")
+                
+                # DEBUG: Extract and print text content from specific sections only
+                target_sections = ['about', 'education', 'experience', 'licenses_and_certifications', 'projects', 'skills']
+                
+                print(f"\n{'='*80}")
+                print(f"SECTION CONTENT FOR: {profile_url}")
+                print(f"{'='*80}")
+                
+                for section_id in target_sections:
+                    section_element = profile_content_div.find(attrs={'id': section_id})
+                    if section_element:
+                        # Get clean text content without HTML tags
+                        section_text = section_element.get_text(separator='\n', strip=True)
+                        print(f"\n--- {section_id.upper().replace('_', ' ')} SECTION ---")
+                        print(section_text)
+                        print(f"--- END OF {section_id.upper().replace('_', ' ')} ---\n")
+                    else:
+                        print(f"\n--- {section_id.upper().replace('_', ' ')} SECTION ---")
+                        print("Section not found")
+                        print(f"--- END OF {section_id.upper().replace('_', ' ')} ---\n")
+                
+                print(f"{'='*80}")
+                print(f"END OF SECTION CONTENT FOR: {profile_url}")
+                print(f"{'='*80}\n")
+                
+                # Log section content to file as well
+                with open(f"profile_sections_text_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt", 'w', encoding='utf-8') as f:
+                    f.write(f"Profile URL: {profile_url}\n")
+                    f.write(f"Scraped at: {datetime.now().isoformat()}\n")
+                    f.write(f"{'='*80}\n\n")
+                    
+                    for section_id in target_sections:
+                        section_element = profile_content_div.find(attrs={'id': section_id})
+                        if section_element:
+                            section_text = section_element.get_text(separator='\n', strip=True)
+                            f.write(f"--- {section_id.upper().replace('_', ' ')} SECTION ---\n")
+                            f.write(section_text)
+                            f.write(f"\n--- END OF {section_id.upper().replace('_', ' ')} ---\n\n")
+                        else:
+                            f.write(f"--- {section_id.upper().replace('_', ' ')} SECTION ---\n")
+                            f.write("Section not found\n")
+                            f.write(f"--- END OF {section_id.upper().replace('_', ' ')} ---\n\n")
+                
+                # COMMENTED OUT: Full HTML cleaning and display for debugging
+                # # Create a copy to avoid modifying the original
+                # cleaned_profile_div = profile_content_div.__copy__()
+                # 
+                # # Remove footer elements
+                # footers = cleaned_profile_div.find_all('footer', class_='global-footer')
+                # for footer in footers:
+                #     footer.decompose()
+                # 
+                # # Remove everything after "licenses_and_certifications" section
+                # licenses_section = cleaned_profile_div.find('div', {'class': 'pv-profile-card__anchor', 'id': 'licenses_and_certifications'})
+                # if licenses_section:
+                #     # Find all siblings that come after the licenses section
+                #     next_siblings = list(licenses_section.parent.next_siblings) if licenses_section.parent else []
+                #     
+                #     # Remove the licenses section itself and all following siblings
+                #     licenses_section.parent.decompose() if licenses_section.parent else licenses_section.decompose()
+                #     
+                #     # Remove all following siblings
+                #     for sibling in next_siblings:
+                #         if hasattr(sibling, 'decompose'):
+                #             sibling.decompose()
+                # else:
+                #     # Fallback: look for licenses_and_certifications in any element's id
+                #     licenses_elements = cleaned_profile_div.find_all(id='licenses_and_certifications')
+                #     for element in licenses_elements:
+                #         # Remove this element and all its following siblings
+                #         next_siblings = list(element.next_siblings)
+                #         element.decompose()
+                #         for sibling in next_siblings:
+                #             if hasattr(sibling, 'decompose'):
+                #                 sibling.decompose()
+                #         break
+                # 
+                # # Also look for and remove common "suggestions" or "recommendations" sections
+                # suggestion_selectors = [
+                #     'section[data-section="recommendations"]',
+                #     'div[class*="recommendations"]',
+                #     'div[class*="suggestions"]',
+                #     'div[class*="people-also-viewed"]',
+                #     'aside[class*="recommendations"]'
+                # ]
+                # 
+                # for selector in suggestion_selectors:
+                #     elements = cleaned_profile_div.select(selector)
+                #     for element in elements:
+                #         element.decompose()
+                # 
+                # print(f"\n{'='*80}")
+                # print(f"CLEANED PROFILE CONTENT DIV FOR: {profile_url}")
+                # print(f"(Stopped at licenses_and_certifications section)")
+                # print(f"{'='*80}")
+                # print(cleaned_profile_div.prettify())
+                # print(f"{'='*80}")
+                # print(f"END OF CLEANED PROFILE CONTENT DIV FOR: {profile_url}")
+                # print(f"{'='*80}\n")
+                # 
+                # # Log cleaned profile content div to file as well
+                # with open(f"profile_content_cleaned_{datetime.now().strftime('%Y%m%d_%H%M%S')}.html", 'w', encoding='utf-8') as f:
+                #     f.write(f"<!-- Profile URL: {profile_url} -->\n")
+                #     f.write(f"<!-- Scraped at: {datetime.now().isoformat()} -->\n")
+                #     f.write(f"<!-- Cleaned Profile Content Div (Stopped at licenses_and_certifications) -->\n")
+                #     f.write(cleaned_profile_div.prettify())
+            else:
+                print(f"\n{'='*80}")
+                print(f"PROFILE CONTENT DIV NOT FOUND FOR: {profile_url}")
+                print(f"{'='*80}")
+                print("Searching for alternative profile content containers...")
+                
+                # Try alternative selectors
+                alternatives = [
+                    soup.find('div', id='profile-content'),
+                    soup.find('div', class_='pv-profile-body-wrapper'),
+                    soup.find('div', class_='extended tetris'),
+                    soup.find('main', class_='scaffold-layout__main')
+                ]
+                
+                for i, alt in enumerate(alternatives):
+                    if alt:
+                        print(f"Alternative {i+1} found: {alt.name} with classes: {alt.get('class', [])}")
+                        print(f"First 200 chars: {str(alt)[:200]}...")
+                        break
+                else:
+                    print("No alternative profile containers found")
+                print(f"{'='*80}\n")
+            
             profile_data = {
                 'URL': profile_url,
                 'Scraped_At': datetime.now().isoformat(),
@@ -285,20 +434,22 @@ class LinkedInScraper:
                 # Add 10 second delay between requests
                 if i > 1:
                     self.logger.info(f"Waiting 10 seconds before next request...")
-                    time.sleep(10)
+                    time.sleep(random.uniform(10, 14))
                 
                 # Scrape profile
                 profile_data = self.extract_profile_data(url)
                 all_profiles_data.append(profile_data)
                 
-                # Save progress every 5 profiles
-                if i % 5 == 0:
-                    self.save_to_csv(all_profiles_data, f"temp_{output_file}")
-                    self.logger.info(f"Saved progress: {i} profiles completed")
+                # COMMENTED OUT: Save progress every 5 profiles for debugging
+                # if i % 5 == 0:
+                #     self.save_to_csv(all_profiles_data, f"temp_{output_file}")
+                #     self.logger.info(f"Saved progress: {i} profiles completed")
             
-            # Save final results
-            self.save_to_csv(all_profiles_data, output_file)
-            self.logger.info(f"Scraping completed! Results saved to {output_file}")
+            # COMMENTED OUT: Save final results for debugging
+            # self.save_to_csv(all_profiles_data, output_file)
+            # self.logger.info(f"Scraping completed! Results saved to {output_file}")
+            
+            self.logger.info(f"Scraping completed! Processed {len(all_profiles_data)} profiles")
             
         except KeyboardInterrupt:
             self.logger.info("Scraping interrupted by user")
@@ -308,14 +459,15 @@ class LinkedInScraper:
             if self.driver:
                 self.driver.quit()
     
-    def save_to_csv(self, data, filename):
-        """Save scraped data to CSV file"""
-        try:
-            df = pd.DataFrame(data)
-            df.to_csv(filename, index=False)
-            self.logger.info(f"Data saved to {filename}")
-        except Exception as e:
-            self.logger.error(f"Error saving to CSV: {str(e)}")
+    # COMMENTED OUT: CSV saving functionality for debugging
+    # def save_to_csv(self, data, filename):
+    #     """Save scraped data to CSV file"""
+    #     try:
+    #         df = pd.DataFrame(data)
+    #         df.to_csv(filename, index=False)
+    #         self.logger.info(f"Data saved to {filename}")
+    #     except Exception as e:
+    #         self.logger.error(f"Error saving to CSV: {str(e)}")
 
 def main():
     """Main function to run the scraper"""
