@@ -25,3 +25,59 @@
 2025-06-08 16:06:17,556 - INFO - Completed 2/2 profiles
 2025-06-08 16:06:17,557 - INFO - Scraping completed! Summary saved to scraping_summary_20250608_160617.json
 2025-06-08 16:06:17,557 - INFO - Total profiles processed: 2
+2025-06-08 16:19:27,811 - INFO - Attempting to login to LinkedIn...
+2025-06-08 16:19:46,264 - INFO - Successfully logged in to LinkedIn
+2025-06-08 16:19:46,692 - INFO - Loaded 2 LinkedIn URLs from CSV
+2025-06-08 16:19:46,692 - INFO - Processing 1/2: https://www.linkedin.com/in/sharanjm
+2025-06-08 16:19:46,692 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 16:20:04,585 - INFO - Markdown content saved to: profile_markdown_20250608_162004.md
+2025-06-08 16:20:04,586 - INFO - Completed 1/2 profiles
+2025-06-08 16:20:04,586 - INFO - Processing 2/2: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 16:20:04,605 - INFO - Waiting 10.9 seconds before next request...
+2025-06-08 16:20:15,506 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 16:20:36,210 - INFO - Markdown content saved to: profile_markdown_20250608_162036.md
+2025-06-08 16:20:36,212 - INFO - Completed 2/2 profiles
+2025-06-08 16:20:36,224 - INFO - Scraping completed! Summary saved to scraping_summary_20250608_162036.json
+2025-06-08 16:20:36,224 - INFO - Total profiles processed: 2
+2025-06-08 16:29:26,792 - INFO - Attempting to login to LinkedIn...
+2025-06-08 16:29:44,500 - INFO - Successfully logged in to LinkedIn
+2025-06-08 16:29:45,344 - INFO - Loaded 2 LinkedIn URLs from CSV
+2025-06-08 16:29:45,351 - INFO - Processing 1/2: https://www.linkedin.com/in/sharanjm
+2025-06-08 16:29:45,352 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 16:29:57,678 - INFO - Markdown content saved to: Sharan_JM_20250608_162957.md
+2025-06-08 16:29:57,680 - INFO - Completed 1/2 profiles
+2025-06-08 16:29:57,680 - INFO - Processing 2/2: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 16:29:57,681 - INFO - Waiting 12.8 seconds before next request...
+2025-06-08 16:30:10,507 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 16:30:21,905 - INFO - Markdown content saved to: Ponce_Ernest_Samaniego_20250608_163021.md
+2025-06-08 16:30:21,906 - INFO - Completed 2/2 profiles
+2025-06-08 16:30:21,907 - INFO - Scraping completed! Summary saved to scraping_summary_20250608_163021.json
+2025-06-08 16:30:21,907 - INFO - Total profiles processed: 2
+2025-06-08 16:32:15,084 - INFO - Attempting to login to LinkedIn...
+2025-06-08 16:32:26,926 - INFO - Successfully logged in to LinkedIn
+2025-06-08 16:32:26,941 - INFO - Loaded 15 LinkedIn URLs from CSV
+2025-06-08 16:32:26,941 - INFO - Processing 1/15: https://www.linkedin.com/in/addis-olujohungbe/
+2025-06-08 16:32:26,941 - INFO - Scraping profile: https://www.linkedin.com/in/addis-olujohungbe/
+2025-06-08 16:32:37,816 - INFO - Markdown content saved to: Addis_Olujohungbe_20250608_163237.md
+2025-06-08 16:32:37,816 - INFO - Completed 1/15 profiles
+2025-06-08 16:32:37,816 - INFO - Processing 2/15: https://www.linkedin.com/in/sharanjm
+2025-06-08 16:32:37,816 - INFO - Waiting 10.3 seconds before next request...
+2025-06-08 16:32:48,090 - INFO - Scraping profile: https://www.linkedin.com/in/sharanjm
+2025-06-08 16:32:59,406 - INFO - Markdown content saved to: Sharan_JM_20250608_163259.md
+2025-06-08 16:32:59,406 - INFO - Completed 2/15 profiles
+2025-06-08 16:32:59,406 - INFO - Processing 3/15: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 16:32:59,406 - INFO - Waiting 10.9 seconds before next request...
+2025-06-08 16:33:10,308 - INFO - Scraping profile: https://www.linkedin.com/in/poncesamaniego/
+2025-06-08 16:33:20,500 - INFO - Markdown content saved to: Ponce_Ernest_Samaniego_20250608_163320.md
+2025-06-08 16:33:20,500 - INFO - Completed 3/15 profiles
+2025-06-08 16:33:20,500 - INFO - Processing 4/15: https://www.linkedin.com/in/samuel-ler/
+2025-06-08 16:33:20,500 - INFO - Waiting 12.0 seconds before next request...
+2025-06-08 16:33:32,524 - INFO - Scraping profile: https://www.linkedin.com/in/samuel-ler/
+2025-06-08 16:33:43,187 - INFO - Markdown content saved to: Samuel_L_20250608_163342.md
+2025-06-08 16:33:43,187 - INFO - Completed 4/15 profiles
+2025-06-08 16:33:43,188 - INFO - Processing 5/15: https://www.linkedin.com/in/andrew-foley-6ba07779/
+2025-06-08 16:33:43,188 - INFO - Waiting 12.3 seconds before next request...
+2025-06-08 16:33:51,373 - INFO - Scraping interrupted by user
+2025-06-08 16:33:51,413 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108faa550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7120404a9e2d83f422ff26d373d847ec
+2025-06-08 16:33:51,424 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bb98650>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7120404a9e2d83f422ff26d373d847ec
+2025-06-08 16:33:51,439 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a3e67d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7120404a9e2d83f422ff26d373d847ec
