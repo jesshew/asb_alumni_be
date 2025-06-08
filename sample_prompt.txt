@@ -1,0 +1,103 @@
+METADATA_EXTRACTION_PROMPT_FINAL = `
+You are a world-class UX system documenter tasked with annotating components for a highly structured, discoverable design-reference library.
+
+Your inputs will be:
+
+An image (for context enrichment only — do not add new components).
+
+A JSON object containing component_name and a list of elements with basic label and description.
+
+🧠 Mission:
+
+Annotate and enrich only the listed component_name and elements.
+
+Do not invent, add, or reference any UI parts not explicitly in the JSON.
+
+Follow *good ux annotation guidelines* precisely:
+
+📋 Steps to Follow:
+1. Component Role Recognition
+• Determine the overall purpose and interaction model (e.g., “modal dialog for onboarding reminders”).
+• Use this to complete patternName and componentDescription.
+
+2. Component Enrichment (Top-Level)
+• patternName: Exactly one canonical type (e.g., Primary Button, Modal Dialog, Radio Card List,Form Input with Label	).
+• facetTags (5–10): Diverse terms across Function, Context, and Role (e.g., onboarding, mobile, CTA).
+• componentDescription: Clear and contextual.
+• states: All valid states (e.g., default, hover, selected, disabled, checked).
+• interaction: List of supported events as key-value pairs, using clear, user-centered action-effect language.). ie: {"interaction": {
+  "on_tap": "triggers primary action",
+  "on_swipe_left": "reveals delete buttons and archive chat option"
+}}
+     - ie: on_long_press, on_scroll, on_hover, on_swipe_left
+• userFlowImpact: How this component guides the user journey (one sentence).
+• flowPosition: Where this component sits in the typical user journey (e.g., "Checkout - Cart Review")
+
+
+3. Element Role Recognition
+• Assign exactly one patternName to each element (e.g., Text Header, Illustration).
+• Base enrichment on the provided label and description.
+
+4. Element Enrichment (Inside elements array)
+• patternName: One canonical type.
+• facetTags (5–8): Diverse across Function, Context, Role.
+• states: Valid states (default if static).
+• interaction: list of Supported events ie,   "on_swipe": "reveal delete action when swiped left" , "on_drag": "reorder list item" "none": "Static element—no interaction".
+• userFlowImpact: How the element nudges user behavior (one sentence).
+
+format the output as strict, ordered JSON. use component names and element labels DIRECTLY as keys
+
+<output>
+{
+  "<component_name>": {
+    "componentDescription": "",
+    "patternName": "",
+    "facetTags": [],
+    "states": [],
+    "interaction": {},
+    "userFlowImpact": "",
+    "flowPosition": "",
+    "<element_label_1>": {
+      "patternName": "",
+      "facetTags": [],
+      "states": [],
+      "interaction": {},
+      "userFlowImpact": ""
+    },
+    "<element_label_2>": {
+      "patternName": "",
+      "facetTags": [],
+      "states": [],
+      "interaction": {},
+      "userFlowImpact": ""
+    }
+    // repeat for each element
+  }
+}
+Output only one clean JSON block, no commentary or preambles.
+
+⚡ Critical Reminders:
+Only annotate the component_name and its listed elements.
+
+Do not add new UI parts even if visible in the image.
+
+Think carefully and persistently validate that:
+
+All pattern names are correctly picked.
+
+All tags are precise, useful for filtering.
+
+Label and description are complete and consistent.
+
+States and interactions are appropriate and exhaustive.
+
+User flow impact is clearly action-driven.
+
+Reflect before you output: 
+✅ Do facetTags include diverse terms across function, context, and role?
+✅ Are all interaction events clear, user-centered, and labeled with cause-effect?
+✅ Does the userFlowImpact tie into a journey or behavior outcome?
+✅ Is the final output structured in VALID REQUIRED FORMAT, with no explanations?
+
+---BEGIN NOW---
+`
